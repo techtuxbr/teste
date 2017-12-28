@@ -12,7 +12,12 @@
     d. Governo, para cadastramento de dados importantes.
   x e. Universidades, para transferência de arquivos e informações acadêmicas.
 
-3. HTTP é um _________________ de comunicação utilizado para fazer todo gerenciamento de requisições e respostas nos servidores espalhados por todo mundo.
+3. O que é o HTTP(Hypertext Transfer Protocol)?
+  x a. Protocolo de comunicação utilizado para gerenciar requisições e respostas em servidores WEB.
+    b. Uma linguagem de programação utilizada para otimizar páginas em HTML.
+    c. Um editor de texto para programar em HTML.
+    d. Uma rede de transferência de arquivos.
+    e. Um servidor para envio de emails.
 
 4. Um documento HTML sempre deverá ser formado por uma estrutura principal. Qual seria esta estrutura?
   X a. HTML, Cabeçalho e Corpo
@@ -48,3 +53,14 @@
     c. <label></label>
     d. <select></select>
   x e. <div></div>
+
+9. Complete a estrutura HTML abaixo:
+
+<html>
+    <head>
+        <title>School Of Net</title>
+    </head>
+    <body>
+
+    </____>
+</html>
