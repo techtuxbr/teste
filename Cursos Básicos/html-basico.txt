@@ -1,0 +1,50 @@
+1. Qual era o principal objetivo da internet quando ela foi criada nos Estados Unidos?
+    a. Criação de games.
+    b. Resolver problemas de vendas online.
+  x c. Segurança de dados entre computadores, interligados em diferentes regiões, para questões militares.
+    d. Divulgar vídeos em todas as regiões.
+    e. Criação de websites e redes socias.
+
+2. O principal objetivo da web, quando ela foi criada, era facilitar o uso da internet, que até então era um privilégio para poucos. Porém ainda não eram todos que tinham acesso. Qual era o segmento que tinha acesso e qual era o seu principal objetivo?
+    a. Governo, para transferência de arquivos.
+    b. Universidades, para criação de sites.
+    c. Governo, para rastreamento de dados.
+    d. Governo, para cadastramento de dados importantes.
+  x e. Universidades, para transferência de arquivos e informações acadêmicas.
+
+3. HTTP é um _________________ de comunicação utilizado para fazer todo gerenciamento de requisições e respostas nos servidores espalhados por todo mundo.
+
+4. Um documento HTML sempre deverá ser formado por uma estrutura principal. Qual seria esta estrutura?
+  X a. HTML, Cabeçalho e Corpo
+    b. HTML, Cabeçalho e Título
+    c. HTML, Corpo e Título
+    d. Cabeçalho, Título e Corpo
+    e. Apenas HTML e Corpo
+
+5. Qual afirmação está INCORRETA.
+    a. Posso exibir textos, em um documento html, sem a estrutura básica que o navegador conseguirá renderizar.
+    b. Para programar em HTML eu não preciso ter um computador de última geração.
+    c. Posso utilizar qualquer editor de texto para programar, porém é aconselhável utilizar programas com edições de textos puros, para não ter interferência em meu código.
+  x d. Posso nomear arquivos HTML utilizando caracteres especiais e acentos que não terei problema algum ao abrí-los no navegador.
+    e. Toda tag deve ser aberta e fechada para evitar erros em meu código.
+
+6. Tags são marcações, reconhecidas pelos navegadores, onde podemos estruturar nosso documentos HTML. Qual estrutura de tag está totalmente correta, com abertura e fechamento?
+    a. <a Link >
+  x b. <p></p>
+    c. <html><html>
+    d. <div/>
+    e. <img></img>
+
+7. Qual tag devemos utilizar para criar uma navegação?
+    a. <p></p>
+    b. <br>
+  x c. <a href=""></a>
+    d. <i></i>
+    e. <hr>
+
+8. Qual tag abaixo NÃO está relacionada com formulários?
+    a. <input type="text">
+    b. <form></form>
+    c. <label></label>
+    d. <select></select>
+  x e. <div></div>
