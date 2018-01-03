@@ -74,4 +74,100 @@
 
 ***
 
+6. Complete o código abaixo para finalizar a paginação.
+
+	```html
+		<nav>
+	        <ul class="">
+	            <li class="disabled">
+	                <a href="#" aria-label="Previous">
+	                    <span aria-hidden="true">&laquo;</span>
+	                </a>
+	            </li>
+	            <li class="active"><a href="#">1</a></li>
+	            <li><a href="#">2</a></li>
+	            <li><a href="#">3</a></li>
+	            <li><a href="#">4</a></li>
+	            <li><a href="#">5</a></li>
+	            <li>
+	                <a href="#" aria-label="Next">
+	                    <span aria-hidden="true">&raquo;</span>
+	                </a>
+	            </li>
+	        </ul>
+	    </nav>
+	```
+
+	- [x] pagination
+
+***
+
+7. Ao estudar as tabs, do Bootstrap, você aprende a seprar conteúdos de forma mais organizada. De acordo com seus conhecimentos, analise o código abaixo.
+
+	```html
+	<div class="row">
+        <h1>Usage</h1>
+        <ul class="nav nav-tabs">
+            <li><a href="#home" aria-controls="home" data-toggle="tab">Home</a></li>
+            <li><a href="#images" aria-controls="images" data-toggle="tab" >Images</a></li>
+            <li class="active"><a href="#blog" aria-controls="blog" data-toggle="tab" >Blog</a></li>
+        </ul>
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane" id="images">Images</div>
+            <div role="tabpanel" class="tab-pane" id="home">Home</div>
+            <div role="tabpanel" class="tab-pane active" id="blog">Blog</div>
+        </div>
+    </div>
+	```
+
+	Depois de analisar o código, assinale qual conteúdo será mostrado primeiro, quando a página for renderizada pelo navegador.
+
+	- [ ] Home
+	- [ ] Images
+	- [x] Blog
+
+***
+
+8. Quando trabalhamos com modal, precisamos identificar o conteúdo que deverá ser mostrado ao clicar no botão ou no evento que escolher. Esta identificação é necessária, principalmente se houver mais do que um modal, em uma mesma página.
+
+	```html
+		<button type="button" class="btn btn-success btn-lg" data-toggle="modal" data-target="#mymodal">
+            My Modal
+        </button>
+
+        <div class="modal fade" tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title">Modal title</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>One fine body&hellip;</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Save changes</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    ```
+
+    Para que o modal seja acionado, adicione o atributo necessário ao código acima.
+
+    - [x] id="mymodal"
+
+***
+
+9. Utilizando o atributo data-placement, posicione o Popover abaixo do botão.
+
+	```html
+		<button type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-content="Meu Popover">
+       		Popover on click
+        </button>
+    ```
+
+    - [x] data-placement="bottom"
 
