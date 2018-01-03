@@ -84,11 +84,10 @@ resp.: step="20"
 	    <datalist>
 	        <option value="Javascript"></option>
 	        <option value="PHP"></option>
-	        <option value="Java1"></option>
-	        <option value="Java2"></option>
+	        <option value="C#"></option>
+	        <option value="Delphi"></option>
 	        <option value="Java"></option>
-	        <option value="Alura"></option>
-	        <option value="Boll"></option>
+	        <option value="Pascal"></option>
 	        <option value="C++"></option>
 	        <option value="Ruby"></option>
 	        <option value="Python"></option>

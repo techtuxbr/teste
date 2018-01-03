@@ -1,0 +1,117 @@
+1. Dentro de qual tag devemos inserir nosso código css, quando queremos estilizar diretamente no arquivo HTML?
+
+	a. <head></head>
+  x b. <title></title>
+	c. <style></style>
+	d. <body></body>
+	e. Nenhuma das tags acima
+
+2. Dentre todas as tags do HTML, existem duas que NÃO devemos aplicar nenhum estilo com CSS. A maioria dos navegadores não dão suporte a estilização, pois as tags são apenas informativas. Quais são estas tags?
+
+	a. <body></body> e <head></head>
+  x b. <head></head> e <!DOCTYPE html>
+	c. <body></body> e <html></html>
+	d. <a></a> e <p></p>
+	e. <ul></ul> e <li></li>
+
+3. Além de aplicar CSS diretamente às tags, podemos utilizar atributos específicos para estilizar. Quais são estes atributos?
+
+  x a. id e class
+	b. class e href
+	c. class e name
+	d. id e name
+	e. class e alt
+
+4. Qual a diferença entre class e id, quanto ao uso destes atributos?
+
+	a. Não existe nenhuma diferença e podemos utilizar ambos do mesmo jeito.
+	b. O atributo class deve ser único enquanto o id pode ser utilizando quantas vezes forem necessárias.
+	c. Utilizo o id somente para estilizar formulários e a class para estilizar outras tags.
+  x	d. O id deve ser único enquanto a class pode ser utilizada quantas vezes forem necessárias.
+	e. Devo utilizar apenas o id, pois ele tem mais relevância em relação ao atributo class.
+
+5. Analise o código abaixo e depois selecione a alternativa correta.
+
+	<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<meta charset="utf-8">
+			<title></title>
+		</head>
+		<style>
+		    .blue {
+		        color: blue;
+		    }
+		    .red {
+		        color: red;
+		    }
+		    #yellow {
+		        color: yellow;
+		    }
+		</style>
+		<body>
+
+		<p id="yellow" class="blue red">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed tempor incididunt ut labore et dolore magna aliqua.</p>
+
+		</body>
+	</html>
+
+	Qual cor o parágrafo assumirá ao ser renderizado pelo navegador?
+
+	Dica.: Lembre-se da ordem de importância entre class e id e também leve em consideração a ordem em que elas são criadas.
+
+  x	a. Amarelo
+	b. Azul
+	c. Vermelho
+	d. Preto
+
+6. Analise o menu de navegação abaixo:
+
+	<nav>
+        <ul>
+            <li>home</li>
+            <li>sobre</li>
+            <li>produtos</li>
+            <li>contato</li>
+        </ul>
+    </nav>
+
+    Se não aplicarmos nenhum estilo CSS, cada link estará em uma linha diferente. Para que consigamos deixar todos os links em uma mesma linha, preencha o código abaixo:
+
+    <style>
+	    nav ul li {
+	        
+	    }
+	</style>
+
+	Resp.: display: inline-block;
+
+7. No código CSS abaixo temos a estilização de um botão. Complete a estilização adicionando uma borda de 20 pixels.
+
+	.btn {
+	    border-style: solid;
+	    border-top-width: 2px;
+	    border-bottom-width: 4px;
+	    border-left-width: 2px;
+	    border-right-width: 4px;
+	    color: white;
+	    cursor: pointer;
+	    display: inline-block;
+	    margin: 10px;
+	    padding: 10px;
+	    text-decoration: none;
+	}
+
+	Resp.: border-radius: 20px;
+
+8. Qual a forma correta de carregar um arquivo externo, para estilização, em seu arquivo HTML?
+
+	a. <links rel="stylesheet" href="">
+	b. <link rel="stylesheets" href="">
+	c. <link rel="stylesheet" src="">
+  x d. <link rel="stylesheet" href="">
+	e. <link rel="stylesheet" hrefs="">
+
+Dica.: Lembrando que o caminho do arquivo deve ser informado.
+
+
