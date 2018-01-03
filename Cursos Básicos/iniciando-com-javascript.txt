@@ -1,0 +1,133 @@
+1. Qual resposta está CORRETA a respeito da relação entre as linguagens Javascript e Java?
+
+	a. Javascript é uma subdivisão da linguagem Java.
+	b. Javascript é uma melhoria na versão do Java, que estava ultrapassada.
+	c. O Java é uma versão atualizada do Javascript, que não rodava em navegadores.
+	d. O Java e o Javascript são iguais, porém com nomes diferentes.
+  x	e. É um erro comparar as duas linguagens, que são totalmente distintas.
+
+2. O que é a ECMAScript?
+
+ 	a. É a organização que criou o Javascript.
+ 	b. É uma linguagem independente que implementa o Javascript.
+  x	c. É um padrão de desenvolvimento Javascript que consiste em padronizar os sistemas computacionais.
+ 	d. É um compilador de código Javascript.
+
+3. Queremos imprimir uma mensagem na tela do usuário. Portanto complete o código abaixo para que isso seja possível, utilizando Javascript.
+
+ 	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>Document</title>
+	</head>
+	<body>
+		
+		<script>
+			('Hello World from Javascript - School of net')
+		</script>
+	</body>
+	</html>
+
+	Res.: alert
+
+4. Qual variável NÃO está declarada corretamente?
+
+	a. var $lastname
+	b. var lastname
+	c. var lastName
+	d. var last_name
+  x	e. var last-name
+
+5. Qual linha abaixo não será interpretada pelo browser?
+
+ 	a. var lastName = 'Last Name'
+ 	b. var num1 = 5
+ 	c. var num2 = 5
+  x	d. // var soma = num1 + num2
+ 	e. var soma = num1 + num2
+
+6. Qual o valor final da variável "resultado"?
+
+ 	var num1 = 10
+ 	var num2 = 20
+ 	var resultado = 10 + 20 / 10
+
+ 	a. 3
+  x	b. 12
+ 	c. 40
+ 	d. 50
+ 	e. 20
+
+7. Dentre as alternativas abaixo, qual comando representa uma entrada de dados (INPUT) no Javascript?
+
+	a. console.log()
+	b. console.warm()
+	c. alert()
+	d. confirm()
+  x e. prompt()
+
+8. Adicione o operador correto para que o resultado seja verdadeiro(true).
+	
+	<script>
+		var num1 = 10
+        var num2 = '10'
+        
+        var compare = (num1  num2)
+
+        alert(compare)
+	</script>
+
+	Res.: !==
+
+9. Analisando o código abaixo, assinale a resposta correta do output gerado no console do browser.
+
+	<script>
+        var option = '15'
+        
+        switch (option) {
+            case 15:
+                console.log('Case 1')
+            break;
+            case '15':
+                console.log('Case 2')
+            break;
+            case '':
+                console.log('Case 3')
+            break;
+            default:
+                console.error('Default') 
+            break;         
+        }      
+    </script>
+
+    a. 'Case 1'
+  x b. 'Case 2'
+    c. 'Case 3'
+    d. 'Default'
+
+10. Altere o valor da variável NUM2, da função soma abaixo, para que o resultado do console seja zero.
+
+	<script>
+        var soma = function(){
+            var num1 = 10
+            var num2 = 5
+            console.log(num1 + num2)
+        }     
+
+        soma()
+    </script>
+
+    Res.: -10
+
+11. Altere a estrutura de repetição FOR, abaixo, para que tenhamos 20 iterações.
+
+	<script>
+		for(var i = 5; i < 15; i++) {
+			console.log(i)
+		}		
+	</script>
+
+	Res.: for(var i = 0; i < 20; i++)
