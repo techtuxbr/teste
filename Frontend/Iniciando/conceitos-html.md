@@ -1,12 +1,12 @@
 # Questões
 
-[Question 1](#qual-o-primeiro-curso-indicado-à-uma-pessoa-que-quer-começar-uma-carreira-de-tecnologia-na-web)
-[Question 2](#qual-era-o-principal-objetivo-da-internet-quando-ela-foi-criada-nos-estados-unidos)
-[Question 3](#em-1992-tim-berners-lee-criou-a-webworld-wide-web-qual-era-o-principal-objetivo-da-web)
+[Question 1](#1-qual-o-primeiro-curso-indicado-à-uma-pessoa-que-quer-começar-uma-carreira-de-tecnologia-na-web)
+[Question 2](#2-qual-era-o-principal-objetivo-da-internet-quando-ela-foi-criada-nos-estados-unidos)
+[Question 3](#3-em-1992-tim-berners-lee-criou-a-webworld-wide-web-qual-era-o-principal-objetivo-da-web)
 
 ***
 
-### Qual o primeiro curso indicado à uma pessoa que quer começar uma carreira de tecnologia na web?
+### 1 - Qual o primeiro curso indicado à uma pessoa que quer começar uma carreira de tecnologia na web?
 
 - [ ] Javascript
 - [x] HTML
@@ -18,7 +18,7 @@
 
 ***
 
-### Qual era o principal objetivo da internet quando ela foi criada nos Estados Unidos?
+### 2 - Qual era o principal objetivo da internet quando ela foi criada nos Estados Unidos?
 
 - [ ] Criação de games.
 - [ ] Divulgar vídeos e notícias, para o mundo todo.
@@ -30,7 +30,7 @@
 
 ***
 
-### Em 1992 Tim Berners-Lee criou a Web(World Wide Web). Qual era o principal objetivo da Web?
+### 3 - Em 1992 Tim Berners-Lee criou a Web(World Wide Web). Qual era o principal objetivo da Web?
 
 - [ ] Transferência de arquivos.
 - [ ] Criação de sites para venda online.
