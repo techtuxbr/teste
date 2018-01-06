@@ -1,8 +1,8 @@
 # Questões
 
-[Question 1](#1-qual-o-primeiro-curso-indicado-à-uma-pessoa-que-quer-começar-uma-carreira-de-tecnologia-na-web)
-[Question 2](#2-qual-era-o-principal-objetivo-da-internet-quando-ela-foi-criada-nos-estados-unidos)
-[Question 3](#3-em-1992-tim-berners-lee-criou-a-webworld-wide-web-qual-era-o-principal-objetivo-da-web)
+[Question 1](#1-qual-o-primeiro-curso-indicado-à-uma-pessoa-que-quer-começar-uma-carreira-de-tecnologia-na-web) | 
+[Question 2](#2-qual-era-o-principal-objetivo-da-internet-quando-ela-foi-criada-nos-estados-unidos) | 
+[Question 3](#3-em-1992-tim-berners-lee-criou-a-webworld-wide-web-qual-era-o-principal-objetivo-da-web) |
 
 ***
 
