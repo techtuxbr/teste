@@ -6,7 +6,7 @@
 
 ***
 
-### 1 - Qual o primeiro curso indicado à uma pessoa que quer começar uma carreira de tecnologia na web?
+### 1 Qual o primeiro curso indicado à uma pessoa que quer começar uma carreira de tecnologia na web?
 
 - [ ] Javascript
 - [x] HTML
@@ -18,7 +18,7 @@
 
 ***
 
-### 2 - Qual era o principal objetivo da internet quando ela foi criada nos Estados Unidos?
+### 2 Qual era o principal objetivo da internet quando ela foi criada nos Estados Unidos?
 
 - [ ] Criação de games.
 - [ ] Divulgar vídeos e notícias, para o mundo todo.
@@ -30,7 +30,7 @@
 
 ***
 
-### 3 - Em 1992 Tim Berners-Lee criou a Web(World Wide Web). Qual era o principal objetivo da Web?
+### 3 Em 1992 Tim Berners-Lee criou a Web(World Wide Web). Qual era o principal objetivo da Web?
 
 - [ ] Transferência de arquivos.
 - [ ] Criação de sites para venda online.
