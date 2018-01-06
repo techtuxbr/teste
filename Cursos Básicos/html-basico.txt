@@ -1,37 +1,8 @@
-1. Qual era o principal objetivo da internet quando ela foi criada nos Estados Unidos?
-    a. Criação de games.
-    b. Resolver problemas de vendas online.
-  x c. Segurança de dados entre computadores, interligados em diferentes regiões, para questões militares.
-    d. Divulgar vídeos em todas as regiões.
-    e. Criação de websites e redes socias.
 
-2. O principal objetivo da web, quando ela foi criada, era facilitar o uso da internet, que até então era um privilégio para poucos. Porém ainda não eram todos que tinham acesso. Qual era o segmento que tinha acesso e qual era o seu principal objetivo?
-    a. Governo, para transferência de arquivos.
-    b. Universidades, para criação de sites.
-    c. Governo, para rastreamento de dados.
-    d. Governo, para cadastramento de dados importantes.
-  x e. Universidades, para transferência de arquivos e informações acadêmicas.
 
-3. O que é o HTTP(Hypertext Transfer Protocol)?
-  x a. Protocolo de comunicação utilizado para gerenciar requisições e respostas em servidores WEB.
-    b. Uma linguagem de programação utilizada para otimizar páginas em HTML.
-    c. Um editor de texto para programar em HTML.
-    d. Uma rede de transferência de arquivos.
-    e. Um servidor para envio de emails.
 
-4. Um documento HTML sempre deverá ser formado por uma estrutura principal. Qual seria esta estrutura?
-  X a. HTML, Cabeçalho e Corpo
-    b. HTML, Cabeçalho e Título
-    c. HTML, Corpo e Título
-    d. Cabeçalho, Título e Corpo
-    e. Apenas HTML e Corpo
 
-5. Qual afirmação está INCORRETA.
-    a. Posso exibir textos, em um documento html, sem a estrutura básica que o navegador conseguirá renderizar.
-    b. Para programar em HTML eu não preciso ter um computador de última geração.
-    c. Posso utilizar qualquer editor de texto para programar, porém é aconselhável utilizar programas com edições de textos puros, para não ter interferência em meu código.
-  x d. Posso nomear arquivos HTML utilizando caracteres especiais e acentos que não terei problema algum ao abrí-los no navegador.
-    e. Toda tag deve ser aberta e fechada para evitar erros em meu código.
+
 
 6. Tags são marcações, reconhecidas pelos navegadores, onde podemos estruturar nosso documentos HTML. Qual estrutura de tag está totalmente correta, com abertura e fechamento?
     a. <a Link >
@@ -54,16 +25,7 @@
     d. <select></select>
   x e. <div></div>
 
-9. Complete a estrutura HTML abaixo:
 
-<html>
-    <head>
-        <title>School Of Net</title>
-    </head>
-    <body>
-
-    </____>
-</html>
 
 https://github.com/schoolofnetcom/son-questions/blob/master/Frontend/Iniciando/conceitos-html.md#em-1992-tim-berners-lee-criou-a-web-world-wide-web-qual-era-o-principal-objetivo-da-web
 
