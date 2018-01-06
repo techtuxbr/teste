@@ -4,7 +4,7 @@
 [Question 2](#2-qual-era-o-principal-objetivo-da-internet-quando-ela-foi-criada-nos-estados-unidos) | 
 [Question 3](#3-em-1992-tim-berners-lee-criou-a-webworld-wide-web-qual-era-o-principal-objetivo-da-web) |
 [Question 4](#4-o-que-é-o-http-hypertext-transfer-protocol) |
-[Question 5](#5-servidor-é-uma-máquina-geralmente-online-que-fica-esperando-requisições-geralmente-via-http-para-retornar-uma-resposta.-esta-afirmação-é-verdadeira-ou-falsa) |
+[Question 5](#5-servidor-é-uma-máquina-geralmente-online-que-fica-esperando-requisições-geralmente-via-http-para-retornar-uma-resposta-esta-afirmação-é-verdadeira-ou-falsa) |
 
 ***
 
@@ -44,7 +44,7 @@
 
 ***
 
-### 4 O que é o HTTP (Hypertext Transfer Protocol) ?
+### 4 O que é o HTTP (Hypertext Transfer Protocol)?
 
 - [x] Protocolo de comunicação utilizado para gerenciar requisições e respostas em servidores WEB.
 - [ ] Uma linguagem de programação utilizada para otimizar páginas em HTML.
