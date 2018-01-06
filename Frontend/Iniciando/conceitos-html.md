@@ -107,6 +107,6 @@
 
 **Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6357>
 
-> Resp: </body>
+> Resp: `</body>`
 
 ***
