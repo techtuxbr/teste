@@ -4,8 +4,8 @@
 [Question 2](#2-analise-o-código-abaixo) | 
 [Question 3](#3-qual-a-única-estrutura-abaixo-que-está-totalmente-correta) |
 [Question 4](#4-qual-dos-títulos-abaixo-tem-o-maior-tamanho-e-destaque) |
-[Question 5](#5-servidor-é-uma-máquina-geralmente-online-que-fica-esperando-requisições-geralmente-via-http-para-retornar-uma-resposta-esta-afirmação-é-verdadeira-ou-falsa) |
-[Question 6](#6-um-documento-html-sempre-deverá-ser-formado-por-uma-estrutura-principal-qual-seria-esta-estrutura) |
+[Question 5](#5-qual-a-forma-correta-da-tag-de-centralização-no-html) |
+[Question 6](#6-qual-a-forma-correta-da-tag-de-quebra-de-linha-no-html) |
 [Question 7](#7-o-que-nÃo-é-possível-fazer-com-o-html-5) |
 [Question 8](#8-a-estrutura-html-abaixo-possui-um-erro-corrija-a-estrutura-preenchendo-o-valor-faltante) |
 
@@ -19,7 +19,8 @@
 - [ ] `<p><p/>`
 - [ ] `</p></p>`
 
-**Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6358>
+* **Dica:**
+    - <https://www.schoolofnet.com/curso-html-basico-v2/6358>
 
 ****
 
@@ -58,7 +59,6 @@ Qual o comportamento da palavra **chave** no código acima?
 - [x] `<h2>Título h3</h2>`
 - [ ] `<h4/>Título h4</h4>`
 - [ ] `<h>Título h</h>`
-- [ ] `<h6/>Título h6<h6>`
 
 **Dica:**
 
@@ -67,7 +67,7 @@ Qual o comportamento da palavra **chave** no código acima?
 
 ***
 
-### 4 Qual dos títulos abaixo tem o maior tamanho e destaque?
+### 4 Qual dos títulos abaixo tem maior tamanho e destaque?
 
 - [x] `<h1>Título</h1>`
 - [ ] `<h2>Título</h2>`
@@ -76,9 +76,29 @@ Qual o comportamento da palavra **chave** no código acima?
 - [ ] `<h5>Título</h5>`
 - [ ] `<h6>Título</h6>`
     
-1. <https://www.schoolofnet.com/curso-html-basico-v2/6359>
+**Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6359>
 
 *** 
     
-    
+### 5 Qual a forma correta da tag de centralização no HTML?
+
+- [ ] `<c></c>`
+- [ ] `<center><center>`
+- [ ] `<body></body>`
+- [ ] `<p><p/>`
+- [x] `<center></center>`
+
+**Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6360>
+
+***
+
+### 6 Qual a forma correta da tag de quebra de linha no HTML?
+
+- [x] `<br/>`
+- [ ] `<a/>`
+- [ ] `<br></br>`
+- [ ] `<p/>`
+- [ ] `<ln></ln>`
+
+**Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6360>
     
