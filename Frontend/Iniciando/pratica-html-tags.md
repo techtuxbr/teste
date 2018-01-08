@@ -3,11 +3,14 @@
 [Question 1](#1-qual-a-forma-correta-da-tag-de-parágrafo-no-html) | 
 [Question 2](#2-analise-o-código-abaixo) | 
 [Question 3](#3-qual-a-única-estrutura-abaixo-que-está-totalmente-correta) |
-[Question 4](#4-qual-dos-títulos-abaixo-tem-o-maior-tamanho-e-destaque) |
+[Question 4](#4-qual-dos-títulos-abaixo-tem-maior-tamanho-e-destaque) |
 [Question 5](#5-qual-a-forma-correta-da-tag-de-centralização-no-html) |
 [Question 6](#6-qual-a-forma-correta-da-tag-de-quebra-de-linha-no-html) |
-[Question 7](#7-o-que-nÃo-é-possível-fazer-com-o-html-5) |
-[Question 8](#8-a-estrutura-html-abaixo-possui-um-erro-corrija-a-estrutura-preenchendo-o-valor-faltante) |
+[Question 7](#7-analise-o-código-abaixo) |
+[Question 8](#8-qual-alternativa-abaixo-está-correta-em-relação-às-tags-de-listagem-ul-e-ol) |
+[Question 9](#9-qual-é-o-nome-dado-às-configurações-de-uma-determinada-tag) |
+[Question 10](#10-analise-o-código-abaixo-e-corrija-se-houver-elementos-faltantes) |
+[Question 11](#11-adicione-borda-à-estrutura-de-tabela-abaixo-utilizando-atributos) |
 
 ***
 
@@ -105,3 +108,124 @@ Qual o comportamento da palavra **chave** no código acima?
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6360>
     
+***
+
+### 7 Analise o código abaixo:
+
+```html
+    <ul>
+        <li>
+            <center>
+                <h3>Título</h3>
+                <p>Meu parágrafo centralizado</p>
+            </center>
+        </li>
+        <li>Segundo item
+            <ul>
+                <li>Sub item</li>
+                <li>Sub Item</li>
+            </ul>
+        </li>
+    </ul>
+```
+
+Depois de analisar o código, podemos afirmar que é possível combinar as tags acima? Marque verdadeiro ou falso:
+
+- [x] Verdadeiro
+- [ ] Falso
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6361>
+
+***
+
+### 8 Qual alternativa abaixo está CORRETA, em relação às tags de listagem ul e ol?
+
+- [ ] Nenhuma, ambas tem comportamentos idênticos.
+- [ ] A tag ul lista apenas parágrafos enquanto a tag ol pode listar qualquer conteúdo.
+- [ ] Ambas são iguais, porém a tag ol só pode ser utilizada dentro de uma tag ul.
+- [x] Ambas tem comportamentos parecidos de listagem, porém a tag ul visa listar tópicos não ordenados e a tag ol lista tópicos ordenados.
+- [ ] A tag ul lista apenas elementos repetidos e ol apenas elementos diferentes.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6361>
+
+***
+
+### 9 Qual é o nome dado às configurações de uma determinada tag?
+
+- [ ] Config 
+- [x] Atributos
+- [ ] Details
+- [ ] Identificadores
+- [ ] Classes
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6362>
+    
+***
+
+### 10 Analise o código abaixo, e corrija se houver elementos faltantes?
+
+```html
+<table>
+    <thead>
+    <tr>
+        <th>Nome</th>
+        <th>Idade</th>
+        <th>Sexo</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Luiz</td>
+        <td>
+            <center>25</center>
+        </td>
+        <td>Masculino</td>
+        <td>Regina</td>
+        <td>
+            <center>28</center>
+        </td>
+        <td>Feminino</td>
+    </tr>
+    </tbody>
+</table>
+```
+
+- [x] `</tr><tr>` 
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6362>
+    2. Caso encontre mais do que um erro, digite todos seguidos na resposta.
+    
+***
+
+### 11 Adicione borda à estrutura de tabela abaixo, utilizando atributos.
+
+```html
+<table>
+    <thead>
+        <tr>
+            <th>Título 1</th>
+            <th>Título 2</th>
+            <th>Título 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Dado 1</td>
+            <td>Dado 2</td>
+            <td>Dado 3</td>
+        </tr>
+    </tbody>
+</table>
+```
+
+- [x] `<table border="1">` 
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6362>
+    2. Caso encontre mais do que um erro, digite todos seguidos na resposta.
+    
+***
