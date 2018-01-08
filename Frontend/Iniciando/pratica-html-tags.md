@@ -61,10 +61,9 @@ Qual o comportamento da palavra **chave** no código acima?
 - [ ] `<h4/>Título h4</h4>`
 - [ ] `<h>Título h</h>`
 
-**Dica:**
-
-1. <https://www.schoolofnet.com/curso-html-basico-v2/6359>
-2. Lembre-se que o valor que está dentro da tag não importa, o que importa realmente é a estrutura correta, com abertura e fechamento.
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6359>
+    2. Lembre-se que o valor que está dentro da tag não importa, o que importa realmente é a estrutura correta, com abertura e fechamento.
 
 ***
 
