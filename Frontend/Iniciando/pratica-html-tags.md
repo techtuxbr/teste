@@ -20,7 +20,7 @@
 - [ ] `</p></p>`
 
 * **Dica:**
-    - <https://www.schoolofnet.com/curso-html-basico-v2/6358>
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6358>
 
 ****
 
@@ -48,7 +48,8 @@ Qual o comportamento da palavra **chave** no código acima?
 - [ ] Ficará na mesma linha que "palavra", mas virá antes
 - [ ] Não aparecerá porque está dentro de outra tag de parágrafo
 
-**Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6358>
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6358>
 
 ***
 
@@ -76,7 +77,8 @@ Qual o comportamento da palavra **chave** no código acima?
 - [ ] `<h5>Título</h5>`
 - [ ] `<h6>Título</h6>`
     
-**Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6359>
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6359>
 
 *** 
     
@@ -88,7 +90,8 @@ Qual o comportamento da palavra **chave** no código acima?
 - [ ] `<p><p/>`
 - [x] `<center></center>`
 
-**Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6360>
+* **Dica:**
+    1.<https://www.schoolofnet.com/curso-html-basico-v2/6360>
 
 ***
 
@@ -100,5 +103,6 @@ Qual o comportamento da palavra **chave** no código acima?
 - [ ] `<p/>`
 - [ ] `<ln></ln>`
 
-**Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6360>
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6360>
     
