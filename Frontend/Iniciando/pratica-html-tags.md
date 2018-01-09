@@ -196,7 +196,7 @@ Depois de analisar o código, podemos afirmar que é possível combinar as tags 
 </table>
 ```
 
-- [x] `</tr><tr>` 
+Resp.: `</tr><tr>` 
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6362>
@@ -225,7 +225,7 @@ Depois de analisar o código, podemos afirmar que é possível combinar as tags 
 </table>
 ```
 
-- [x] `<table border="1">` 
+Resp.: `<table border="1">` 
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6362>
@@ -285,7 +285,7 @@ Selecione a opção que contenha a cor do background da página, em geral, a cor
 </html>
 ```
 
-- [ ] `target="_blank"`
+Resp.: `target="_blank"`
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6364>
