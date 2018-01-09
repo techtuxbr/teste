@@ -12,6 +12,8 @@
 [Question 10](#10-analise-o-código-abaixo-e-corrija-se-houver-elementos-faltantes) |
 [Question 11](#11-adicione-borda-à-estrutura-de-tabela-abaixo-utilizando-atributos) |
 [Question 12](#12-analisando-o-código-abaixo-selecione-a-alternativa-correta) |
+[Question 13](#13-com-a-tag-a-nós-podemos) |
+[Question 14](#14-adicione-o-atributo-necessário-para-que-o-link-seja-aberto-em-uma-nova-janela) |
 
 ***
 
@@ -255,5 +257,37 @@ Selecione a opção que contenha a cor do background da página, em geral, a cor
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6363>
     2. Lembre-se que todo estilo configurado para a tag body terá efeito sobre todo conteúdo da página, porém existem certas características de dominância local para estilização em atributos.
+    
+***
+
+### 13 Com a tag a nós podemos:
+
+- [ ] Disponibilizar download e criar um parágrafo estilizado com underline.
+- [x] Disponibilizar download e criar links de navegação para outras páginas.
+- [ ] Criar uma listagem ordenada de downloads.
+- [ ] Quebrar a linha com um texto, parecido com a tag br.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6364>
+    
+***
+
+### 14 Adicione o atributo necessário para que o link seja aberto em uma nova janela:
+
+```html
+<html>
+<head>
+    <title>School of Net</title>
+</head>
+<body>
+    <a href="http://trinityweb.com.br">Link</a>
+</body>
+</html>
+```
+
+- [ ] `target="_blank"`
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6364>
     
 ***
