@@ -14,6 +14,8 @@
 [Question 12](#12-analisando-o-código-abaixo-selecione-a-alternativa-correta) |
 [Question 13](#13-com-a-tag-a-nós-podemos) |
 [Question 14](#14-adicione-o-atributo-necessário-para-que-o-link-seja-aberto-em-uma-nova-janela) |
+[Question 15](#15-para-que-a-navegação-de-um-sistema-seja-fluente-e-concreta-em-qualquer-ambiente-temos-que-trabalhar-com-os-links-de-forma) |
+[Question 16](#16-qual-a-estrutura-correta-de-uma-tag-de-imagem) |
 
 ***
 
@@ -280,7 +282,7 @@ Selecione a opção que contenha a cor do background da página, em geral, a cor
     <title>School of Net</title>
 </head>
 <body>
-    <a href="http://trinityweb.com.br">Link</a>
+    <a href="https://www.schoolofnet.com">School Of Net</a>
 </body>
 </html>
 ```
@@ -290,4 +292,29 @@ Resp.: `target="_blank"`
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6364>
     
+***
+
+### 15 Para que a navegação de um sistema seja fluente e concreta, em qualquer ambiente, temos que trabalhar com os links de forma:
+
+- [ ] Relacional
+- [ ] Absoluta
+- [ ] Incremental
+- [x] Relativa
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6365>
+
+***
+
+### 16 Qual a estrutura correta de uma tag de imagem?
+
+- [ ] `<img src=""></img>`
+- [x] `<img src=""/>`
+- [ ] `<img href=""></img>`
+- [ ] `<img href=""/>`
+- [ ] `<img src=""/></img>`
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6366>
+
 ***
