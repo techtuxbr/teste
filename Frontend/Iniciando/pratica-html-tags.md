@@ -11,6 +11,7 @@
 [Question 9](#9-qual-é-o-nome-dado-às-configurações-de-uma-determinada-tag) |
 [Question 10](#10-analise-o-código-abaixo-e-corrija-se-houver-elementos-faltantes) |
 [Question 11](#11-adicione-borda-à-estrutura-de-tabela-abaixo-utilizando-atributos) |
+[Question 12](#12-analisando-o-código-abaixo-selecione-a-alternativa-correta) |
 
 ***
 
@@ -226,6 +227,33 @@ Depois de analisar o código, podemos afirmar que é possível combinar as tags 
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6362>
-    2. Caso encontre mais do que um erro, digite todos seguidos na resposta.
+    
+***
+
+### 12 Analisando o código abaixo selecione a alternativa correta.
+
+```html
+<html>
+<head>
+    <title>School of Net</title>
+</head>
+<body style="background-color: blue; font-size: 72px; color: purple">
+    <h1>Meu título</h1>
+    <p style="background-color: white; color: black">Meu parágrafo</p>
+</body>
+</html>
+```
+
+Selecione a opção que contenha a cor do background da página, em geral, a cor da tag h1, a cor do background da tag p e também a cor da fonta para tag p, nesta mesma sequência:
+
+- [ ] blue, purple, white e purple  
+- [ ] white, black, blue e black   
+- [x] blue, purple, white e black   
+- [ ] blue, black, purple e purple   
+- [ ] blue, purple, blue e purple   
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-html-basico-v2/6363>
+    2. Lembre-se que todo estilo configurado para a tag body terá efeito sobre todo conteúdo da página, porém existem certas características de dominância local para estilização em atributos.
     
 ***
