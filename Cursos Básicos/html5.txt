@@ -1,16 +1,4 @@
 
 
 
-8. Para conseguir alterar o método do formulário, diretamente no botão de submissão, qual atributo devemos utilizar?
-	a. formnovalidate
-	b. form_method=""
-	c. methodform=""
-  x d. formmethod=""
-	e. altermethod=""
 
-9. Qual a principal objetivo ao usar o atributo autofocus no formulário?
-	a. Preencher o campo automaticamente.
-	b. Guardar dados anteriores para auto completar.
-	c. Dar zoom no campo para destacar informação.
-  x d. Deixar o campo selecionado, automaticamente, para preenchimento, no carregamento da página.
-	e. O autofocus tem apenas caráter semântico e não influencia no formulário.

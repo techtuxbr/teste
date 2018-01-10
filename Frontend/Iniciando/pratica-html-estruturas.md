@@ -27,9 +27,9 @@
 [13]:#13-no-código-abaixo-temos-uma-listagem-com-html5-adicione-o-código-faltante-para-que-o-autocomplete-funcione-corretamente-durante-a-listagem 
 [14]:#14-analise-o-código-abaixo-e-marque-a-alternativa-correta 
 [15]:#15-caso-seja-necessário-desabilitar-o-autocomplete-de-um-formulário-inteiro-onde-iremos-adicionar-a-configuração-autocompleteoff
-[16]:# 
-[17]:# 
-[18]:# 
+[16]:#16-qual-atributo-faz-com-que-qualquer-validação-nativa-do-html-seja-anulada-em-formulários 
+[17]:#17-qual-a-principal-objetivo-ao-usar-o-atributo-autofocus-no-formulário 
+[18]:#18-para-conseguir-alterar-o-método-do-formulário-diretamente-no-botão-de-submissão-qual-atributo-devemos-utilizar 
 
 ***
 
@@ -355,14 +355,53 @@ No código acima, qual tag é responsável por imprimir os dados na tela? Qual a
 ### 15 Caso seja necessário desabilitar o autocomplete de um formulário inteiro, onde iremos adicionar a configuração "autocomplete='off'"?
 
 - [ ] Em todos os campos existentes 
+- [x] Na tag form 
 - [ ] Somente no botão de submissão 
 - [ ] Em nenhuma tag, pois só podemos fazer isso utilizando javascript 
 - [ ] Só podemos desabilitar o autocomplete para campos de email 
-- [x] Na tag form 
 
 * **Dica:**
      1. <https://www.schoolofnet.com/curso-html5/79>
 
 ***
 
-https://github.com/schoolofnetcom/son-questions/blob/master/Frontend/Iniciando/pratica-html-estruturas.md#10-quando-trabalhando-com-campos-do-tipo-n%C3%BAmero-ou-range-%C3%A9-comum-utilizarmos-alguns-atributos-selecione-a-alternativa-que-possui-atributos-inexistentes-para-estes-campos
+### 16 Qual atributo faz com que qualquer validação nativa do HTML seja anulada em formulários?
+
+- [ ] nofilter
+- [ ] filteroff
+- [ ] offvalidator
+- [ ] novalidator
+- [x] novalidate
+
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/80>
+     
+***
+
+### 17 Qual a principal objetivo ao usar o atributo autofocus no formulário?
+
+- [ ] Preencher o campo automaticamente.
+- [ ] Guardar dados anteriores para auto completar.
+- [ ] Dar zoom no campo para destacar informação.
+- [x] Deixar o campo selecionado, automaticamente, para preenchimento, no carregamento da página.
+- [ ] O autofocus tem apenas caráter semântico e não influencia no formulário.
+
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/80>
+     
+***
+
+### 18 Para conseguir alterar o método do formulário, diretamente no botão de submissão, qual atributo devemos utilizar?
+
+- [ ] `formnovalidate`
+- [ ] `form_method=""`
+- [ ] `methodform=""`
+- [x] `formmethod=""`
+- [ ] `altermethod=""`
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/81>
+     
+***
