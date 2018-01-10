@@ -20,13 +20,13 @@
 [6]:#6-qual-tag-deve-ser-utilizada-para-a-criação-de-menus-de-navegação 
 [7]:#7-analise-o-código-abaixo-e-depois-marque-verdadeiro-ou-falso 
 [8]:#8-marque-a-alternativa-correta-em-relação-ao-código-abaixo 
-[9]:#9-analisando-o-código-abaixo-marque-a-alternativa-correta 
+[9]:#9-analise-o-código-abaixo-e-marque-a-alternativa-correta 
 [10]:#10-quando-trabalhando-com-campos-do-tipo-número-ou-range-é-comum-utilizarmos-alguns-atributos-selecione-a-alternativa-que-nÃo-possui-todos-os-atributos-corretos 
 [11]:#11-no-código-abaixo-temos-uma-barra-numérica-para-que-o-usuário-possa-escolher-um-valor-de-0-a-100-adicione-o-atributo-necessário-na-tag-input-para-que-o-range-seja-alterado-de-20-em-20 
 [12]:#12-caso-queiramos-liberar-um-botão-para-que-o-usuário-possa-apagar-todo-texto-digitado-qual-o-tipo-de-input-que-devemos-utilizar 
 [13]:#13-no-código-abaixo-temos-uma-listagem-com-html5-adicione-o-código-faltante-para-que-o-autocomplete-funcione-corretamente-durante-a-listagem 
-[14]:# 
-[15]:#
+[14]:#14-analise-o-código-abaixo-e-marque-a-alternativa-correta 
+[15]:#15-caso-seja-necessário-desabilitar-o-autocomplete-de-um-formulário-inteiro-onde-iremos-adicionar-a-configuração-
 [16]:# 
 [17]:# 
 [18]:# 
@@ -208,7 +208,7 @@ A frase acima é verdadeira ou falsa?
 
 ***
 
-### 9 Analisando o código abaixo marque a alternativa correta.
+### 9 Analise o código abaixo e marque a alternativa correta.
 
 ```html
 <section>
@@ -323,4 +323,45 @@ resp.: `step="20"`
 Res.: `id="codes"`
 
 *** 
+
+### 14 Analise o código abaixo e marque a alternativa correta.
+
+```html
+<form oninput="x.value=parseInt(a.value) + parseInt(b.value),y.value =parseInt(a.value)">
+    0
+    <input type="range" id="a" name="a" value="50" min="0" max="100">
+    100
+    +
+    <input type="text" name="b" value="0">
+    =
+    <output name="x"></output>
+    <output name="y"></output>
+</form>
+```
+
+No código acima, qual tag é responsável por imprimir os dados na tela? Qual atributo é responsável por calcular os valores? Marque a alternativa correta seguindo a sequência das perguntas.
+
+- [ ] input e output
+- [ ] input e oninput
+- [ ] input e parseInt
+- [x] output e oninput
+- [ ] output e parseInt
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/78>
+
+***
+
+### 15 Caso seja necessário desabilitar o autocomplete de um formulário inteiro, onde iremos adicionar a configuração "autocomplete='off'"?
+
+- [ ] Em todos os campos existentes 
+- [ ] Somente no botão de submissão 
+- [ ] Em nenhuma tag, pois só podemos fazer isso utilizando javascript 
+- [ ] Só podemos desabilitar o autocomplete para campos de email 
+- [x] Na tag form 
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/79>
+
+***
 
