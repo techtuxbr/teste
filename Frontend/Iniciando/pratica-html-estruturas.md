@@ -19,12 +19,12 @@
 [5]:#5-analise-o-código-abaixo 
 [6]:#6-qual-tag-deve-ser-utilizada-para-a-criação-de-menus-de-navegação 
 [7]:#7-analise-o-código-abaixo-e-depois-marque-verdadeiro-ou-falso 
-[8]:# 
-[9]:# 
-[10]:# 
-[11]:# 
-[12]:# 
-[13]:# 
+[8]:#8-marque-a-alternativa-correta-em-relação-ao-código-abaixo 
+[9]:#9-analisando-o-código-abaixo-marque-a-alternativa-correta 
+[10]:#10-quando-trabalhando-com-campos-do-tipo-número-ou-range-é-comum-utilizarmos-alguns-atributos-selecione-a-alternativa-que-nÃo-possui-todos-os-atributos-corretos 
+[11]:#11-no-código-abaixo-temos-uma-barra-numérica-para-que-o-usuário-possa-escolher-um-valor-de-0-a-100-adicione-o-atributo-necessário-na-tag-input-para-que-o-range-seja-alterado-de-20-em-20 
+[12]:#12-caso-queiramos-liberar-um-botão-para-que-o-usuário-possa-apagar-todo-texto-digitado-qual-o-tipo-de-input-que-devemos-utilizar 
+[13]:#13-no-código-abaixo-temos-uma-listagem-com-html5-adicione-o-código-faltante-para-que-o-autocomplete-funcione-corretamente-durante-a-listagem 
 [14]:# 
 [15]:#
 [16]:# 
@@ -187,4 +187,140 @@ A frase acima é verdadeira ou falsa?
      1. <https://www.schoolofnet.com/curso-html5/72>
      
 ***
+
+### 8 Marque a alternativa correta em relação ao código abaixo.
+
+```html
+<figure>
+    <img src="img/figure.jpg" alt="Description of the Figure">
+    <figcaption>Description of the Figure</figcaption>
+</figure>
+```
+
+- [ ] O fato de adicionar a tag figcaption e o atributo alt não influenciam em nada o seu código, portanto não há a necessidade de adicionar estes elementos.
+- [x] O atributo alt e a tag figcaption são muito importantes para que os novos sistemas reconheçam tais elementos para a inclusão digital. Desta forma pessoas com deficiência visual poderiam ouvir algo a respeito da imagem.
+- [ ] A tag figure não existe no HTML5.
+- [ ] Os novos desenvolvedores não devem se importar com as novas tags do HTML5.
+- [ ] Podemos utilizar a tag div, para envolver a tag img, e adicionar um parágrafo substituindo a tag figcaption que teremos o mesmo efeito e a mesma semântica. 
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/73>
+
+***
+
+### 9 Analisando o código abaixo marque a alternativa correta.
+
+```html
+<section>
+    <form>
+        <div class="form-group">r
+            <label>Color</label>
+            <input type="color">
+        </div>
+        <div class="form-group">
+            <label>Date</label>
+            <input type="date">
+        </div>
+        <div class="form-group">
+            <label>DateTime-local</label>
+            <input type="datetime-local">
+        </div>
+        <div class="form-group">
+            <label>Email</label>
+            <input type="email">
+        </div>
+        <button>Submit</button>
+    </form>
+</section>
+```
+
+- [ ] Todos os campos acima são de saída de dados. 
+- [ ] Dois são de saída e um de entrada.
+- [ ] Dois são de entrada e um de saída.
+- [x] Todos os campos acima são de entrada de dados.
+- [ ] Não são nem de entrada e nem de saída, pertencem a outro grupo de campos.
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/74>
+
+***
+
+### 10 Quando trabalhando com campos do tipo número, ou range, é comum utilizarmos alguns atributos. Selecione a alternativa que possui atributos INEXISTENTES para estes campos.
+
+- [ ] max, min e step
+- [ ] disabled, maxlength e pattern
+- [ ] readonly, required e size
+- [ ] value, max e min
+- [x] empty, hide e blocked
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/75>
+     2. Lembrando que existem outros tipos de atributos que não foram citados na aula, portanto pesquise no link abaixo.
+      - <https://www.w3schools.com/html/html_form_input_types.asp>
+      
+***
+
+### 11 No código abaixo, temos uma barra numérica para que o usuário possa escolher um valor de 0 a 100. Adicione o atributo necessário, na tag input, para que o range seja alterado de 20 em 20.
+
+```html
+<div class="form-group">
+    <label>Range</label>
+    <input type="text" id="textinput">
+    <input type="range" min="0" max="10" onchange="updateTextInput(this.value);">
+    <script>
+        function updateTextInput(num){
+            document.getElementById("textinput").value = num;
+        }
+    </script>
+</div>
+```
+
+resp.: `step="20"`
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/75>
+     2. Não se preocupe com o código javascript agora, você aprenderá o que for necessário no momento correto.
+
+***
+
+### 12 Caso queiramos liberar um botão para que o usuário possa apagar todo texto digitado, qual o tipo de input que devemos utilizar?
+
+- [x] search
+- [ ] text
+- [ ] submit
+- [ ] number
+- [ ] hidden
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/76>
+
+***
+
+### 13 No código abaixo temos uma listagem com HTML5. Adicione o código faltante para que o autocomplete funcione corretamente durante a listagem.
+
+```html
+<div class="form-group">
+    <label>List</label>
+    <input list="codes" name="code" required>
+    <datalist>
+        <option value="Javascript"></option>
+        <option value="PHP"></option>
+        <option value="C#"></option>
+        <option value="Delphi"></option>
+        <option value="Java"></option>
+        <option value="Pascal"></option>
+        <option value="C++"></option>
+        <option value="Ruby"></option>
+        <option value="Python"></option>
+    </datalist>
+</div>
+```
+
+* **Dica:**
+     1. <https://www.schoolofnet.com/curso-html5/77>
+	 2. Exite um atributo que faz a ligação entre o campo input e a listagem.
+
+Res.: `id="codes"`
+
+*** 
 
