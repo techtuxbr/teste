@@ -21,12 +21,12 @@
 [7]:#7-analise-o-código-abaixo-e-depois-marque-verdadeiro-ou-falso 
 [8]:#8-marque-a-alternativa-correta-em-relação-ao-código-abaixo 
 [9]:#9-analise-o-código-abaixo-e-marque-a-alternativa-correta 
-[10]:#10-quando-trabalhando-com-campos-do-tipo-número-ou-range-é-comum-utilizarmos-alguns-atributos-selecione-a-alternativa-que-nÃo-possui-todos-os-atributos-corretos 
+[10]:#10-quando-trabalhando-com-campos-do-tipo-número-ou-range-é-comum-utilizarmos-alguns-atributos-selecione-a-alternativa-que-possui-atributos-inexistentes-para-estes-campos
 [11]:#11-no-código-abaixo-temos-uma-barra-numérica-para-que-o-usuário-possa-escolher-um-valor-de-0-a-100-adicione-o-atributo-necessário-na-tag-input-para-que-o-range-seja-alterado-de-20-em-20 
 [12]:#12-caso-queiramos-liberar-um-botão-para-que-o-usuário-possa-apagar-todo-texto-digitado-qual-o-tipo-de-input-que-devemos-utilizar 
 [13]:#13-no-código-abaixo-temos-uma-listagem-com-html5-adicione-o-código-faltante-para-que-o-autocomplete-funcione-corretamente-durante-a-listagem 
 [14]:#14-analise-o-código-abaixo-e-marque-a-alternativa-correta 
-[15]:#15-caso-seja-necessário-desabilitar-o-autocomplete-de-um-formulário-inteiro-onde-iremos-adicionar-a-configuração-
+[15]:#15-caso-seja-necessário-desabilitar-o-autocomplete-de-um-formulário-inteiro-onde-iremos-adicionar-a-configuração-autocompleteoff
 [16]:# 
 [17]:# 
 [18]:# 
@@ -365,3 +365,4 @@ No código acima, qual tag é responsável por imprimir os dados na tela? Qual a
 
 ***
 
+https://github.com/schoolofnetcom/son-questions/blob/master/Frontend/Iniciando/pratica-html-estruturas.md#10-quando-trabalhando-com-campos-do-tipo-n%C3%BAmero-ou-range-%C3%A9-comum-utilizarmos-alguns-atributos-selecione-a-alternativa-que-possui-atributos-inexistentes-para-estes-campos
