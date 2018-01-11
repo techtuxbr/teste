@@ -21,6 +21,8 @@
 
 **Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6351>
 
+**Nível:** 1
+
 ***
 
 ### 2 Qual era o principal objetivo da internet quando ela foi criada nos Estados Unidos?
@@ -32,6 +34,8 @@
 - [ ] Resolver problemas de vendas online.
 
 **Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6352>
+
+**Nível:** 1
 
 ***
 
@@ -45,6 +49,8 @@
 
 **Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6352>
 
+**Nível:** 1
+
 ***
 
 ### 4 O que é o HTTP (Hypertext Transfer Protocol)?
@@ -57,6 +63,8 @@
 
 **Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6353>
 
+**Nível:** 1
+
 ***
 
 ### 5 Servidor é uma máquina, geralmente online, que fica esperando requisições, geralmente via HTTP, para retornar uma resposta. Esta afirmação é verdadeira ou falsa?
@@ -65,6 +73,8 @@
 - [ ] Falsa
 
 **Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6353>
+
+**Nível:** 1
 
 ***
 
@@ -78,6 +88,8 @@
 
 **Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6354>
 
+**Nível:** 1
+
 ***
 
 ### 7 O que NÃO é possível fazer com o HTML 5?
@@ -89,6 +101,8 @@
 - [x] Programação avançada e desenvolvimento de sistemas
 
 **Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6354>
+
+**Nível:** 1
 
 ***
 
@@ -108,5 +122,7 @@
 **Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6357>
 
 > Resp: `</body>`
+
+**Nível:** 1
 
 ***

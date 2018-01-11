@@ -44,6 +44,8 @@
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6358>
 
+**Nível:** 1
+
 ****
 
 ### 2 Analise o código abaixo:
@@ -73,6 +75,8 @@ Qual o comportamento da palavra **chave** no código acima?
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6358>
 
+**Nível:** 1
+
 ***
 
 ### 3 Qual a única estrutura abaixo que está totalmente CORRETA?
@@ -86,6 +90,8 @@ Qual o comportamento da palavra **chave** no código acima?
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6359>
     2. Lembre-se que o valor que está dentro da tag não importa, o que importa realmente é a estrutura correta, com abertura e fechamento.
+
+**Nível:** 1
 
 ***
 
@@ -101,6 +107,8 @@ Qual o comportamento da palavra **chave** no código acima?
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6359>
 
+**Nível:** 1
+
 *** 
     
 ### 5 Qual a forma correta da tag de centralização no HTML?
@@ -114,6 +122,8 @@ Qual o comportamento da palavra **chave** no código acima?
 * **Dica:**
     1.<https://www.schoolofnet.com/curso-html-basico-v2/6360>
 
+**Nível:** 1
+
 ***
 
 ### 6 Qual a forma correta da tag de quebra de linha no HTML?
@@ -126,6 +136,8 @@ Qual o comportamento da palavra **chave** no código acima?
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6360>
+
+**Nível:** 1
     
 ***
 
@@ -156,6 +168,8 @@ Depois de analisar o código, podemos afirmar que é possível combinar as tags 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6361>
 
+**Nível:** 1
+
 ***
 
 ### 8 Qual alternativa abaixo está CORRETA, em relação às tags de listagem ul e ol?
@@ -169,6 +183,8 @@ Depois de analisar o código, podemos afirmar que é possível combinar as tags 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6361>
 
+**Nível:** 1
+
 ***
 
 ### 9 Qual é o nome dado às configurações de uma determinada tag?
@@ -181,7 +197,9 @@ Depois de analisar o código, podemos afirmar que é possível combinar as tags 
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6362>
-    
+
+**Nível:** 2
+
 ***
 
 ### 10 Analise o código abaixo, e corrija se houver elementos faltantes?
@@ -217,6 +235,8 @@ Resp.: `</tr><tr>`
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6362>
     2. Caso encontre mais do que um erro, digite todos seguidos na resposta.
+
+**Nível:** 2
     
 ***
 
@@ -245,7 +265,9 @@ Resp.: `<table border="1">`
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6362>
-    
+
+**Nível:** 2
+
 ***
 
 ### 12 Analisando o código abaixo selecione a alternativa correta.
@@ -273,10 +295,12 @@ Selecione a opção que contenha a cor do background da página, em geral, a cor
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6363>
     2. Lembre-se que todo estilo configurado para a tag body terá efeito sobre todo conteúdo da página, porém existem certas características de dominância local para estilização em atributos.
-    
+   
+**Nível:** 2
+ 
 ***
 
-### 13 Com a tag a nós podemos:
+### 13 Com a tag "a" nós podemos:
 
 - [ ] Disponibilizar download e criar um parágrafo estilizado com underline.
 - [x] Disponibilizar download e criar links de navegação para outras páginas.
@@ -286,6 +310,8 @@ Selecione a opção que contenha a cor do background da página, em geral, a cor
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6364>
     
+**Nível:** 2
+
 ***
 
 ### 14 Adicione o atributo necessário para que o link seja aberto em uma nova janela:
@@ -306,6 +332,8 @@ Resp.: `target="_blank"`
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6364>
     
+**Nível:** 2
+
 ***
 
 ### 15 Para que a navegação de um sistema seja fluente e concreta, em qualquer ambiente, temos que trabalhar com os links de forma:
@@ -319,6 +347,8 @@ Resp.: `target="_blank"`
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6365>
     2. Lembrando que precisamos informar o caminho do arquivo a ser linkado, portanto analise qual a melhor forma de fazer este relacionamento com o caminho.
 
+**Nível:** 2
+
 ***
 
 ### 16 Qual a estrutura correta de uma tag de imagem?
@@ -331,6 +361,8 @@ Resp.: `target="_blank"`
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6366>
+
+**Nível:** 1
 
 ***
 
@@ -350,6 +382,8 @@ Resp.: `<input />`
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6367>
+
+**Nível:** 3
 
 ***
 
@@ -380,5 +414,7 @@ Qual atributo do formulário que informa para onde a requisição deverá ser di
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6368>
+
+**Nível:** 3
 
 ***

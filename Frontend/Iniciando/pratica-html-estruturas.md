@@ -57,6 +57,8 @@
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html5/66>
 
+**Nível:** 2
+
 ****
 
 ### 2 Como resolver problemas de compatibilidade do HTML5 com navegadores antigos?
@@ -69,6 +71,8 @@
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html5/67>
+
+**Nível:** 3
 
 ***
 
@@ -88,6 +92,8 @@ Resp.: `</meta>`
     1. <https://www.schoolofnet.com/curso-html5/68>
     2. Lembrando que o navegador, as vezes, pode reconhecer algum erro e tratá-lo para você, mas como um bom desenvolvedor temos que estar atento a detalhes.
 
+**Nível:** 2
+
 ***
 
 ### 4 Com o HTML5 temos novas tags que são recomendadas, por serem mais semânticas e ajudarem o site ser melhor indexado por motores de busca. Dentre as opções abaixo, qual modelo estaria FORA destes novos padrões de tags?
@@ -100,6 +106,8 @@ Resp.: `</meta>`
     
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html5/69>
+
+**Nível:** 2
 
 ***
 
@@ -130,6 +138,8 @@ Quantos erros você pode detectar no código acima?
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html5/70>
 	2. Atenção aos mínimos detalhes! Você pode se confundir! Então analise com calma.
+
+**Nível:** 3
 	
 ***
 
@@ -143,6 +153,8 @@ Quantos erros você pode detectar no código acima?
   
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html5/69>
+
+**Nível:** 2
 
 ***
 
@@ -186,6 +198,8 @@ A frase acima é verdadeira ou falsa?
 * **Dica:**
      1. <https://www.schoolofnet.com/curso-html5/72>
      
+**Nível:** 2
+
 ***
 
 ### 8 Marque a alternativa correta em relação ao código abaixo.
@@ -205,6 +219,8 @@ A frase acima é verdadeira ou falsa?
 
 * **Dica:**
      1. <https://www.schoolofnet.com/curso-html5/73>
+
+**Nível:** 3
 
 ***
 
@@ -243,6 +259,8 @@ A frase acima é verdadeira ou falsa?
 * **Dica:**
      1. <https://www.schoolofnet.com/curso-html5/74>
 
+**Nível:** 3
+
 ***
 
 ### 10 Quando trabalhando com campos do tipo número, ou range, é comum utilizarmos alguns atributos. Selecione a alternativa que possui atributos INEXISTENTES para estes campos.
@@ -257,7 +275,9 @@ A frase acima é verdadeira ou falsa?
      1. <https://www.schoolofnet.com/curso-html5/75>
      2. Lembrando que existem outros tipos de atributos que não foram citados na aula, portanto pesquise no link abaixo.
       - <https://www.w3schools.com/html/html_form_input_types.asp>
-      
+
+**Nível:** 3
+
 ***
 
 ### 11 No código abaixo, temos uma barra numérica para que o usuário possa escolher um valor de 0 a 100. Adicione o atributo necessário, na tag input, para que o range seja alterado de 20 em 20.
@@ -281,6 +301,8 @@ resp.: `step="20"`
      1. <https://www.schoolofnet.com/curso-html5/75>
      2. Não se preocupe com o código javascript agora, você aprenderá o que for necessário no momento correto.
 
+**Nível:** 3
+
 ***
 
 ### 12 Caso queiramos liberar um botão para que o usuário possa apagar todo texto digitado, qual o tipo de input que devemos utilizar?
@@ -293,6 +315,8 @@ resp.: `step="20"`
 
 * **Dica:**
      1. <https://www.schoolofnet.com/curso-html5/76>
+
+**Nível:** 3
 
 ***
 
@@ -322,6 +346,8 @@ resp.: `step="20"`
 
 Res.: `id="codes"`
 
+**Nível:** 3
+
 *** 
 
 ### 14 Analise o código abaixo e marque a alternativa correta.
@@ -350,6 +376,8 @@ No código acima, qual tag é responsável por imprimir os dados na tela? Qual a
 * **Dica:**
      1. <https://www.schoolofnet.com/curso-html5/78>
 
+**Nível:** 3
+
 ***
 
 ### 15 Caso seja necessário desabilitar o autocomplete de um formulário inteiro, onde iremos adicionar a configuração "autocomplete='off'"?
@@ -362,6 +390,8 @@ No código acima, qual tag é responsável por imprimir os dados na tela? Qual a
 
 * **Dica:**
      1. <https://www.schoolofnet.com/curso-html5/79>
+
+**Nível:** 3
 
 ***
 
@@ -376,7 +406,9 @@ No código acima, qual tag é responsável por imprimir os dados na tela? Qual a
 
 * **Dica:**
      1. <https://www.schoolofnet.com/curso-html5/80>
-     
+    
+**Nível:** 3
+ 
 ***
 
 ### 17 Qual a principal objetivo ao usar o atributo autofocus no formulário?
@@ -390,7 +422,9 @@ No código acima, qual tag é responsável por imprimir os dados na tela? Qual a
 
 * **Dica:**
      1. <https://www.schoolofnet.com/curso-html5/80>
-     
+
+**Nível:** 3
+
 ***
 
 ### 18 Para conseguir alterar o método do formulário, diretamente no botão de submissão, qual atributo devemos utilizar?
@@ -404,4 +438,6 @@ No código acima, qual tag é responsável por imprimir os dados na tela? Qual a
 * **Dica:**
      1. <https://www.schoolofnet.com/curso-html5/81>
      
+**Nível:** 3
+
 ***
