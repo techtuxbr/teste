@@ -15,7 +15,17 @@
 | [Question 11 - Nível 2][11]   | [Question 25 - Nível 2][25] | 
 | [Question 12 - Nível 2][12]   | [Question 26 - Nível 2][26] | 
 | [Question 13 - Nível 2][13]   | [Question 27 - Nível 2][27] | 
-| [Question 14 - Nível 2][14]   |                             | 
+| [Question 14 - Nível 2][14]   | [Question 28 - Nível 2][28] | 
+
+|    | [Question 29 - Nível 3][29] | 
+|    | [Question 30 - Nível 3][30] | 
+|    | [Question 31 - Nível 3][31] | 
+|    | [Question 31 - Nível 3][31] | 
+|    | [Question 31 - Nível 3][31] | 
+|    | [Question 31 - Nível 3][31] | 
+|    | [Question 32 - Nível 3][32] | 
+|    | [Question 33 - Nível 3][33] | 
+|    | [Question 34 - Nível 3][34] | 
 
 [1]:#1-qual-o-principal-objetivo-do-css
 [2]:#2-dentro-de-qual-tag-devemos-inserir-nosso-código-css-quando-queremos-estilizar-diretamente-no-arquivo-html
@@ -44,6 +54,13 @@
 [25]:#25-quais-os-dois-tipos-possíveis-de-gradiente-para-backgrounds 
 [26]:#26-assinale-verdadeiro-ou-falso 
 [27]:#27-assinale-a-alternativa-correta-a-respeito-de-box-shadow 
+[28]:#28-analise-o-código-abaixo-e-descubra-os-erros 
+[29]:#29-a-propriedade-transform-possui-uma-configuração-chamada-translate-esta-configuração-permite-mover-algum-elemento-em-duas-direções-pois-temos-dois-parâmetros-quais-são-estas-direções-na-sequência-correta-de-parâmetros
+[30]:#30-qual-configuração-abaixo-nÃo-é-uma-configuração-da-propriedade-transform-2d
+[31]:#31-qual-alternativa-abaixo-nÃo-é-uma-configuração-da-propriedade-transform-3d
+[32]:#32-quais-alternativa-contém-todas-as-configurações-existentes-para-a-propriedade-transition
+[33]:#33-se-queremos-uma-transição-uniforme-qual-configuração-deve-ser-utilizada
+[34]:#34-se-for-necessário-retardar-a-execução-da-transição-por-um-determinado-tempo-qual-propriedade-deve-ser-utilizada
 
 ***
 
@@ -547,5 +564,136 @@ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     2. <https://www.w3schools.com/cssref/css3_pr_box-shadow.asp>
     
 **Nível:** 2
+
+***
+
+### 28 Analise o código abaixo e descubra os erros:
+
+```css
+url(https://fonts.googleapis.com/css?family=Lobster);
+url(https://fonts.googleapis.com/css?family=Bad+Script);
+
+{
+    font-family: "MyFont";
+    src: url(../fonts/ARDESTINE.ttf);
+}
+
+.font1{
+    font-family: 'Lobster', cursive;
+}
+
+.font2{
+    font-family: 'Bad Script', cursive;
+}
+.font3{
+    font-family: 'MyFont';
+}
+```
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/54>
+    2. <https://www.w3schools.com/css/css_font.asp>
+    
+Existem dois elementos faltantes no código acima. Quais são?
+    
+Resp.: `@import e @font-face`
+
+**Nível:** 2
+
+***
+
+### 29 A propriedade transform possui uma configuração chamada translate. Esta configuração permite mover algum elemento em duas direções, pois temos dois parâmetros. Quais são estas direções, na sequência correta de parâmetros?
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/55>
+    2. <https://www.w3schools.com/css/css3_2dtransforms.asp>
+    
+Existe mais do que uma maneira de resposder esta questão, mas você não deve fugir do conceito geral, que são as direções. Portanto escreva abaixo a resposta que você acredita estar correta.
+    
+1. Resp.: horizontal e vertical
+2. Resp.: X-axis e Y-axis
+3. Resp.: eixo x e eixo y
+
+**Nível:** 3
+
+***
+
+### 30 Qual alternativa abaixo NÃO é uma configuração da propriedade transform 2D?
+
+- [ ] `translate(x,y)`
+- [ ] `rotate(angle)`
+- [x] `transaction(n)`
+- [ ] `skewX(n)`
+- [ ] `matrix(n,n,n,n,n,n)`
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/55>
+    2. <https://www.w3schools.com/css/css3_2dtransforms.asp>
+    
+**Nível:** 3
+
+***
+
+### 31 Qual alternativa abaixo NÃO é uma configuração da propriedade transform 3D?
+
+- [ ] `rotatex(angle)`
+- [ ] `rotatez(angle)`
+- [ ] `perspective(n)`
+- [x] `rotate3d(x,y,z)`
+- [ ] `scale3d(x,y,z)`
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/56>
+    2. <https://www.w3schools.com/css/css3_3dtransforms.asp>
+    
+**Nível:** 3
+
+***
+
+### 32 Quais alternativa contém todas as configurações existentes para a propriedade transition?
+
+- [ ] ease, ease-in, ease-out, ease-in-out
+- [x] ease, linear, ease-in, ease-out, ease-in-out, cubic-bezier(n,n,n,n)
+- [ ] ease, linear, ease-in, ease-out
+- [ ] ease, linear, ease-in, ease-out, cubic-bezier(n,n,n,n)
+- [ ] linear, linear-in, linear-out, linear-in-out, cubic-bezier(n,n,n,n)
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/57>
+    2. <https://www.w3schools.com/css/css3_transitions.asp>
+    
+**Nível:** 3
+
+***
+
+### 33 Se queremos uma transição uniforme qual configuração deve ser utilizada?
+
+- [x] linear
+- [ ] linear-in
+- [ ] ease-in
+- [ ] ease
+- [ ] cubic-bezier(n,n,n,n)
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/57>
+    2. <https://www.w3schools.com/css/css3_transitions.asp>
+    
+**Nível:** 3
+
+***
+
+### 34 Se for necessário retardar a execução da transição, por um determinado tempo, qual propriedade deve ser utilizada?
+
+- [ ] `transition-wait`
+- [ ] `transition-insecond`
+- [ ] `delay-transition`
+- [x] `transition-delay`
+- [ ] `transition-in-3s`
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/57>
+    2. <https://www.w3schools.com/css/css3_transitions.asp>
+    
+**Nível:** 3
 
 ***
