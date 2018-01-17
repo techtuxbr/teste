@@ -2,30 +2,26 @@
 
 | Questões 1 - 14               | Questões 15 - 27            |
 |-------------------------------|-----------------------------|
-| [Question 1 - Nível 1][1]     | [Question 15 - Nível 2][15] |  
-| [Question 2 - Nível 1][2]     | [Question 16 - Nível 2][16] |   
-| [Question 3 - Nível 1][3]     | [Question 17 - Nível 2][17] | 
-| [Question 4 - Nível 1][4]     | [Question 18 - Nível 1][18] | 
-| [Question 5 - Nível 1][5]     | [Question 19 - Nível 2][19] | 
-| [Question 6 - Nível 1][6]     | [Question 20 - Nível 2][20] | 
-| [Question 7 - Nível 2][7]     | [Question 21 - Nível 2][21] | 
-| [Question 8 - Nível 2][8]     | [Question 22 - Nível 2][22] | 
-| [Question 9 - Nível 2][9]     | [Question 23 - Nível 2][23] | 
-| [Question 10 - Nível 2][10]   | [Question 24 - Nível 2][24] | 
-| [Question 11 - Nível 2][11]   | [Question 25 - Nível 2][25] | 
-| [Question 12 - Nível 2][12]   | [Question 26 - Nível 2][26] | 
-| [Question 13 - Nível 2][13]   | [Question 27 - Nível 2][27] | 
-| [Question 14 - Nível 2][14]   | [Question 28 - Nível 2][28] | 
-
-|    | [Question 29 - Nível 3][29] | 
-|    | [Question 30 - Nível 3][30] | 
-|    | [Question 31 - Nível 3][31] | 
-|    | [Question 31 - Nível 3][31] | 
-|    | [Question 31 - Nível 3][31] | 
-|    | [Question 31 - Nível 3][31] | 
-|    | [Question 32 - Nível 3][32] | 
-|    | [Question 33 - Nível 3][33] | 
-|    | [Question 34 - Nível 3][34] | 
+| [Question 1 - Nível 1][1]     | [Question 21 - Nível 2][21] |  
+| [Question 2 - Nível 1][2]     | [Question 22 - Nível 2][22] |
+| [Question 3 - Nível 1][3]     | [Question 23 - Nível 2][23] |
+| [Question 4 - Nível 1][4]     | [Question 24 - Nível 2][24] |  
+| [Question 5 - Nível 1][5]     | [Question 25 - Nível 2][25] |  
+| [Question 6 - Nível 1][6]     | [Question 26 - Nível 2][26] | 
+| [Question 7 - Nível 2][7]     | [Question 27 - Nível 2][27] |
+| [Question 8 - Nível 2][8]     | [Question 28 - Nível 2][28] | 
+| [Question 9 - Nível 2][9]     | [Question 29 - Nível 3][29] | 
+| [Question 10 - Nível 2][10]   | [Question 30 - Nível 3][30] | 
+| [Question 11 - Nível 2][11]   | [Question 31 - Nível 3][31] | 
+| [Question 12 - Nível 2][12]   | [Question 32 - Nível 3][32] | 
+| [Question 13 - Nível 2][13]   | [Question 33 - Nível 3][33] | 
+| [Question 14 - Nível 2][14]   | [Question 34 - Nível 3][34] | 
+| [Question 15 - Nível 2][15]   | [Question 35 - Nível 3][35] |
+| [Question 16 - Nível 2][16]   | [Question 36 - Nível 3][36] |
+| [Question 17 - Nível 2][17]   | [Question 37 - Nível 3][37] |
+| [Question 18 - Nível 1][18]   | [Question 38 - Nível 3][38] |
+| [Question 19 - Nível 2][19]   | [Question 39 - Nível 3][39] |
+| [Question 20 - Nível 2][20]   | 
 
 [1]:#1-qual-o-principal-objetivo-do-css
 [2]:#2-dentro-de-qual-tag-devemos-inserir-nosso-código-css-quando-queremos-estilizar-diretamente-no-arquivo-html
@@ -61,6 +57,11 @@
 [32]:#32-quais-alternativa-contém-todas-as-configurações-existentes-para-a-propriedade-transition
 [33]:#33-se-queremos-uma-transição-uniforme-qual-configuração-deve-ser-utilizada
 [34]:#34-se-for-necessário-retardar-a-execução-da-transição-por-um-determinado-tempo-qual-propriedade-deve-ser-utilizada
+[35]:#35-para-tornar-uma-imagem-responsiva-qual-as-principais-configurações-de-devemos-nos-atentar
+[36]:#36-qual-configuração-devemos-criar-no-css-para-que-tenhamos-uma-imagem-branca-e-preta-utilizando-filtro
+[37]:#37-analise-o-código-abaixo
+[38]:#38-qual-é-a-propriedade-css-que-podemos-utilizar-para-separar-um-parágrafo-em-colunas-iguais
+[39]:#39-analise-o-código-abaixo-e-assinale-a-alternativa-correta
 
 ***
 
@@ -694,6 +695,135 @@ Existe mais do que uma maneira de resposder esta questão, mas você não deve f
     1. <https://www.schoolofnet.com/curso-css3/57>
     2. <https://www.w3schools.com/css/css3_transitions.asp>
     
+**Nível:** 3
+
+***
+
+### 35 Para tornar uma imagem responsiva qual as principais configurações de devemos nos atentar?
+
+- [ ] `width:100%; height: 100%;`
+- [ ] `width:auto; height: auto;`
+- [ ] `max-width:100%; height: 100%;`
+- [ ] `max-width:auto; height: auto;`
+- [x] `max-width:100%; height: auto;`
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/59>
+    2. <https://www.w3schools.com/css/css3_images.asp>
+    
+**Nível:** 3
+
+***
+
+### 36 Qual configuração devemos criar, no CSS, para que tenhamos uma imagem branca e preta, utilizando filtro?
+
+```css
+.filter{
+    -webkit-filter: ;
+    filter: ;
+}
+```
+
+Analise o código acima e preencha o código faltante.
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/59>
+    2. <https://www.w3schools.com/css/css3_images.asp>
+    
+1. Resp.: `grayscale(100%)`    
+
+**Nível:** 3
+
+***
+
+### 37 Analise o código abaixo:
+
+```css
+.btn{
+    border:none;
+    padding: 9px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.btn-blue{
+    background-color: blue;
+    color: white;
+}
+.btn-green{
+    background-color: green;
+    color: white;
+}
+```
+
+```html
+<div class="row">
+    <div class="col-3">
+        <button class="btn">Default</button>
+        <button class="btn btn-green">Green</button>
+    </div>
+    <div class="col-3">
+        <button class="btn btn-blue btn-green btn-sm">Small</button>
+        <button class="btn btn-green btn-lg">Large</button>
+    </div>
+</div>
+```
+
+De acordo com o CSS e o HTML acima qual cor de background o botão "Small" terá.
+
+- [ ] Preto
+- [ ] Azul
+- [x] Verde
+- [ ] Azul e verde
+- [ ] Nenhuma cor, pois existiria um conflito de classes
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/60>
+    2. <https://www.w3schools.com/css/css3_buttons.asp>
+
+**Nível:** 3
+
+***
+
+### 38 Qual é a propriedade CSS que podemos utilizar para separar um parágrafo em colunas iguais?
+
+- [x] `column-count`
+- [ ] `column-gap`
+- [ ] `column-rule`
+- [ ] `column-span`
+- [ ] `column-width`
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/61>
+    2. <https://www.w3schools.com/css/css3_multiple_columns.asp>
+
+**Nível:** 3
+
+***
+
+### 39 Analise o código abaixo e assinale a alternativa correta.
+
+```css
+@media screen and (min-width: 700px) and (max-width: 900px) {
+    body{
+        background-color: red;	
+    }
+}
+```
+
+De acordo com a configuração acima, qual cenário teria o CSS aplicado à tag body?
+
+- [ ] Qualquer dimensão maior que 700px.
+- [x] Telas com dimensão entre 700px e 900px apenas. 
+- [ ] Qualquer dimensão maior que 900px, pois é o último valor setado.
+- [ ] Não é possível passar dois parâmetros para estilizar.
+- [ ] Qualquer dimensão menor que 900px.
+
+* **Dicas:**
+    1. <https://www.schoolofnet.com/curso-css3/63>
+    2. <https://www.w3schools.com/css/css3_mediaqueries.asp>
+
 **Nível:** 3
 
 ***
