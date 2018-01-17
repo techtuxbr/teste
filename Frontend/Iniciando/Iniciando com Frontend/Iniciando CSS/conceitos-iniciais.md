@@ -1,27 +1,20 @@
 # Questões
 
-| Questões 1 - 14               | Questões 15 - 27            |
-|-------------------------------|-----------------------------|
-| [Question 1 - Nível 1][1]     | [Question 21 - Nível 2][21] |  
-| [Question 2 - Nível 1][2]     | [Question 22 - Nível 2][22] |
-| [Question 3 - Nível 1][3]     | [Question 23 - Nível 2][23] |
-| [Question 4 - Nível 1][4]     | [Question 24 - Nível 2][24] |  
-| [Question 5 - Nível 1][5]     | [Question 25 - Nível 2][25] |  
-| [Question 6 - Nível 1][6]     | [Question 26 - Nível 2][26] | 
-| [Question 7 - Nível 2][7]     | [Question 27 - Nível 2][27] |
-| [Question 8 - Nível 2][8]     | [Question 28 - Nível 2][28] | 
-| [Question 9 - Nível 2][9]     | [Question 29 - Nível 3][29] | 
-| [Question 10 - Nível 2][10]   | [Question 30 - Nível 3][30] | 
-| [Question 11 - Nível 2][11]   | [Question 31 - Nível 3][31] | 
-| [Question 12 - Nível 2][12]   | [Question 32 - Nível 3][32] | 
-| [Question 13 - Nível 2][13]   | [Question 33 - Nível 3][33] | 
-| [Question 14 - Nível 2][14]   | [Question 34 - Nível 3][34] | 
-| [Question 15 - Nível 2][15]   | [Question 35 - Nível 3][35] |
-| [Question 16 - Nível 2][16]   | [Question 36 - Nível 3][36] |
-| [Question 17 - Nível 2][17]   | [Question 37 - Nível 3][37] |
-| [Question 18 - Nível 1][18]   | [Question 38 - Nível 3][38] |
-| [Question 19 - Nível 2][19]   | [Question 39 - Nível 3][39] |
-| [Question 20 - Nível 2][20]   | 
+| Questões 1 - 13               | Questões 14 - 26            | Questões 27 - 39            |
+|-------------------------------|-----------------------------|-----------------------------|
+| [Question 1 - Nível 1][1]     | [Question 14 - Nível 2][14] | [Question 27 - Nível 2][27] |  
+| [Question 2 - Nível 1][2]     | [Question 15 - Nível 2][15] | [Question 28 - Nível 2][28] |
+| [Question 3 - Nível 1][3]     | [Question 16 - Nível 2][16] | [Question 29 - Nível 3][29] |
+| [Question 4 - Nível 1][4]     | [Question 17 - Nível 2][17] | [Question 30 - Nível 3][30] |  
+| [Question 5 - Nível 1][5]     | [Question 18 - Nível 1][18] | [Question 31 - Nível 3][31] |  
+| [Question 6 - Nível 1][6]     | [Question 19 - Nível 2][19] | [Question 32 - Nível 3][32] | 
+| [Question 7 - Nível 2][7]     | [Question 20 - Nível 2][20] | [Question 33 - Nível 3][33] |
+| [Question 8 - Nível 2][8]     | [Question 21 - Nível 2][21] | [Question 34 - Nível 3][34] | 
+| [Question 9 - Nível 2][9]     | [Question 22 - Nível 2][22] | [Question 35 - Nível 3][35] | 
+| [Question 10 - Nível 2][10]   | [Question 23 - Nível 2][23] | [Question 36 - Nível 3][36] | 
+| [Question 11 - Nível 2][11]   | [Question 24 - Nível 2][24] | [Question 37 - Nível 3][37] | 
+| [Question 12 - Nível 2][12]   | [Question 25 - Nível 2][25] | [Question 38 - Nível 3][38] | 
+| [Question 13 - Nível 2][13]   | [Question 26 - Nível 2][26] | [Question 39 - Nível 3][39] | 
 
 [1]:#1-qual-o-principal-objetivo-do-css
 [2]:#2-dentro-de-qual-tag-devemos-inserir-nosso-código-css-quando-queremos-estilizar-diretamente-no-arquivo-html
