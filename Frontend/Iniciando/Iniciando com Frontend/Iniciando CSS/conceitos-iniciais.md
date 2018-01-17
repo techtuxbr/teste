@@ -52,7 +52,7 @@
 [27]:#27-assinale-a-alternativa-correta-a-respeito-de-box-shadow 
 [28]:#28-analise-o-código-abaixo-e-descubra-os-erros 
 [29]:#29-a-propriedade-transform-possui-uma-configuração-chamada-translate-esta-configuração-permite-mover-algum-elemento-em-duas-direções-pois-temos-dois-parâmetros-quais-são-estas-direções-na-sequência-correta-de-parâmetros
-[30]:#30-qual-configuração-abaixo-nÃo-é-uma-configuração-da-propriedade-transform-2d
+[30]:#30-qual-alternativa-abaixo-nÃo-é-uma-configuração-da-propriedade-transform-2d
 [31]:#31-qual-alternativa-abaixo-nÃo-é-uma-configuração-da-propriedade-transform-3d
 [32]:#32-quais-alternativa-contém-todas-as-configurações-existentes-para-a-propriedade-transition
 [33]:#33-se-queremos-uma-transição-uniforme-qual-configuração-deve-ser-utilizada
