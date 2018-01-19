@@ -8,7 +8,7 @@
 | [Question 4 - Nível 3][4]     | [Question 11 - Nível 3][11] |  
 | [Question 5 - Nível 3][5]     | [Question 12 - Nível 3][12] |  
 | [Question 6 - Nível 3][6]     | [Question 13 - Nível 3][13] |  
-| [Question 7 - Nível 3][7]     | [Question 14 - Nível 3][14] |  
+| [Question 7 - Nível 3][7]     |                             |  
 
 [1]:#1-analise-o-código-abaixo-e-informe-o-erro-no-código
 [2]:#2-analise-com-atenção-o-código-abaixo-e-assinale-a-alternativa-correta
