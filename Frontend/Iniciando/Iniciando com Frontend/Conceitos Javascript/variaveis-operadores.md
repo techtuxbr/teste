@@ -2,13 +2,13 @@
 
 | Questões 1 - 7            | Questões 8 - 14             | Questões 15 - 20            |
 |---------------------------|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 8 - Nível 1][8]   | [Question 15 - Nível 1][15] |  
-| [Question 2 - Nível 1][2] | [Question 9 - Nível 1][9]   | [Question 16 - Nível 1][16] |  
-| [Question 3 - Nível 1][3] | [Question 10 - Nível 1][10] | [Question 17 - Nível 1][17] |  
-| [Question 4 - Nível 1][4] | [Question 11 - Nível 1][11] | [Question 18 - Nível 1][18] |  
-| [Question 5 - Nível 1][5] | [Question 12 - Nível 1][12] | [Question 19 - Nível 1][19] |  
-| [Question 6 - Nível 1][6] | [Question 13 - Nível 1][13] | [Question 20 - Nível 1][20] |  
-| [Question 7 - Nível 1][7] | [Question 14 - Nível 1][14] |                             |  
+| [Question 1 - Nível 2][1] | [Question 8 - Nível 2][8]   | [Question 15 - Nível 2][15] |  
+| [Question 2 - Nível 2][2] | [Question 9 - Nível 2][9]   | [Question 16 - Nível 2][16] |  
+| [Question 3 - Nível 2][3] | [Question 10 - Nível 2][10] | [Question 17 - Nível 2][17] |  
+| [Question 4 - Nível 2][4] | [Question 11 - Nível 2][11] | [Question 18 - Nível 2][18] |  
+| [Question 5 - Nível 2][5] | [Question 12 - Nível 2][12] | [Question 19 - Nível 2][19] |  
+| [Question 6 - Nível 2][6] | [Question 13 - Nível 2][13] | [Question 20 - Nível 2][20] |  
+| [Question 7 - Nível 2][7] | [Question 14 - Nível 2][14] |                             |  
 
 [1]:#1-o-que-é-uma-variável
 [2]:#2-queremos-imprimir-uma-mensagem-na-tela-do-usuário-portanto-complete-o-código-abaixo-para-que-isso-seja-possível-utilizando-javascript
@@ -27,7 +27,7 @@
 [15]:#15-analise-a-afimarção-abaixo-e-responda-verdadeiro-ou-falso
 [16]:#16-dentre-as-alternativas-abaixo-qual-comando-representa-uma-entrada-de-dados-input-no-javascript
 [17]:#17-qual-alternativa-abaixo-está-com-todas-as-opções-de-log-corretas
-[18]:#18-adicione-o-operador-de-comparação-correto-para-que-o-resultado-seja-verdadeiro-true
+[18]:#18-adicione-o-operador-de-comparação-correto-para-que-o-resultado-seja-verdadeirotrue
 [19]:#19-analise-o-código-abaixo-e-assinale-a-alternativa-correta
 [20]:#20-analise-o-código-abaixo
 
@@ -42,7 +42,7 @@
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -70,7 +70,7 @@
 
 Res.: alert
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -86,7 +86,7 @@ Res.: alert
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560>    
 
-**Nível:** 1
+**Nível:** 2
       
 ***
 
@@ -115,7 +115,7 @@ Qual o valor impresso, pela função alert, no browser?
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -129,7 +129,7 @@ Qual o valor impresso, pela função alert, no browser?
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -148,7 +148,7 @@ Qual o valor impresso, pela função alert, no browser?
 
 Resp.: LEONAN LUPPI
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -168,7 +168,7 @@ Resp.: LEONAN LUPPI
 
 Resp.: leonan LUPPI
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -183,7 +183,7 @@ Resp.: leonan LUPPI
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561>
 
-**Nível:** 1
+**Nível:** 2
  	
 ***
 
@@ -208,7 +208,7 @@ Resp.: leonan LUPPI
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561>
 
-**Nível:** 1
+**Nível:** 2
     
 ***
     
@@ -228,7 +228,7 @@ Resp.: leonan LUPPI
 
 Resp.: Aprender javascript é POSSÍVEL
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -249,7 +249,7 @@ var resultado = 10 + 20 / 10
 * **Dica:**   	
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6562>
 
-**Nível:** 1
+**Nível:** 2
  	
 ***
     	
@@ -273,7 +273,7 @@ Qual será o resultado impresso pelo comando alert?
 
 Resp.: 10.1
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -288,7 +288,7 @@ Resp.: 10.1
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6562>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -307,7 +307,7 @@ Resp.: 10.1
 
 Resp.: 1
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -321,7 +321,7 @@ Variáveis de tipo null e undefined são muito parecidas, pois ambas servem para
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6563>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
     	
@@ -336,7 +336,7 @@ Variáveis de tipo null e undefined são muito parecidas, pois ambas servem para
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6564>      
       
-**Nível:** 1
+**Nível:** 2
      
 ***
 
@@ -351,7 +351,7 @@ Variáveis de tipo null e undefined são muito parecidas, pois ambas servem para
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6564>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -373,7 +373,7 @@ Variáveis de tipo null e undefined são muito parecidas, pois ambas servem para
 
 Res.: !==
     	
-**Nível:** 1    	
+**Nível:** 2    	
     	
 ***
 
@@ -401,7 +401,7 @@ Qual é o resultado impresso pelo método alert?
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6565> 
 
-**Nível:** 1 
+**Nível:** 2 
 
 ***
 
@@ -432,6 +432,6 @@ Assinale a alternativa que tem o resultado correto da operação acima.
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6565> 
 
-**Nível:** 1 
+**Nível:** 2 
 
 *** 
