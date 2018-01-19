@@ -1,15 +1,37 @@
 # Questões
 
-| Questões 1 - 4               | Questões 5 - 8            | Questões 9 - 12            |
-|-------------------------------|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1]     | [Question 5 - Nível 2][5] | [Question 27 - Nível 2][27] |  
-| [Question 2 - Nível 1][2]     | [Question 6 - Nível 2][6] | [Question 27 - Nível 2][27] |  
-| [Question 3 - Nível 1][3]     | [Question 7 - Nível 2][7] | [Question 27 - Nível 2][27] |  
-| [Question 4 - Nível 1][4]     | [Question 8 - Nível 2][8] | [Question 27 - Nível 2][27] |  
+| Questões 1 - 7            | Questões 8 - 14             | Questões 15 - 20            |
+|---------------------------|-----------------------------|-----------------------------|
+| [Question 1 - Nível 1][1] | [Question 8 - Nível 1][8]   | [Question 15 - Nível 1][15] |  
+| [Question 2 - Nível 1][2] | [Question 9 - Nível 1][9]   | [Question 16 - Nível 1][16] |  
+| [Question 3 - Nível 1][3] | [Question 10 - Nível 1][10] | [Question 17 - Nível 1][17] |  
+| [Question 4 - Nível 1][4] | [Question 11 - Nível 1][11] | [Question 18 - Nível 1][18] |  
+| [Question 5 - Nível 1][5] | [Question 12 - Nível 1][12] | [Question 19 - Nível 1][19] |  
+| [Question 6 - Nível 1][6] | [Question 13 - Nível 1][13] | [Question 20 - Nível 1][20] |  
+| [Question 7 - Nível 1][7] | [Question 14 - Nível 1][14] |                             |  
 
-[1]:#1-qual-o-principal-objetivo-do-css
+[1]:#1-o-que-é-uma-variável
+[2]:#2-queremos-imprimir-uma-mensagem-na-tela-do-usuário-portanto-complete-o-código-abaixo-para-que-isso-seja-possível-utilizando-javascript
+[3]:#3-qual-variável-nÃo-está-declarada-corretamente
+[4]:#4-analise-o-código-abaixo-e-marque-a-alternativa-correta
+[5]:#5-quando-sabemos-que-uma-linguagem-tem-tipagem-dinâmica-para-as-variáveis
+[6]:#6-analise-o-código-abaixo-e-escreva-o-valor-impresso-pelo-método-alert
+[7]:#7-analise-o-código-abaixo-e-escreva-o-valor-impresso-pelo-método-alert
+[8]:#8-qual-linha-abaixo-não-será-interpretada-pelo-browser
+[9]:#9-analise-o-código-abaixo-e-assinale-a-alternativa-correta
+[10]:#10-analise-o-código-abaixo-e-assinale-a-alternativa-correga
+[11]:#11-qual-o-valor-final-da-variável-resultado
+[12]:#12-analise-o-código-abaixo
+[13]:#13-qual-o-objetivo-da-função-parseint
+[14]:#14-qual-o-resultado-do-código-abaixo
+[15]:#15-analise-a-afimarção-abaixo-e-responda-verdadeiro-ou-falso
+[16]:#16-dentre-as-alternativas-abaixo-qual-comando-representa-uma-entrada-de-dados-input-no-javascript
+[17]:#17-qual-alternativa-abaixo-está-com-todas-as-opções-de-log-corretas
+[18]:#18-adicione-o-operador-de-comparação-correto-para-que-o-resultado-seja-verdadeiro-true
+[19]:#19-analise-o-código-abaixo-e-assinale-a-alternativa-correta
+[20]:#20-analise-o-código-abaixo
 
-### O que é uma variável?
+### 1 O que é uma variável?
 
 - [x] Um objeto, gravado na memória do servidor, utilizado para gravar dados durante a execução de sistemas.
 - [ ] Um objeto, gravado na memória do navegador.
@@ -17,44 +39,58 @@
 - [ ] Um objeto que guarda um valor fixo, apesar do nome ser variável.
 - [ ] É apenas uma configuração que não utilizamos para nada nos sistemas atuais.
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560>
+
+**Nível:** 1
 
 ***
 
-### 3. Queremos imprimir uma mensagem na tela do usuário. Portanto complete o código abaixo para que isso seja possível, utilizando Javascript.
+### 2 Queremos imprimir uma mensagem na tela do usuário. Portanto complete o código abaixo para que isso seja possível, utilizando Javascript.
     
-     	<!DOCTYPE html>
-    	<html lang="en">
-    	<head>
-    		<meta charset="UTF-8">
-    		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    		<meta http-equiv="X-UA-Compatible" content="ie=edge">
-    		<title>Document</title>
-    	</head>
-    	<body>
-    		
-    		<script>
-    			('Hello World from Javascript - School of net')
-    		</script>
-    	</body>
-    	</html>
-    
-    	Res.: alert
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560
-***
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>    
+    <script>
+        ('Hello World from Javascript - School of net')
+    </script>
+</body>
+</html>
+```
+     	
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560>    
 
-### 4. Qual variável NÃO está declarada corretamente?
-    
-    	a. var $lastname
-    	b. var lastname
-    	c. var lastName
-    	d. var last_name
-      x	e. var last-name
-      https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560
+Res.: alert
+
+**Nível:** 1
 
 ***
 
-### Analise o código abaixo e marque a alternativa correta.
+### 3 Qual variável NÃO está declarada corretamente?
+    
+- [ ] var $lastname
+- [ ] var lastname
+- [ ] var lastName
+- [ ] var last_name
+- [x] var last-name
+
+     	
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560>    
+
+**Nível:** 1
+      
+***
+
+### 4 Analise o código abaixo e marque a alternativa correta.
 
 ```javascript
 <script>
@@ -76,33 +112,28 @@ Qual o valor impresso, pela função alert, no browser?
 - [ ] Luppi Leonan
 - [ ] Nenhuma das alternativas acima
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560>
+
+**Nível:** 1
 
 ***
 
-### Quando sabemos que uma linguagem tem tipagem dinâmica para as variáveis?
+### 5 Quando sabemos que uma linguagem tem tipagem dinâmica para as variáveis?
 
 - [ ] Quando uma linguagem exige a definição do tipo da variável.
 - [x] Quando não é necessário definir o tipo, basta atribuir valores e a linguagem reconhecerá dinamicamente.
 - [ ] Quando uma linguagem exige a definição do tipo da variável, mas permite alteração posterior.
 - [ ] Quando não precisamos definir nem tipo e nem valores, pois a linguagem é capaz de reconhecer dinamicamente através do identificador.
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560>
+
+**Nível:** 1
 
 ***
 
-### 4. Qual variável NÃO está declarada corretamente?
-    
-    	a. var $lastname
-    	b. var lastname
-    	c. var lastName
-    	d. var last_name
-      x	e. var last-name
-   https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560  
-    
-***
-
-### Analise o código abaixo e escreva o valor impresso pela função alert.
+### 6 Analise o código abaixo e escreva o valor impresso pelo método alert.
 
 ```javascript
 <script>
@@ -112,12 +143,16 @@ https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6560
 </script>
 ```
 
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561>
+
 Resp.: LEONAN LUPPI
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561
+**Nível:** 1
+
 ***
 
-### Analise o código abaixo e escreva o valor impresso pela função alert.
+### 7 Analise o código abaixo e escreva o valor impresso pelo método alert.
 
 ```javascript
 <script>
@@ -128,25 +163,31 @@ https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561
 </script>
 ```
 
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561>
+
 Resp.: leonan LUPPI
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561
+**Nível:** 1
 
 ***
 
-### 5. Qual linha abaixo não será interpretada pelo browser?
+### 8 Qual linha abaixo não será interpretada pelo browser?
    
-    	a. var lastName = 'Last Name'
-    	b. var num1 = 5
-    	c. var num2 = 5
-     x	d. // var soma = num1 + num2
-    	e. var soma = num1 + num2
-    	
-    	https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561
-    	
+- [ ] `var lastName = 'Last Name'`
+- [ ] `var num1 = 5`
+- [ ] `var num2 = 5`
+- [x] `// var soma = num1 + num2`
+- [ ] `var soma = num1 + num2`
+
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561>
+
+**Nível:** 1
+ 	
 ***
 
-### Analise o código abaixo e assinale a alternativa correta.
+### 9 Analise o código abaixo e assinale a alternativa correta.
 
 ```javascript
 <script>
@@ -164,11 +205,14 @@ https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561
 - [ ] 4 4
 - [x] 22
 
-    https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561>
+
+**Nível:** 1
     
 ***
     
-###	Analise o código abaixo e assinale a alternativa correga.
+###	10 Analise o código abaixo e assinale a alternativa correga.
 
 ```javascript
 <script>
@@ -179,29 +223,37 @@ https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561
 </script>
 ```
 
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561>
+
 Resp.: Aprender javascript é POSSÍVEL
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561
+**Nível:** 1
 
 ***
 
-### 6. Qual o valor final da variável "resultado"?
+### 11 Qual o valor final da variável resultado?
    
-    	var num1 = 10
-    	var num2 = 20
-    	var resultado = 10 + 20 / 10
-   
-    	a. 3
-     x	b. 12
-    	c. 40
-    	d. 21
-    	e. 20 
+```javascript
+var num1 = 10
+var num2 = 20
+var resultado = 10 + 20 / 10
+```
+
+- [ ] 3
+- [x] 12
+- [ ] 40
+- [ ] 21
+- [ ] 20 
+
+* **Dica:**   	
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6562>
+
+**Nível:** 1
+ 	
+***
     	
-    	https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6562
-    	
-    	***
-    	
-### Analise o código abaixo.
+### 12 Analise o código abaixo.
 
 ```javascript
 <script>
@@ -215,13 +267,17 @@ https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6561
 
 Qual será o resultado impresso pelo comando alert?
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6562
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6562>
+    2. Tente resolver antes de programar o teste.
 
 Resp.: 10.1
 
+**Nível:** 1
+
 ***
 
-### Qual o objetivo da função parseInt?
+### 13 Qual o objetivo da função parseInt?
 
 - [ ] Transformar um número inteiro em parse
 - [ ] Transformar um parse em um inteiro
@@ -229,11 +285,14 @@ Resp.: 10.1
 - [ ] Arredontar números flutuantes
 - [ ] Somar um número fixo a algum número inteiro
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6562
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6562>
+
+**Nível:** 1
 
 ***
 
-### Qual o resultado do código abaixo?
+### 14 Qual o resultado do código abaixo?
 
 ```javascript
 <script>
@@ -243,32 +302,45 @@ https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6562
 </script>
 ```
 
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6562>
+
 Resp.: 1
+
+**Nível:** 1
 
 ***
 
-### Analise a afimarção abaixo e responda verdadeiro ou falso.
+### 15 Analise a afimarção abaixo e responda verdadeiro ou falso.
 
 Variáveis de tipo null e undefined são muito parecidas, pois ambas servem para indicar que uma variável não tem valor, porém utilizar variável undefined exige maior atenção, pois pode causar erros em nossos sistemas.
 
 - [x] Verdadeiro 
 - [ ] Falso 
 
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6563>
+
+**Nível:** 1
+
 ***
     	
-### 7. Dentre as alternativas abaixo, qual comando representa uma entrada de dados (INPUT) no Javascript?
+### 16 Dentre as alternativas abaixo, qual comando representa uma entrada de dados (INPUT) no Javascript?
     
-    	a. console.log()
-    	b. console.warm()
-    	c. alert()
-    	d. confirm()
-      x e. prompt()
+- [ ] console.log()
+- [ ] console.warm()
+- [ ] alert()
+- [ ] confirm()
+- [x] prompt()
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6564>      
       
-      https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6564
-      
+**Nível:** 1
+     
 ***
 
-### Qual alternativa abaixo está com TODAS as opções de log corretas?
+### 17 Qual alternativa abaixo está com TODAS as opções de log corretas?
 
 - [ ] `console.log`, `console.erro`, `console.infos` e `console.warn`
 - [ ] `console.log`, `console.erro`, `console.info` e `console.warn`
@@ -276,28 +348,36 @@ Variáveis de tipo null e undefined são muito parecidas, pois ambas servem para
 - [x] `console.log`, `console.error`, `console.info` e `console.warn`
 - [ ] `console.logs`, `console.erros`, `console.infos` e `console.warns`
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6564
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6564>
+
+**Nível:** 1
 
 ***
 
-### 8. Adicione o operador correto para que o resultado seja verdadeiro(true).
-    	
-    	<script>
-    		var num1 = 10
-            var num2 = '10'
-            
-            var compare = (num1  num2)
+### 18 Adicione o operador de comparação correto para que o resultado seja verdadeiro(true).
+
+```javascript
+<script>
+    var num1 = 10
+    var num2 = '10'
     
-            alert(compare)
-    	</script>
-    
-    	Res.: !==
+    var compare = (num1  num2)
+
+    alert(compare)
+</script>
+```
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6565>    	
+
+Res.: !==
     	
-    	https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6565
+**Nível:** 1    	
     	
 ***
 
-### Analise o código abaixo e assinale a alternativa correta.
+### 19 Analise o código abaixo e assinale a alternativa correta.
 
 ```javascript
 <script>
@@ -310,19 +390,22 @@ https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6564
 </script>
 ```
 
-Qual é o resultado, impresso pelo comando alert, e qual é a operação lógica responsável por tornar uma das comparações verdadeira? Vamos nos referir por primeira `(num1 !== num2)` e segunda `(num1 == num2)` condição.
+Qual é o resultado impresso pelo método alert?
 
-- [ ] false, primeira
-- [ ] false, segunda
-- [x] true, primeira
-- [ ] true, segunda
-- [ ] nenhuma das alternativas
+- [ ] NaN
+- [ ] undefined
+- [x] true
+- [ ] False
+- [ ] null
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6565
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6565> 
+
+**Nível:** 1 
 
 ***
 
-### Analise o código abaixo.
+### 20 Analise o código abaixo.
 
 ```javascript
 <script>
@@ -338,7 +421,7 @@ https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6565
 
 Tente interpretar a sequência de código acima e fazer a conta de cabeça, antes de testar em seu browser. Desta forma você se certificará de que realmente entendeu as operações no javascript.
 
-Assinale a alternativa que tem o resultado correto da conta acima.
+Assinale a alternativa que tem o resultado correto da operação acima.
 
 - [ ] 10
 - [x] 0 
@@ -346,6 +429,9 @@ Assinale a alternativa que tem o resultado correto da conta acima.
 - [ ] 1000
 - [ ] 100
 
-https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6565
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6565> 
+
+**Nível:** 1 
 
 *** 
