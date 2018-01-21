@@ -223,11 +223,11 @@ Imaginando que temos que mostrar quatro divisões, por linha, em telas maiores, 
 
 ### 11 Das estruturas abaixo qual NÃO terá o icone funcionando corretamente?
 
-- [ ] <span class="btn btn-block btn-default glyphicon glyphicon-pencil">Editar</span>
-- [x] <button id="btn btn-success glyphicon glyphicon-pencil"> Editar</button>
-- [ ] <p class="glyphicon glyphicon-pencil"> Editar</p>
-- [ ] <a href="" class="glyphicon glyphicon-pencil"> Editar</a>
-- [ ] <button class="btn btn-success glyphicon glyphicon-pencil"> Editar</button>
+- [ ] `<span class="btn btn-block btn-default glyphicon glyphicon-pencil">Editar</span>`
+- [x] `<button id="btn btn-success glyphicon glyphicon-pencil"> Editar</button>`
+- [ ] `<p class="glyphicon glyphicon-pencil"> Editar</p>`
+- [ ] `<a href="" class="glyphicon glyphicon-pencil"> Editar</a>`
+- [ ] `<button class="btn btn-success glyphicon glyphicon-pencil"> Editar</button>`
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/35>
