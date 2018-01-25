@@ -179,11 +179,11 @@ Mediante a necessidade acima, qual deverá ser nosso ambiente de trabalho?
 
 ### 10 Qual a tag CORRETA que indica o início de um código PHP?
 
-- [ ] <php />
-- [ ] <?php />
-- [ ] <php >
-- [x] <?php ?>
-- [ ] <?P ?>
+- [ ] `<php />`
+- [ ] `<?php />`
+- [ ] `<php >`
+- [x] `<?php ?>`
+- [ ] `<?P ?>`
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7710>
@@ -394,11 +394,11 @@ Qual índice devo coloca no lugar de "x" para mostrar o valor 20 da matriz acima
 
 ### 21 Quais são as duas estruturas possíveis para a criação de um array?
 
-- [ ] array[] e ()
-- [ ] array() e array[]
-- [x] array() e []
-- [ ] [] e ()
-- [ ] array() e {}
+- [ ] `array[] e ()`
+- [ ] `array() e array[]`
+- [x] `array() e []`
+- [ ] `[] e ()`
+- [ ] `array() e {}`
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7717>
@@ -440,11 +440,11 @@ Qual a chave para o valor 80 e qual a chave para o valor 50, respectivamente.
 
 ### 23 Como fazemos para criar um servidor e liberar uma porta de acesso pelo navegador?
 
-- [ ] php -s localhost:8000 
-- [x] php -S localhost:8000
-- [ ] -S localhost:8000
-- [ ] php -localhost:8000
-- [ ] php -S:8000
+- [ ] `php -s localhost:8000` 
+- [x] `php -S localhost:8000`
+- [ ] `-S localhost:8000`
+- [ ] `php -localhost:8000`
+- [ ] `php -S:8000`
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7719>
@@ -510,8 +510,6 @@ Lembrando que as variáveis devem estar com suas sintaxes corretas.
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7721>
-
-Resp.: ?>
 
 **Nível:** 3
  	
