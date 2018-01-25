@@ -28,7 +28,7 @@
 [12]:#12-marque-a-alternativa-que-nÃo-é-um-operador-aritmético
 [13]:#13-analise-o-calculo-abaixo-e-marque-a-alternativa-com-o-resultado-correto
 [14]:#14-analise-o-calculo-abaixo-e-marque-a-alternativa-com-o-resultado-correto
-[15]:#15-qual-variável-está-declarada-de-forma-errada
+[15]:#15-qual-variável-está-declarada-de-forma-incorreta
 [16]:#16-analise-o-código-abaixo-e-assinale-a-alternativa-correta
 [17]:#17-analise-o-código-abaixo-e-marque-a-alternativa-correta
 [18]:#18-levando-em-consideração-o-conceito-de-precedência-analise-o-código-abaixo-e-assinale-a-alternativa-correta
