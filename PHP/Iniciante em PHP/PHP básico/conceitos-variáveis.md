@@ -2,16 +2,16 @@
 
 | Questões 1 - 10             | Questões 11 - 20            | Questões 21 - 29            |
 |-----------------------------|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1]   | [Question 11 - Nível 1][11] | [Question 21 - Nível 1][21] |  
-| [Question 2 - Nível 1][2]   | [Question 12 - Nível 1][12] | [Question 22 - Nível 1][22] |  
-| [Question 3 - Nível 1][3]   | [Question 13 - Nível 1][13] | [Question 23 - Nível 1][23] |  
-| [Question 4 - Nível 1][4]   | [Question 14 - Nível 1][14] | [Question 24 - Nível 1][24] |  
-| [Question 5 - Nível 1][5]   | [Question 15 - Nível 1][15] | [Question 25 - Nível 1][25] |  
-| [Question 6 - Nível 1][6]   | [Question 16 - Nível 1][16] | [Question 26 - Nível 1][26] |  
-| [Question 7 - Nível 1][7]   | [Question 17 - Nível 1][17] | [Question 27 - Nível 1][27] |  
-| [Question 8 - Nível 1][8]   | [Question 18 - Nível 1][18] | [Question 28 - Nível 1][28] |  
-| [Question 9 - Nível 1][9]   | [Question 19 - Nível 1][19] | [Question 29 - Nível 1][29] |  
-| [Question 10 - Nível 1][10] | [Question 20 - Nível 1][20] |                             |  
+| [Question 1 - Nível 1][1]   | [Question 11 - Nível 1][11] | [Question 21 - Nível 3][21] |  
+| [Question 2 - Nível 1][2]   | [Question 12 - Nível 2][12] | [Question 22 - Nível 3][22] |  
+| [Question 3 - Nível 1][3]   | [Question 13 - Nível 2][13] | [Question 23 - Nível 3][23] |  
+| [Question 4 - Nível 1][4]   | [Question 14 - Nível 2][14] | [Question 24 - Nível 3][24] |  
+| [Question 5 - Nível 1][5]   | [Question 15 - Nível 2][15] | [Question 25 - Nível 3][25] |  
+| [Question 6 - Nível 1][6]   | [Question 16 - Nível 2][16] | [Question 26 - Nível 3][26] |  
+| [Question 7 - Nível 1][7]   | [Question 17 - Nível 3][17] | [Question 27 - Nível 3][27] |  
+| [Question 8 - Nível 1][8]   | [Question 18 - Nível 3][18] | [Question 28 - Nível 3][28] |  
+| [Question 9 - Nível 1][9]   | [Question 19 - Nível 2][19] | [Question 29 - Nível 3][29] |  
+| [Question 10 - Nível 1][10] | [Question 20 - Nível 3][20] |                             |  
                          
 
 [1]:#1-qual-o-significado-da-sigla-php
@@ -134,7 +134,7 @@ Resp.: Rasmus Lerdorf
 
 "Preciso de um site simples, mas que eu possa receber emails e cadastrar meus clientes."
 
-Mediante a frase necessidade assim qual o nosso ambiente de trabalho?
+Mediante a necessidade acima, qual deverá ser nosso ambiente de trabalho?
 
 - [ ] Apenas frontend (linguagem do lado cliente) 
 - [ ] Apenas backend (linguagem do lado servidor) 
@@ -179,10 +179,10 @@ Mediante a frase necessidade assim qual o nosso ambiente de trabalho?
 
 ### 10 Qual a tag CORRETA que indica o início de um código PHP?
 
-- [ ] <PHP />
-- [ ] <?PHP />
-- [ ] <PHP >
-- [x] <?PHP ?>
+- [ ] <php />
+- [ ] <?php />
+- [ ] <php >
+- [x] <?php ?>
 - [ ] <?P ?>
 
 * **Dica:**
@@ -194,7 +194,7 @@ Mediante a frase necessidade assim qual o nosso ambiente de trabalho?
 
 ### 11 Qual o símbolo que devemos utilizar, no PHP, para indicar o final de uma instrução?
 
-- [ ] `;`
+- [x] `;`
 - [ ] `:`
 - [ ] `.`
 - [ ] `$`
@@ -218,7 +218,7 @@ Mediante a frase necessidade assim qual o nosso ambiente de trabalho?
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7711>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -264,7 +264,7 @@ echo "\n";
 
 ***
 
-### 15 Qual variável está declarada de forma errada?
+### 15 Qual variável está declarada de forma incorreta?
 
 - [ ] $idAluno
 - [ ] $idaluno
@@ -329,17 +329,16 @@ echo "\n";
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7714>
 
-**Nível:** 2
+**Nível:** 3
 
 ***
 
 ### 18 Levando em consideração o conceito de precedência, analise o código abaixo e assinale a alternativa correta.
 
 ```php
+<?php
 $calculate = ((10 + 10) * 3) * 2;
-
 echo $calculate;
-
 echo "\n";
 ```
 
@@ -352,7 +351,7 @@ echo "\n";
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7715>
 
-**Nível:** 2
+**Nível:** 3
 
 ***
 
@@ -389,7 +388,7 @@ Qual índice devo coloca no lugar de "x" para mostrar o valor 20 da matriz acima
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7717>
 
-**Nível:** 2
+**Nível:** 3
  	
 ***
 
@@ -404,7 +403,7 @@ Qual índice devo coloca no lugar de "x" para mostrar o valor 20 da matriz acima
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7717>
 
-**Nível:** 2
+**Nível:** 3
  	
 ***
 
@@ -435,7 +434,7 @@ Qual a chave para o valor 80 e qual a chave para o valor 50, respectivamente.
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7718>
 
-**Nível:** 2
+**Nível:** 3
  	
 ***
 
@@ -450,7 +449,7 @@ Qual a chave para o valor 80 e qual a chave para o valor 50, respectivamente.
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7719>
 
-**Nível:** 2
+**Nível:** 3
  	
 ***
 
@@ -465,7 +464,7 @@ Qual a chave para o valor 80 e qual a chave para o valor 50, respectivamente.
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7719>
 
-**Nível:** 2
+**Nível:** 3
  	
 ***
 
@@ -539,7 +538,6 @@ Qual verbo HTTP você associa ao ver este tipo de URL?
 - [ ] get 
 - [x] post
 
-
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-iniciando-com-php/7721>
 
@@ -592,4 +590,9 @@ Qual o atributo html que o PHP utiliza para resgatar os valores, na constante $_
 - [ ] Atributo id e resultado 25
 - [ ] Atributo type e resultado 25
 
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-iniciando-com-php/7721>
+
+**Nível:** 3
+ 	
 ***
