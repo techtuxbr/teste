@@ -255,7 +255,7 @@ Qual será a saída no final desta estrutura de repetição?
 
 ```javascript
 <script>
-    for(var i = 5; i < 15; i++) {
+    for(var i = 0; i < 15; i++) {
         console.log(i)
     }		
 </script>
@@ -263,7 +263,7 @@ Qual será a saída no final desta estrutura de repetição?
 
 Reescreva, como resposta, a lógica completa de dentro dos parênteses da estrutura.
 
-Ex.: `(var i = 5; i < 15; i++)`
+Ex.: `(var i = 0; i < 15; i++)`
 
 * **Dica.:** 
     1. <https://www.schoolofnet.com/curso-iniciando-com-javascript-rev3/6569>
