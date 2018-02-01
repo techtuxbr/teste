@@ -1,17 +1,17 @@
 # Questões
 
-| Questões 1 - 10             | Questões 11 - 20            | Questões 21 - 29            |
-|-----------------------------|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1]   | [Question 11 - Nível 1][11] | [Question 21 - Nível 3][21] |  
-| [Question 2 - Nível 1][2]   | [Question 12 - Nível 2][12] | [Question 22 - Nível 3][22] |  
-| [Question 3 - Nível 1][3]   | [Question 13 - Nível 2][13] | [Question 23 - Nível 3][23] |  
-| [Question 4 - Nível 1][4]   | [Question 14 - Nível 2][14] | [Question 24 - Nível 3][24] |  
-| [Question 5 - Nível 1][5]   | [Question 15 - Nível 2][15] | [Question 25 - Nível 3][25] |  
-| [Question 6 - Nível 1][6]   | [Question 16 - Nível 2][16] | [Question 26 - Nível 3][26] |  
-| [Question 7 - Nível 1][7]   | [Question 17 - Nível 3][17] | [Question 27 - Nível 3][27] |  
-| [Question 8 - Nível 1][8]   | [Question 18 - Nível 3][18] | [Question 28 - Nível 3][28] |  
-| [Question 9 - Nível 1][9]   | [Question 19 - Nível 2][19] | [Question 29 - Nível 3][29] |  
-| [Question 10 - Nível 1][10] | [Question 20 - Nível 3][20] |                             |  
+| Questões 1 - 10             | Questões 11 - 20            | Questões 21 - 30            | Questões 31 - 39            |
+|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+| [Question 1 - Nível 1][1]   | [Question 11 - Nível 1][11] | [Question 21 - Nível 3][21] | [Question 31 - Nível 3][31] |  
+| [Question 2 - Nível 1][2]   | [Question 12 - Nível 2][12] | [Question 22 - Nível 3][22] | [Question 32 - Nível 3][32] |  
+| [Question 3 - Nível 1][3]   | [Question 13 - Nível 2][13] | [Question 23 - Nível 3][23] | [Question 33 - Nível 3][33] |  
+| [Question 4 - Nível 1][4]   | [Question 14 - Nível 2][14] | [Question 24 - Nível 3][24] | [Question 34 - Nível 3][34] |  
+| [Question 5 - Nível 1][5]   | [Question 15 - Nível 2][15] | [Question 25 - Nível 3][25] | [Question 35 - Nível 3][35] |  
+| [Question 6 - Nível 1][6]   | [Question 16 - Nível 2][16] | [Question 26 - Nível 3][26] | [Question 36 - Nível 3][36] |  
+| [Question 7 - Nível 1][7]   | [Question 17 - Nível 3][17] | [Question 27 - Nível 3][27] | [Question 37 - Nível 3][37] |  
+| [Question 8 - Nível 1][8]   | [Question 18 - Nível 3][18] | [Question 28 - Nível 3][28] | [Question 38 - Nível 3][38] |  
+| [Question 9 - Nível 1][9]   | [Question 19 - Nível 2][19] | [Question 29 - Nível 3][29] | [Question 39 - Nível 3][39] |  
+| [Question 10 - Nível 1][10] | [Question 20 - Nível 3][20] | [Question 30 - Nível 3][30] |                             |  
                          
 
 [1]:#1-qual-o-significado-da-sigla-php
@@ -42,7 +42,7 @@
 [26]:#26-altere-a-estrutura-de-repetição-for-abaixo-para-que-tenhamos-20-iterações
 [27]:#27-vamos-falar-mais-um-pouco-da-estrutura-for
 [28]:#28-abaixo-temos-um-loop-simples-utilizando-a-estrutura-while-analise-o
-[29]:#29-com-estruturas-de-repetição-somos-capazes-de-fazer-muitas-lógicas-inclusive-coisas-simples-e-brincadeiras-analise-o-c
+[29]:#29-com-estruturas-de-repetição-somos-capazes-de-fazer-muitas-lógicas-inclusive-coisas-simples-e-brincadeiras-analise-o-código-abaixo
 [30]:#30-analise-o-código-abaixo-e-depois-responda-a-quesão
 [31]:#31-analise-o-código-abaixo-e-preencha-o-valor-do-resultado-final
 [32]:#32-analise-o-código-abaixo-e-revise-todos-os-conhecimentos-até-agora
