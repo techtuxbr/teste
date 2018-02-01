@@ -1,11 +1,29 @@
 # Questões
 
-| Questões 1 - 10             | Questões 11 - 20            | Questões 21 - 29            |
-|-----------------------------|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1]   | [Question 11 - Nível 1][11] | [Question 21 - Nível 3][21] |  
+| Questões 1 - 7            | Questões 8 - 13             |
+|---------------------------|-----------------------------|
+| [Question 1 - Nível 1][1] | [Question 8 - Nível 3][11]  |  
+| [Question 2 - Nível 1][2] | [Question 9 - Nível 3][11]  |  
+| [Question 3 - Nível 1][3] | [Question 10 - Nível 3][11] |  
+| [Question 4 - Nível 2][4] | [Question 11 - Nível 3][11] |  
+| [Question 5 - Nível 2][5] | [Question 12 - Nível 3][11] |  
+| [Question 6 - Nível 2][6] | [Question 13 - Nível 3][11] |  
+| [Question 7 - Nível 3][7] |                             |  
                          
 
-[1]:#
+[1]:#1-qual-o-programa-que-devemos-instalar-para-conseguir-trabalhar-com-mysql-em-nossa-máquina
+[2]:#2-qual-o-arquivo-que-devemos-configurar-para-integrar-o-php-com-o-mysql
+[3]:#3-com-qual-comando-podemos-testar-a-conexão-com-algum-banco-de-dados
+[4]:#4-qual-a-desvantagem-do-mysqli-em-relação-ao-pdo
+[5]:#5-analise-o-código-abaixo
+[6]:#6-qual-a-diferença-entre-fetch_all-e-fetch_array
+[7]:#7-encontre-o-erro-no-código-abaixo
+[8]:#8-por-que-devemos-utilizar-o-prepare-ao-invés-de-fazer-cunsultas-diretamente-no-banco-de-dados
+[9]:#9-o-que-significa-crud
+[10]:#10-qual-método-é-responsável-por-retornar-o-id-do-item-inserido-no-banco-de-dados
+[11]:#11-analise-o-código-abaixo-e-assinale-a-alternativa-correta
+[12]:#12-analise-o-código-abaixo
+[13]:#13-por-que-nos-métodos-de-update-e-delete-se-faz-necessário-o-uso-da-cláusula-where
 
 ***
 
@@ -61,7 +79,7 @@ Resp.: MySQL Community Server
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-php-com-mysql/364>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -99,7 +117,7 @@ Na busca executada no banco, o que significa o asterísco e o que representa o n
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-php-com-mysql/365>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -113,7 +131,7 @@ Na busca executada no banco, o que significa o asterísco e o que representa o n
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-php-com-mysql/366>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
@@ -151,7 +169,7 @@ A resposta deve conter o código correto para que tenhamos a listagem funcionand
 
 Resp.: `$value[1]` ou `[1]`
 
-**Nível:** 1
+**Nível:** 3
 
 ***
 
@@ -163,7 +181,7 @@ Resp.: `$value[1]` ou `[1]`
 Resp.: Evitar o sql injection
 Resp.: Por segurança
 
-**Nível:** 1
+**Nível:** 3
 
 ***
 
@@ -178,7 +196,7 @@ Resp.: Por segurança
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-php-com-mysql/366>
     
-**Nível:** 1
+**Nível:** 3
 
 ***
 
@@ -193,7 +211,7 @@ Resp.: Por segurança
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-php-com-mysql/368>
     
-**Nível:** 1
+**Nível:** 3
 
 ***
 
@@ -226,7 +244,7 @@ Qual dos tipos abaixo NÃO é permitido, de acordo com a documentação?
     1. <https://www.schoolofnet.com/curso-php-com-mysql/368>
     2. <http://php.net/manual/en/mysqli-stmt.bind-param.php>
     
-**Nível:** 1
+**Nível:** 3
 
 ***
 
@@ -259,7 +277,7 @@ Analisando o código acima, você acredita que está correto e que é possível 
     1. <https://www.schoolofnet.com/curso-php-com-mysql/369>
     2. Não analise apenas a aula em si, mas o código como um todo. Em qualquer lugar pode haver um erro.
     
-**Nível:** 1
+**Nível:** 3
 
 ***
 
@@ -275,6 +293,6 @@ Analisando o código acima, você acredita que está correto e que é possível 
     1. <https://www.schoolofnet.com/curso-php-com-mysql/370>
     2. <https://www.schoolofnet.com/curso-php-com-mysql/371>
     
-**Nível:** 1
+**Nível:** 3
 
 ***
