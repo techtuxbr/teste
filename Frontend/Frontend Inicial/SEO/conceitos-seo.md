@@ -12,7 +12,7 @@
 | [Question 8 - Nível 2][8] |                             |  
      
 [1]:#1-qual-a-alternativa-correta-em-relação-a-seo
-[2]:#2-o-que-são-roboôs-ou-spiders
+[2]:#2-o-que-são-robots-ou-spiders
 [3]:#3-qual-o-maior-objetivo-em-criar-um-website-aplicando-os-conceitos-de-seo
 [4]:#4-além-de-aplicar-todas-as-regras-de-seo-qual-outro-passo-importante-a-ser-seguido-para-ter-um-melhor-posicionamento-nas-buscas
 [5]:#5-dentre-as-dicas-de-boas-práticas-com-url-otimizada-qual-alternativa-estaria-errada
