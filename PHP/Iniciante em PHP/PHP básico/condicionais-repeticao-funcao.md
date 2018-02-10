@@ -34,7 +34,7 @@
 [18]:#18-analise-o-código-abaixo-e-preencha-o-valor-do-resultado-final
 [19]:#19-analise-o-código-abaixo-e-revise-todos-os-conhecimentos-até-agora
 [20]:#20-qual-função-do-php-devo-utilizar-para-eliminar-tags-malicionsas-durante-o-envio-de-formulários
-[21]:#21-analise-o-código-abaixo:
+[21]:#21-analise-o-código-abaixo
 ***
 
 ### 1 Analise o código abaixo e informa qual o resultado impresso na tela.

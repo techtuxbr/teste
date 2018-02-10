@@ -1,16 +1,16 @@
 # Questões
 
-| Questões 1 - 9  | Questões 10 - 18  |
-|-----------------|-------------------|
-| [Question 1][1] | [Question 10][10] |  
-| [Question 2][2] | [Question 11][11] |   
-| [Question 3][3] | [Question 12][12] | 
-| [Question 4][4] | [Question 13][13] | 
-| [Question 5][5] | [Question 14][14] | 
-| [Question 6][6] | [Question 15][15] | 
-| [Question 7][7] | [Question 16][16] | 
-| [Question 8][8] | [Question 17][17] | 
-| [Question 9][9] | [Question 18][18] |   
+| Questões 1 - 9            | Questões 10 - 18            |
+|---------------------------|-----------------------------|
+| [Question 1 - Nível 2][1] | [Question 10 - Nível 3][10] |  
+| [Question 2 - Nível 2][2] | [Question 11 - Nível 3][11] |   
+| [Question 3 - Nível 2][3] | [Question 12 - Nível 3][12] | 
+| [Question 4 - Nível 2][4] | [Question 13 - Nível 3][13] | 
+| [Question 5 - Nível 2][5] | [Question 14 - Nível 3][14] | 
+| [Question 6 - Nível 2][6] | [Question 15 - Nível 3][15] | 
+| [Question 7 - Nível 2][7] | [Question 16 - Nível 3][16] | 
+| [Question 8 - Nível 3][8] | [Question 17 - Nível 3][17] | 
+| [Question 9 - Nível 3][9] | [Question 18 - Nível 3][18] |   
 
 [1]:#1-qual-das-tags-abaixo-caracterízam-um-documento-como-html5
 [2]:#2-como-resolver-problemas-de-compatibilidade-do-html5-com-navegadores-antigos
@@ -72,7 +72,7 @@
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html5/67>
 
-**Nível:** 3
+**Nível:** 2
 
 ***
 
@@ -139,7 +139,7 @@ Quantos erros você pode detectar no código acima?
     1. <https://www.schoolofnet.com/curso-html5/70>
 	2. Atenção aos mínimos detalhes! Você pode se confundir! Então analise com calma.
 
-**Nível:** 3
+**Nível:** 2
 	
 ***
 

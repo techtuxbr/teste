@@ -1,16 +1,16 @@
 # Questões
 
-| Questões 1 - 9  | Questões 10 - 18  |
-|-----------------|-------------------|
-| [Question 1][1] | [Question 10][10] |  
-| [Question 2][2] | [Question 11][11] |   
-| [Question 3][3] | [Question 12][12] | 
-| [Question 4][4] | [Question 13][13] | 
-| [Question 5][5] | [Question 14][14] | 
-| [Question 6][6] | [Question 15][15] | 
-| [Question 7][7] | [Question 16][16] | 
-| [Question 8][8] | [Question 17][17] | 
-| [Question 9][9] | [Question 18][18] |   
+| Questões 1 - 9            | Questões 10 - 18            |
+|---------------------------|-----------------------------|
+| [Question 1 - Nível 1][1] | [Question 10 - Nível 2][10] |  
+| [Question 2 - Nível 1][2] | [Question 11 - Nível 2][11] |   
+| [Question 3 - Nível 1][3] | [Question 12 - Nível 2][12] | 
+| [Question 4 - Nível 1][4] | [Question 13 - Nível 2][13] | 
+| [Question 5 - Nível 1][5] | [Question 14 - Nível 2][14] | 
+| [Question 6 - Nível 1][6] | [Question 15 - Nível 2][15] | 
+| [Question 7 - Nível 1][7] | [Question 16 - Nível 2][16] | 
+| [Question 8 - Nível 1][8] | [Question 17 - Nível 3][17] | 
+| [Question 9 - Nível 2][9] | [Question 18 - Nível 3][18] |   
 
 [1]:#1-qual-a-forma-correta-da-tag-de-parágrafo-no-html 
 [2]:#2-analise-o-código-abaixo
@@ -362,7 +362,7 @@ Resp.: `target="_blank"`
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-html-basico-v2/6366>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 

@@ -1,13 +1,20 @@
 # Questões
 
-[Question 1](#1-qual-o-primeiro-curso-indicado-à-uma-pessoa-que-quer-começar-uma-carreira-de-tecnologia-na-web) | 
-[Question 2](#2-qual-era-o-principal-objetivo-da-internet-quando-ela-foi-criada-nos-estados-unidos) | 
-[Question 3](#3-em-1992-tim-berners-lee-criou-a-webworld-wide-web-qual-era-o-principal-objetivo-da-web) |
-[Question 4](#4-o-que-é-o-http-hypertext-transfer-protocol) |
-[Question 5](#5-servidor-é-uma-máquina-geralmente-online-que-fica-esperando-requisições-geralmente-via-http-para-retornar-uma-resposta-esta-afirmação-é-verdadeira-ou-falsa) |
-[Question 6](#6-um-documento-html-sempre-deverá-ser-formado-por-uma-estrutura-principal-qual-seria-esta-estrutura) |
-[Question 7](#7-o-que-nÃo-é-possível-fazer-com-o-html-5) |
-[Question 8](#8-a-estrutura-html-abaixo-possui-um-erro-corrija-a-estrutura-preenchendo-o-valor-faltante) |
+| Questões 1 - 4            | Questões 5 - 8            |
+|---------------------------|---------------------------|
+| [Question 1 - Nível 1][1] | [Question 5 - Nível 1][5] |  
+| [Question 2 - Nível 1][2] | [Question 6 - Nível 1][6] |   
+| [Question 3 - Nível 1][3] | [Question 7 - Nível 1][7] | 
+| [Question 4 - Nível 1][3] | [Question 8 - Nível 1][8] | 
+
+[1]:#1-qual-o-primeiro-curso-indicado-à-uma-pessoa-que-quer-começar-uma-carreira-de-tecnologia-na-web 
+[2]:#2-qual-era-o-principal-objetivo-da-internet-quando-ela-foi-criada-nos-estados-unidos 
+[3]:#3-em-1992-tim-berners-lee-criou-a-webworld-wide-web-qual-era-o-principal-objetivo-da-web
+[4]:#4-o-que-é-o-http-hypertext-transfer-protocol
+[5]:#5-servidor-é-uma-máquina-geralmente-online-que-fica-esperando-requisições-geralmente-via-http-para-retornar-uma-resposta-esta-afirmação-é-verdadeira-ou-falsa
+[6]:#6-um-documento-html-sempre-deverá-ser-formado-por-uma-estrutura-principal-qual-seria-esta-estrutura
+[7]:#7-o-que-nÃo-é-possível-fazer-com-o-html-5
+[8]:#8-a-estrutura-html-abaixo-possui-um-erro-corrija-a-estrutura-preenchendo-o-valor-faltante
 
 ***
 
@@ -121,7 +128,7 @@
 
 **Dica:**<https://www.schoolofnet.com/curso-html-basico-v2/6357>
 
-> Resp: `</body>`
+Resp: `</body>`
 
 **Nível:** 1
 
