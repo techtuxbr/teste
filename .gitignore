@@ -1,5 +1,10 @@
 .DS_Store
 .idea/
-generate.php
-generate.html
+index.php
+index.html
 planos.md
+request.php
+scripts.js
+style.css
+audio.js
+video.js
