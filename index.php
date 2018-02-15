@@ -1,3 +1,16 @@
+<?php
+    if($_SERVER['REQUEST_METHOD'] == 'POST'){
+        var_dump($_POST);
+        var_dump($_FILES['foto1']);
+        //var_dump($_post);
+    }else {
+        var_dump($_GET);
+        //var_dump($_get);
+    }
+
+   //echo $teste;
+?>
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -10,55 +23,11 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <div>
-        <video id="player" width="560" height="350" poster="./wordpress.png">
-            <source src="./video.mov"/>
-            Your browser not support this tag!!!
-        </video>
 
-        <div>
-            <button onclick="play()">Play</button> |
-            <button onclick="pause()">Pause</button> |
-            <button onclick="stop()">Stop</button> |
-            <input id="volume" type="range" min="0" max="100" onchange="volume()"> |
-            <button id="muted" onclick="muted()">Mute</button> |
-            <button onclick="full()">Full Screen</button> |
-        </div>
+<form action="/" method="post" enctype="multipart/form-data">
+    <input type="file" id="imagem" class="pic" name="foto">
+    <input type="submit" value="Enviar">
+</form>
 
-        <div>
-            <table id="tableList" class="table"></table>
-        </div>
-    </div>
-
-    <div>
-        <audio id="audio" width="560" height="350" controls>
-            <source src="./video.mov"/>
-            Your browser not support this tag!!!
-        </audio>
-        <div>
-            <button onclick="playAudio()">Play</button> |
-            <button onclick="pauseAudio()">Pause</button> |
-            <button onclick="stopAudio()">Stop</button> |
-            <input id="volumeAudio" type="range" min="0" max="100" onchange="volumeAudio()"> |
-            <button id="mutedAudio" onclick="mutedAudio()">Mute</button>
-        </div>
-    </div>
-
-    <div>
-        <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/S12OgVD036g?listType=playlist&playlist=R_3y4Gl8XpA,Im9WTcDJ-2Y">
-        </iframe>
-    </div>
-    <br>
-    <br>
-    <div class="row text-center">
-        <iframe width="560" height="315"
-                src="https://www.youtube.com/embed?listType=playlist&list=PLt3tq0MBSMpk8ozG5GNIC1U14PTiZf7Fy">
-        </iframe>
-    </div>
-
-
-    <script src="./video.js"></script>
-    <script src="./audio.js"></script>
 </body>
 </html>

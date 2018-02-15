@@ -1,10 +1,37 @@
 # Questões
 
-| Questões 1 - 8            | Questões 8 - 15             |
-|---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 9 - Nível 2][9]   |  
+| Questões 1 - 10             | Questões 11 - 19           |
+|-----------------------------|----------------------------|
+| [Question 1 - Nível 1][1]   | [Question 11 - Nível 2][11] |  
+| [Question 2 - Nível 1][2]   | [Question 12 - Nível 2][12] |  
+| [Question 3 - Nível 1][3]   | [Question 13 - Nível 3][13] |  
+| [Question 4 - Nível 1][4]   | [Question 14 - Nível 3][14] |  
+| [Question 5 - Nível 1][5]   | [Question 15 - Nível 3][15] |  
+| [Question 6 - Nível 1][6]   | [Question 16 - Nível 3][16] |  
+| [Question 7 - Nível 2][7]   | [Question 17 - Nível 3][17] |  
+| [Question 8 - Nível 2][8]   | [Question 18 - Nível 3][18] |  
+| [Question 9 - Nível 2][9]   | [Question 19 - Nível 3][19] |  
+| [Question 10 - Nível 2][10] |                            |  
      
-[1]:#1-qual-a-alternativa-correta-em-relação-a-seo
+[1]:#1-qual-a-tag-utilizar-para-vídeo-no-html5
+[2]:#2-qual-a-tag-utilizar-para-audio-no-html5
+[3]:#3-qual-atributo-devemos-utilizar-para-que-os-vídeos-ou-audios-sejam-executados-automaticamente-em-uma-página-web
+[4]:#4-quais-atributos-devemos-utilizar-para-que-um-vídeo-ou-audio-seja-executado-automaticamente-e-sem-som-em-uma-página-web
+[5]:#5-analise-o-código-abaixo-e-assinale-a-alternativa-incorreta
+[6]:#6-analise-o-código-abaixo-e-assinale-a-alternativa-incorreta
+[7]:#7-analise-o-código-abaixo-e-assinale-a-alternativa-correta
+[8]:#8-analise-o-código-abaixo-e-marque-a-alternativa-que-contém-o-erro-presente-no-código
+[9]:#9-analise-a-afirmação-abaixo-e-assinale-verdadeiro-ou-falso
+[10]:#10-analise-o-código-abaixo-e-assinale-a-alternativa-correta
+[11]:#11-qual-alternativa-contém-todos-os-eventos-corretos
+[12]:#12-analise-a-frase-abaixo-e-assinale-verdadeiro-ou-falso
+[13]:#13-analise-o-código-abaixo-e-assina-le-a-alternativa-que-contenha-os-eventos-citados
+[14]:#14-qual-a-tag-recomendada-para-a-adição-de-um-vídeo-do-youtube-em-seu-website
+[15]:#15-analise-o-código-abaixo
+[16]:#16-como-podemos-passar-um-parâmetro-para-um-vídeo-do-youtube-utilizando-iframe
+[17]:#17-quais-parâmetros-estão-presentes-na-url-abaixo
+[18]:#18-analise-os-dois-iframes-abaixo
+[19]:#19-analise-o-iframe-abaixo
 
 ***
 
