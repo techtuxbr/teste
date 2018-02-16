@@ -32,7 +32,7 @@
 [17]:#17-analise-o-código-abaixo
 [18]:#18-analise-o-código-abaixo
 [19]:#19-analise-o-código-abaixo
-[20]:#20-qual-a-diferença-entre-a-super-variável-$_request-para-as-super-variáveis-$_post-e-$_get
+[20]:#20-qual-a-diferença-entre-a-super-variável-_request-para-as-super-variáveis-_post-e-_get
 
 ***
 
