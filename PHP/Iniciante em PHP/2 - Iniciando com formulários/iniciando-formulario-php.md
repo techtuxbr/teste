@@ -22,8 +22,8 @@
 [7]:#7-quais-super-variáveis-utilizamos-para-resgatar-os-dados-nas-requisições-do-tipo-get-e-post
 [8]:#8-analise-o-código-abaixo
 [9]:#9-assinale-a-alternativa-correta-depois-de-analisar-o-código-abaixo
-[10]:#10-qual-alternativa-indica-uma-transformação-de-um-valor-passado-via-formulário-forçando-que-o-mesmo-seja-um-valor-do-tipo
-[11]:#11-quando-precisamos-validar-se-um-valor-é-nulo-e-passar-um-valor-substituto-podemos-utilizar-a-operação-ternária-porém
+[10]:#10-qual-alternativa-indica-uma-transformação-de-um-valor-passado-via-formulário-forçando-que-o-mesmo-seja-um-valor-do-tipo-inteiro
+[11]:#11-quando-precisamos-validar-se-um-valor-é-nulo-e-passar-um-valor-substituto-podemos-utilizar-a-operação-ternária-porém-existe-uma-forma-reduzida-chamada-null-coalescing-operator
 [12]:#12-assinale-a-alternativa-que-nÃo-se-trata-de-uma-função-de-filtragem
 [13]:#13-analise-as-opções-abaixo-e-assinale-a-que-estiver-errada-em-relação-a-filtragem-de-dados-com-php
 [14]:#14-quando-possuímos-muitos-campos-em-um-formulário-qual-método-de-filtragem-é-mais-indicado-a-ser-utilizado
