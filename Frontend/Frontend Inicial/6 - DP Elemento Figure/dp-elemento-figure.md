@@ -1,11 +1,19 @@
 # Questões
 
-| Questões 1 - 6            | Questões 7 - 11             |
-|---------------------------|-----------------------------|
-| [Question 1 - Nível 2][1] | [Question 7 - Nível 2][9]   |  
+| Questões 1 - 4            | Questões 5 - 7             |
+|---------------------------|----------------------------|
+| [Question 1 - Nível 2][1] | [Question 5 - Nível 2][5]  |  
+| [Question 2 - Nível 2][2] | [Question 6 - Nível 2][6]  |  
+| [Question 3 - Nível 2][3] | [Question 7 - Nível 2][7]  |  
+| [Question 4 - Nível 2][4] |                            |  
 
-     
-[1]:#1-analise-a-frase-abaixo-e-assinale-verdadeiro-ou-falso
+[1]:#1-qual-o-principal-objetivo-do-elemento-figure-em-relação-ao-html5
+[2]:#2-marque-a-alternativa-que-nÃo-é-possível-ser-exibida-pela-tag-figure
+[3]:#3-qual-era-o-elemento-utilizado-antes-da-tag-figure-ser-apresentada-no-html5
+[4]:#4-qual-tag-responsável-por-adicionar-uma-legenda-a-uma-determinada-imagem
+[5]:#5-analise-o-código-abaixo-e-assinale-a-alternativa-correta
+[6]:#6-analise-a-frase-abaixo-e-assinale-verdadeiro-ou-falso
+[7]:#7-ao-utilizar-a-tag-figure-melhoramos-a-semântica-dos-websites-além-disso-o-que-mais-acontece-ao-utilizarmos-esta-tag
 
 ***
 
