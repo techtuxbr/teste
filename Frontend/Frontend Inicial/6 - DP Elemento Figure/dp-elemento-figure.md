@@ -28,7 +28,7 @@
 
 - [ ] imagem
 - [ ] diagramas
-- [x] som
+- [x] audio
 - [ ] gráficos
 - [ ] textos(código fonte)
 
@@ -56,7 +56,7 @@
 
 ### 4 Qual tag responsável por adicionar uma legenda a uma determinada imagem?
 
-- [ ] `<figcaption></figcaption>`
+- [x] `<figcaption></figcaption>`
 - [ ] `<caption></caption>`
 - [ ] `<captionfig></captionfig>`
 - [ ] `<figurecaption></figurecaption>`
