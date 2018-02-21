@@ -17,7 +17,7 @@
 [4]:#4-qual-a-desvantagem-do-mysqli-em-relação-ao-pdo
 [5]:#5-analise-o-código-abaixo
 [6]:#6-qual-a-diferença-entre-fetch_all-e-fetch_array
-[7]:#7-encontre-o-erro-no-código-abaixo
+[7]:#7-analise-o-código-abaixo
 [8]:#8-por-que-devemos-utilizar-o-prepare-ao-invés-de-fazer-cunsultas-diretamente-no-banco-de-dados
 [9]:#9-o-que-significa-crud
 [10]:#10-qual-método-é-responsável-por-retornar-o-id-do-item-inserido-no-banco-de-dados
@@ -31,6 +31,7 @@
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-php-com-mysql/361>
+    2. Lembrando que podem existir outros serviços, porém esta pergunta é referente ao programa utilizado no curso.
 
 Resp.: MySQL Community Server
 
@@ -38,7 +39,7 @@ Resp.: MySQL Community Server
 
 ***
 
-### 2 Qual o arquivo que devemos configurar para integrar o PHP com o MySQL?
+### 2 Qual o arquivo, do PHP, que devemos configurar para integrar o PHP com o MySQL?
 
 - [ ] config.ini
 - [ ] ini.php
@@ -135,7 +136,7 @@ Na busca executada no banco, o que significa o asterísco e o que representa o n
 
 ***
 
-### 7 Encontre o erro no código abaixo.
+### 7 Analise o código abaixo.
 
 ```php
 <?php
@@ -161,13 +162,13 @@ foreach($data as $value){
 
 O código acima tenta fazer uma listagem de todos clientes, porém contém um erro.
 
-A resposta deve conter o código correto para que tenhamos a listagem funcionando.
+Para a listagem funcionar corretamente o que devemos colocar no lugar de `["name"]`.
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-php-com-mysql/366>
     2. Não precisa repetir a linha inteira, apenas o ponto do erro.
 
-Resp.: `$value[1]` ou `[1]`
+Resp.: `[1]`
 
 **Nível:** 3
 
@@ -175,11 +176,14 @@ Resp.: `$value[1]` ou `[1]`
 
 ### 8 Por que devemos utilizar o prepare ao invés de fazer cunsultas diretamente no banco de dados?
 
+- [ ] Apenas por opção particular ou preferência.
+- [ ] Para tornar o código mais complexo e confuso.
+- [x] Por segurança, evitando o sql injection.
+- [ ] Para tornar o código mais lento.
+- [ ] Para tornar o código mais rápido e organizado.
+
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-php-com-mysql/366>
-
-Resp.: Evitar o sql injection
-Resp.: Por segurança
 
 **Nível:** 3
 
@@ -230,7 +234,7 @@ class User {
 }
 ```
 
-Acima temos o método de inserção do nosso CRUD. Os símbolos de interrogação indicam o valor que será inserido e depois, no bind_param, temos que informar os tipos e os valores.
+Acima temos o método de inserção do nosso CRUD. Os símbolos de interrogação indicam os valores que serão inseridos posteriormente. No bind_param, temos que informar os tipos e valores.
 
 Qual dos tipos abaixo NÃO é permitido, de acordo com a documentação?
 
