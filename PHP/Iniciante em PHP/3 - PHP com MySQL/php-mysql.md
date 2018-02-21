@@ -2,17 +2,17 @@
 
 | Questões 1 - 7            | Questões 8 - 13             |
 |---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 8 - Nível 3][11]  |  
-| [Question 2 - Nível 1][2] | [Question 9 - Nível 3][11]  |  
-| [Question 3 - Nível 1][3] | [Question 10 - Nível 3][11] |  
+| [Question 1 - Nível 1][1] | [Question 8 - Nível 3][8]  |  
+| [Question 2 - Nível 1][2] | [Question 9 - Nível 3][9]  |  
+| [Question 3 - Nível 1][3] | [Question 10 - Nível 3][10] |  
 | [Question 4 - Nível 2][4] | [Question 11 - Nível 3][11] |  
-| [Question 5 - Nível 2][5] | [Question 12 - Nível 3][11] |  
-| [Question 6 - Nível 2][6] | [Question 13 - Nível 3][11] |  
+| [Question 5 - Nível 2][5] | [Question 12 - Nível 3][12] |  
+| [Question 6 - Nível 2][6] | [Question 13 - Nível 3][13] |  
 | [Question 7 - Nível 3][7] |                             |  
                          
 
 [1]:#1-qual-o-programa-que-devemos-instalar-para-conseguir-trabalhar-com-mysql-em-nossa-máquina
-[2]:#2-qual-o-arquivo-que-devemos-configurar-para-integrar-o-php-com-o-mysql
+[2]:#2-qual-o-arquivo-do-php-que-devemos-configurar-para-integrar-o-php-com-o-mysql
 [3]:#3-com-qual-comando-podemos-testar-a-conexão-com-algum-banco-de-dados
 [4]:#4-qual-a-desvantagem-do-mysqli-em-relação-ao-pdo
 [5]:#5-analise-o-código-abaixo
