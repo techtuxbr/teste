@@ -352,9 +352,9 @@ public function update()
 {
     $query = "Update `products` set `name`=?, `desc`=? WHERE `id`=?";
     $stmt = $this->db->prepare($query);
-    $stmt->bindValue(2,$this->product->getDesc());
-    $stmt->bindValue(3,$this->product->getId());
-    $stmt->bindValue(1,$this->product->getName());
+    $stmt->bindValue(2,'valor 2');
+    $stmt->bindValue(3,'valor 3');
+    $stmt->bindValue(1,'valor 1');
     $ret = $stmt->execute();
     return $ret;
 }
