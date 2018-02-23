@@ -1,13 +1,9 @@
 # Questões
 
-| Questões 1 - 6            | Questões 7 - 11             |
-|---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] |                             |  
-| [Question 2 - Nível 1][2] |                             |  
-|                           |                             |  
-|                           |                             |  
-|                           |                             |  
-|                           |                             |  
+| Questões 1 - 2            |
+|---------------------------|
+| [Question 1 - Nível 1][1] |
+| [Question 2 - Nível 1][2] | 
      
 [1]:#1-para-verificar-se-um-processamento-esta-ocorrendo-como-esperado-no-Javascript-podemos-exibir-o-resultado-de-qualquer-operação-no-próprio-debugger-embutido-do-navegador-qual-o-comando-utilizado-para-isso
 [2]:#2-para-pausar-uma-aplicação-Javascript-em-determinado-ponto-via-código-utilizamos-qual-palavra-reservada
