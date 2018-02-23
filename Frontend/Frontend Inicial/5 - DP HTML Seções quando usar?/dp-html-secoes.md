@@ -2,22 +2,22 @@
 
 | Questões 1 - 6            | Questões 7 - 11             |
 |---------------------------|-----------------------------|
-| [Question 1 - Nível 2][1] | [Question 7 - Nível 2][9]   |  
-| [Question 2 - Nível 2][2] | [Question 8 - Nível 2][9]   |  
+| [Question 1 - Nível 2][1] | [Question 7 - Nível 2][7]   |  
+| [Question 2 - Nível 2][2] | [Question 8 - Nível 2][8]   |  
 | [Question 3 - Nível 2][3] | [Question 9 - Nível 2][9]   |  
 | [Question 4 - Nível 2][4] | [Question 10 - Nível 2][10] |  
 | [Question 5 - Nível 2][5] | [Question 11 - Nível 2][11] |  
 | [Question 6 - Nível 2][6] |                             |  
      
 [1]:#1-analise-a-frase-abaixo-e-assinale-verdadeiro-ou-falso
-[1]:#2-quando-utilizamos-a-tag-nav
-[1]:#3-referente-a-tag-nav-analise-a-frase-abaixo
-[1]:#4-o-que-a-tag-main-representa-semanticamente
-[1]:#5-qual-afirmativa-está-totalmente-correta-em-relação-a-tag-main
-[1]:#6-para-que-é-indicado-o-uso-da-tag-aside
-[1]:#7-para-que-é-indicado-o-uso-da-tag-section
-[1]:#8-qual-seria-a-diferença-semântica-da-tag-div-para-a-tag-section
-[1]:#9-para-que-é-indicado-o-uso-da-tag-article
+[2]:#2-quando-utilizamos-a-tag-nav
+[3]:#3-referente-a-tag-nav-analise-a-frase-abaixo
+[4]:#4-o-que-a-tag-main-representa-semanticamente
+[5]:#5-qual-afirmativa-está-totalmente-correta-em-relação-a-tag-main
+[6]:#6-para-que-é-indicado-o-uso-da-tag-aside
+[7]:#7-para-que-é-indicado-o-uso-da-tag-section
+[8]:#8-qual-seria-a-diferença-semântica-da-tag-div-para-a-tag-section
+[9]:#9-para-que-é-indicado-o-uso-da-tag-article
 [10]:#10-analise-a-frase-abaixo-e-assinale-verdadeiro-ou-falso
 [11]:#11-qual-alternativa-está-correta-em-relação-ao-uso-correto-e-semântico-das-novas-tags-do-html5
 
