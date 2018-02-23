@@ -1,17 +1,28 @@
 # Questões
 
-| Questões 1 - 6            | Questões 7 - 11             |
+| Questões 1 - 7            | Questões 8 - 13             |
 |---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 7 - Nível 2][7]   |  
-| [Question 2 - Nível 1][2] | [Question 8 - Nível 2][8]   |  
-| [Question 3 - Nível 1][3] | [Question 9 - Nível 2][9]   |  
-| [Question 4 - Nível 1][4] | [Question 10 - Nível 2][10] |  
-| [Question 5 - Nível 1][5] | [Question 11 - Nível 2][11] |  
-| [Question 6 - Nível 1][6] |                             |  
+| [Question 1 - Nível 1][1] | [Question 8 - Nível 2][8]   |  
+| [Question 2 - Nível 1][2] | [Question 9 - Nível 2][9]   |  
+| [Question 3 - Nível 1][3] | [Question 10 - Nível 3][10] |  
+| [Question 4 - Nível 2][4] | [Question 11 - Nível 3][11] |  
+| [Question 5 - Nível 2][5] | [Question 12 - Nível 3][12] |  
+| [Question 6 - Nível 2][6] | [Question 13 - Nível 3][13] |  
+| [Question 7 - Nível 2][7] |                             |  
                      
 ***
 
-[1]:#
+[1]:#1-ao-conectar-com-o-banco-utilizamos-a-classe-pdo-portanto-utilizamos-php-orientado-a-objetos-analise-o-código-abaixo-e
+[2]:#2-qual-o-erro-no-código-abaixo
+[3]:#3-qual-o-principal-objetivo-ao-criar-uma-interface-para-classes-de-conexão
+[4]:#4-qual-o-problema-que-a-injeção-de-dependência-pode-causar-em-seus-projetos
+[5]:#5-qual-das-opções-abaixo-é-uma-solução-possível-para-eliminar-injeção-de-dependência
+[8]:#8-o-uso-de-um-service-container-torna-nosso-código-mais-organizado-e-sustentável-porém-existe-outra-vantagem-ao-utilizar
+[9]:#9-qual-a-diferença-entre-o-modo-factory-e-o-modo-padrão-quando-registramos-um-serviço-no-pimple
+[10]:#10-analise-o-código-abaixo-e-assinale-a-alternativa-correta
+[11]:#11-É-possível-registrarmos-valores-fixos-como-se-fossem-constantes-utilizando-serviços
+[12]:#12-quando-uma-classe-implementa-uma-interface-o-que-ela-deve-fazer
+[13]:#13-qual-a-vantagem-de-usar-o-autoload-do-composer
 
 ### 1 Ao conectar com o banco utilizamos a classe PDO, portanto utilizamos PHP Orientado a Objetos. Analise o código abaixo e assinale a alternativa correta.
 
@@ -46,13 +57,16 @@ $list = $product->list();
 var_dump($list);
 ```
 
-Analisando o código acima informe o que falta para que o código funcione corretamente e a listagem seja concluída.
+Existe algum erro acima que impede a listagem de ser executada. Assinale a alternativa correta.
+
+- [ ] Os parâmetros estão sendo passados de forma errada para o construtor.
+- [x] Precisamos importar a classe Product para conseguir instanciá-la.
+- [ ] Não podemos passar uma variável como parâmetro, somente string.
+- [ ] Devemos acessar o método list antes de instanciar a classe Product.
+- [ ] Não podemos atribuir uma conexão PDO a uma variável.
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/316>
-    2. Para conseguirmos utilizar uma classe precisamos ter acesso a ela.
-
-Res.: `require_once "Product.php";`
 
 **Nível:** 1
  	
@@ -84,7 +98,7 @@ Res.: `require_once "Product.php";`
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/318>
 
-**Nível:** 1
+**Nível:** 2
  	
 ***
 
@@ -99,37 +113,7 @@ Res.: `require_once "Product.php";`
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/319>
 
-**Nível:** 1
- 	
-***
-
-### 6 O que é o composer?
-
-- [ ] Um pacote de autoload.
-- [ ] Um gerador de classes.
-- [ ] Um gerador de código aleatório.
-- [x] Um gerenciador de pacotes PHP.
-- [ ] Um instalador de aplicações em terminal.
-
-* **Dica:**    	
-    1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/320>
-
-**Nível:** 1
- 	
-***
-
-### 7 Qual arquivo devemos criar para configurar o autoload e gerenciar os pacotes com o composer?
-
-- [ ] composer.php
-- [ ] composer.config
-- [ ] composer.ini
-- [ ] composer.js
-- [x] composer.json
-
-* **Dica:**    	
-    1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/320>
-
-**Nível:** 1
+**Nível:** 2
  	
 ***
 
@@ -144,11 +128,11 @@ Res.: `require_once "Product.php";`
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/321>
 
-**Nível:** 1
+**Nível:** 2
  	
 ***
 
-### 9 Qual a diferença entre o modo factory e o modo padrão, quando registramos um servico no Pimple?
+### 9 Qual a diferença entre o modo factory e o modo padrão, quando registramos um serviço no Pimple?
 
 - [ ] O modo factory deixa sempre um objeto criado, trocando de dois em dois segundos por um novo objeto.
 - [ ] O modo normal registra em um local e o modo factory registra em outro, mas ambos tem o mesmo comportamento.
@@ -159,7 +143,7 @@ Res.: `require_once "Product.php";`
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/322>
 
-**Nível:** 1
+**Nível:** 2
  	
 ***
 
@@ -195,7 +179,7 @@ No código acima do que se trata o parâmetro $c, passado no registro do segundo
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/323>
 
-**Nível:** 1
+**Nível:** 3
  	
 ***
 
@@ -207,6 +191,36 @@ No código acima do que se trata o parâmetro $c, passado no registro do segundo
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/324>
 
-**Nível:** 1
+**Nível:** 3
+ 	
+***
+
+### 12 Quando uma classe implementa uma interface o que ela deve fazer?
+
+- [x] Implementar todos os métodos exigidos pela interface.
+- [ ] Extender uma outra classe abstrata, com o mesmo nome, mesmo que não exista nada na mesma.
+- [ ] Criar métodos iguais, porém com o prefixo _child, para indicar que não é o método da interface.
+- [ ] Devemos retorna null em todos os métodos implementados.
+- [ ] Não é necessário criar nenhum método presente na interface, pois quando a implementamos já os herdamos.
+
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/326>
+
+**Nível:** 3
+ 	
+***
+
+### 13 Qual a vantagem de usar o autoload do composer?
+
+- [x] Podemos carregar um único arquivo no projeto e ter acesso a todas as classes mapeadas.
+- [ ] As variáveis serão carregadas antes do projeto chegar ao fim do processamento.
+- [ ] As classes são todas carregadas e instanciadas, em variáveis fictícias, e ficam prontas para uso na memória.
+- [ ] Todos as classes já são instanciadas e todos os métodos testados em variáveis ocultas.
+- [ ] Não existe nenhuma vantagem, uma vez que temos todas as classes intanciadas em variáveis que ocupam lugar na memória.
+
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-php-avancando-com-oo/320>
+
+**Nível:** 3
  	
 ***
