@@ -1,12 +1,25 @@
 # Questões
 
-| Questões 1 - 7            | Questões 8 - 13             |
+| Questões 1 - 5            | Questões 5 - 10             |
 |---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 8 - Nível 2][8]   |  
+| [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   |  
+| [Question 2 - Nível 1][2] | [Question 7 - Nível 3][7]   |  
+| [Question 3 - Nível 1][3] | [Question 8 - Nível 3][8]   |  
+| [Question 4 - Nível 2][4] | [Question 9 - Nível 3][9]   |  
+| [Question 5 - Nível 2][5] | [Question 10 - Nível 3][10]   |  
                      
 ***
 
-[1]:#
+[1]:#1-o-padrão-mvc-foi-criado-na-década-de-70-com-qual-objetivo
+[2]:#2-qual-o-significado-de-cada-sigla-do-mvc
+[3]:#3-qual-a-sequência-de-operação-mais-completa-do-mvc
+[4]:#4-por-que-o-mvc-é-importante
+[5]:#5-por-que-o-composer-é-importante-na-criação-de-um-framework-mvc
+[6]:#6-por-que-as-rotas-são-importantes-na-criação-de-um-framework-e-para-a-estrutura-mvc
+[7]:#7-por-que-em-um-framework-mvc-geralmente-existe-a-abstração-das-classes-de-rota-e-controller
+[8]:#8-qual-destes-nÃo-fere-a-arquitetura-mvc
+[9]:#9-para-consolidar-os-conhecimentos-analise-as-afirmações-abaixo
+[10]:#10-quando-falamos-em-exibição-de-páginas-aos-usuários-e-classes-que-direcionam-o-fluxo-da-aplicação-mvc-qual-camadas-do
 
 ***
 
@@ -56,7 +69,7 @@
  	
 ***
 
-### 7 Por que o MVC é importante?
+### 4 Por que o MVC é importante?
 
 - [x] Separa as responsabilidades tornando seu sistema mais consistente e organizado.
 - [ ] Porque o MVC sempre será o melhor e mais utilizado método de criação de aplicações.
@@ -71,7 +84,7 @@
  	
 ***
 
-### 4 Por que o composer é importante na criação de um framework MVC?
+### 5 Por que o composer é importante na criação de um framework MVC?
 
 - [ ] Sem o composer não seria possível criar um sistema de rotas.
 - [ ] Sem o composer seria possível criar um framework pois não teríamos recursos suficientes.
@@ -86,7 +99,7 @@
  	
 ***
 
-### 5 Por que as rotas são importantes na criação de um framework e para a estrutura MVC?
+### 6 Por que as rotas são importantes na criação de um framework e para a estrutura MVC?
 
 - [ ] As rotas é que definem qual controller é mais importante dentro de um sistema MVC, defininindo a hierarquia de actions.
 - [ ] As rotas são responsáveis por toda persistência de informações no banco de dados, utilizando o MVC.
@@ -102,7 +115,7 @@
  	
 ***
 
-### 6 Por que, em um framework MVC, geralmente existe a abstração das classes de rota e controller?
+### 7 Por que, em um framework MVC, geralmente existe a abstração das classes de rota e controller?
 
 - [ ] Não tem um motivo exato, a abstração acaba sendo apenas uma forma de organizar e aumentar o código.
 - [x] O objetivo da abstração é facilitar a criação de rotas e controllers, de acordo com a necessidade do usuário, sempre mantendo o funcionamento correto.
@@ -133,23 +146,43 @@
  	
 ***
 
-
-
 ### 9 Para consolidar os conhecimentos analise as afirmações abaixo.
 
-1. O MODEL representa os dados da empresa e as regras de negócio que governam o acesso e atualização destes dados.
+1. O MODEL representa as regras de negócio de um sistema, bem como é responsável pela atualização dos dados quando necessário.
 
-2. O VIEW acessa os dados da empresa através do MODEL e especifica como esses dados devem ser apresentados. É de responsabilidade do VIEW manter a consistência em sua apresentação, quando o MODEL é alterado.
+2. A VIEW acessa os dados do sistema através do MODEL diretamente, sem passar por nenhum pré-direcionamento, e especifica como esses dados devem ser apresentados.
 
-3. O CONTROLLER traduz as interações do VIEW em ações a serem executadas pelo MODEL. Com base na interação do usuário e no resultado das ações do MODEL, o CONTROLLER responde selecionando uma VIEW adequada.
+3. O CONTROLLER é acessado de acordo com a rota acionada podendo ou não acionar o MODEL, que por sua vez, pode ou não acessar o banco de dados para retornar um resultado para o CONTROLLER que enviará um resultado para a VIEW.
 
-4. Permite uma única VIEW para compartilhar o mesmo modelo de dados corporativos em um fluxo de comunicação sequencial.
+4. É permitido a criação de apenas uma única VIEW para cada entidade do sistema.
 
-Está correto o que se afirma em
+Quais afirmativas estão corretas?
 
-    a) I, II, III e IV.
-    b) I, II e III, apenas.
-    c) II e III, apenas.
-    d) II, III e IV, apenas.
-    e) I e II, apenas. 
+- [ ] 1, 2 e 3
+- [x] 1 e 3
+- [ ] 2, 3 e 4
+- [ ] 1 e 2 
+- [ ] Todas estão corretas
 
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-php-com-mvc/346>
+
+**Nível:** 3
+ 	
+***
+
+### 10 Quando falamos em exibição de páginas aos usuários e classes que direcionam o fluxo da aplicação MVC, qual camadas, do padrão MVC, estamos falando respectivamente?
+
+- [ ] Controller e Model
+- [ ] Controller e View
+- [x] View e Controller
+- [ ] Model e View
+- [ ] View e Model
+
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-php-com-mvc/346>
+    2. Fique atento a ordem das respostas.
+
+**Nível:** 3
+ 	
+***
