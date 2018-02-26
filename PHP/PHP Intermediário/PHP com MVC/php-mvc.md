@@ -19,7 +19,7 @@
 [7]:#7-por-que-em-um-framework-mvc-geralmente-existe-a-abstração-das-classes-de-rota-e-controller
 [8]:#8-qual-destes-nÃo-fere-a-arquitetura-mvc
 [9]:#9-para-consolidar-os-conhecimentos-analise-as-afirmações-abaixo
-[10]:#10-quando-falamos-em-exibição-de-páginas-aos-usuários-e-classes-que-direcionam-o-fluxo-da-aplicação-mvc-qual-camadas-do
+[10]:#10-quando-falamos-em-exibição-de-páginas-aos-usuários-e-classes-que-direcionam-o-fluxo-da-aplicação-mvc-qual-camadas-do-padrão-mvc-estamos-falando-respectivamente
 
 ***
 
