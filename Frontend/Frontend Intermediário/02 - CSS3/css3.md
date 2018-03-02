@@ -4,7 +4,7 @@
 |-----------------------------|-----------------------------|
 | [Question 1 - Nível 1][1]   | [Question 11 - Nível 1][11] |  
 | [Question 2 - Nível 2][2]   | [Question 12 - Nível 1][12] |  
-| [Question 3 - Nível 1][3]   | [Question 13 - Nível 1][13] |  
+| [Question 3 - Nível 2][3]   | [Question 13 - Nível 1][13] |  
 | [Question 4 - Nível 1][4]   | [Question 14 - Nível 1][14] |  
 | [Question 5 - Nível 2][5]   | [Question 15 - Nível 1][15] |  
 | [Question 6 - Nível 2][6]   | [Question 16 - Nível 2][16] |  
@@ -13,11 +13,27 @@
 | [Question 9 - Nível 1][9]   | [Question 19 - Nível 1][19] |  
 | [Question 10 - Nível 1][10] |                             |  
 
-[1]:#1-analise-a-frase-abaixo-e-selecione-a-opção-correta
+***
+
+[1]:#1-analise-a-frase-abaixo-e-marque-verdadeiro-ou-falso
+
+### 1 Analise a frase abaixo e marque verdadeiro ou falso.
+
+"O CSS3 é totalmente compatível com versões anteriores do CSS."
+
+- [x] Verdadeiro
+- [ ] Falso
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/48>
+
+**Nível:** 1
 
 ***
 
-### 1 Analise o código abaixo e selecione a opção correta.
+[2]:#2-analise-a-frase-abaixo-e-selecione-a-opção-correta
+
+### 2 Analise o código abaixo e selecione a opção correta.
 
 ```css
 .element{
@@ -37,3 +53,23 @@ Analisando o código acima qual será o comportamento do elemento?
     1. <https://www.schoolofnet.com/curso-css3/48> 
 
 **Nível:** 2
+
+***
+
+[3]:#3-analise-a-frase-abaixo-e-selecione-a-opção-correta
+
+### 3 Sobre a propriedade border-image, selecione a opção INCORRETA:
+
+- [ ] A propriedade border-image permite especificar uma imagem a ser usada como borda em torno de um elemento.
+- [x] A propriedade border-image é suportada nativamente por todos os navegadores.
+- [ ] Utilizamos o parâmetro stretch para esticar a imagem na borda ao invés de repeti-la.
+- [ ] Em alguns navegadores precisamos utilizar o prefixo -webkit-, -moz-, ou -o- para que o navegador reconheça a propriedade border-image.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/49> 
+
+**Nível:** 2
+
+***
+
+
