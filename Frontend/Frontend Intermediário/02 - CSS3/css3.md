@@ -13,6 +13,8 @@
 | [Question 9 - Nível 1][9]   | [Question 19 - Nível 1][19] |  
 | [Question 10 - Nível 1][10] |                             |  
 
+***
+
 [1]:#1-analise-a-frase-abaixo-e-marque-verdadeiro-ou-falso
 
 ### 1 Analise a frase abaixo e marque verdadeiro ou falso.
@@ -27,9 +29,9 @@
 
 **Nível:** 1
 
-[2]:#2-analise-a-frase-abaixo-e-selecione-a-opção-correta
-
 ***
+
+[2]:#2-analise-a-frase-abaixo-e-selecione-a-opção-correta
 
 ### 2 Analise o código abaixo e selecione a opção correta.
 
@@ -51,3 +53,6 @@ Analisando o código acima qual será o comportamento do elemento?
     1. <https://www.schoolofnet.com/curso-css3/48> 
 
 **Nível:** 2
+
+***
+
