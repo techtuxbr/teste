@@ -27,3 +27,27 @@
 
 **Nível:** 1
 
+[2]:#2-analise-a-frase-abaixo-e-selecione-a-opção-correta
+
+***
+
+### 2 Analise o código abaixo e selecione a opção correta.
+
+```css
+.element{
+    border-radius: 20px 0;
+}
+```
+
+Analisando o código acima qual será o comportamento do elemento?
+
+- [ ] Teremos todas as bordas com um raio de 20 pixels.
+- [ ] A borda do canto superior esquerdo terá um raio de 20 pixels e todas as outras bordas terão o radio igual a 0 pixel.
+- [ ] A borda do canto superior direito terá um raio de 0 pixel e todas as outras bordas terão um raio de 20 pixels.
+- [x] A borda do canto superior direito e inferior esquerdo terá um raio de 0 pixel e a borda do canto superior esquerdo e inferior direito terá um raio de 20 pixels.
+- [ ] Não teremos nenhuma borda sendo exibida, pois teríamos um erro de sintaxe.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/48> 
+
+**Nível:** 2
