@@ -1,23 +1,31 @@
 # Questões
 
-| Questões 1 - 10             | Questões 11 - 19            |
-|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1]   | [Question 11 - Nível 1][11] |  
-| [Question 2 - Nível 2][2]   | [Question 12 - Nível 1][12] |  
-| [Question 3 - Nível 2][3]   | [Question 13 - Nível 1][13] |  
-| [Question 4 - Nível 1][4]   | [Question 14 - Nível 1][14] |  
-| [Question 5 - Nível 2][5]   | [Question 15 - Nível 1][15] |  
-| [Question 6 - Nível 2][6]   | [Question 16 - Nível 2][16] |  
-| [Question 7 - Nível 1][7]   | [Question 17 - Nível 2][17] |  
-| [Question 8 - Nível 1][8]   | [Question 18 - Nível 2][18] |  
-| [Question 9 - Nível 1][9]   | [Question 19 - Nível 1][19] |  
-| [Question 10 - Nível 1][10] |                             |  
+| Questões 1 - 5            | Questões 5 - 10             |
+|---------------------------|-----------------------------|
+| [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   |  
+| [Question 2 - Nível 2][2] | [Question 7 - Nível 3][7]   |  
+| [Question 3 - Nível 2][3] | [Question 8 - Nível 3][8]   |  
+| [Question 4 - Nível 2][4] | [Question 9 - Nível 3][9]   |  
+| [Question 5 - Nível 2][5] | [Question 10 - Nível 3][10]   |  
+                     
+***
+
+[1]:#questão-1
+[2]:#questão-2
+[3]:#questão-3
+[4]:#questão-4
+[5]:#questão-5
+[6]:#questão-6
+[7]:#questão-7
+[8]:#questão-8
+[9]:#questão-9
+[10]:#questão-10
 
 ***
 
-[1]:#1-analise-a-frase-abaixo-e-marque-verdadeiro-ou-falso
+### Questão 1
 
-### 1 Analise a frase abaixo e marque verdadeiro ou falso.
+Analise a frase abaixo e marque verdadeiro ou falso.
 
 "O CSS3 é totalmente compatível com versões anteriores do CSS."
 
@@ -31,9 +39,9 @@
 
 ***
 
-[2]:#2-analise-o-código-abaixo-e-selecione-a-opção-correta
+### Questão 2
 
-### 2 Analise o código abaixo e selecione a opção correta.
+Analise o código abaixo e selecione a opção correta.
 
 ```css
 .element{
@@ -56,9 +64,9 @@ Analisando o código acima qual será o comportamento do elemento?
 
 ***
 
-[3]:#3-sobre-a-propriedade-border-image-selecione-a-opção-incorreta
+### Questão 3 
 
-### 3 Sobre a propriedade border-image, selecione a opção INCORRETA:
+Sobre a propriedade border-image, selecione a opção INCORRETA:
 
 - [ ] A propriedade border-image permite especificar uma imagem a ser usada como borda em torno de um elemento.
 - [x] A propriedade border-image é suportada nativamente por todos os navegadores.
@@ -72,4 +80,27 @@ Analisando o código acima qual será o comportamento do elemento?
 
 ***
 
+### Questão 4 
 
+Analise o código abaixo e selecione a opção correta.
+
+```css
+#img1{
+    background-image url(../img/imagem1.jpg), url(../img/imagem2.jpg), url(../img/imagem3.jpg);
+}
+```
+
+Analisando o código acima qual será o comportamento das imagens no background?
+
+- [ ] Todo o background será preenchido com a imagem1.jpg e as outras imagens serão descartadas.
+- [ ] A imagem1.jpg será posicionada na frente da imagem2.jpg e imagem3.jpg.
+- [ ] A imagem3.jpg será posicionada na frente da imagem2.jpg, e a imagem1.jpg será descartada.
+- [ ] A imagem3.jpg será posicionada na frente da imagem2.jpg, e a imagem2.jpg será posicionada na frente da imagem1.jpg.
+- [x] Resultará em um erro de sintax.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/50> 
+
+**Nível:** 2
+
+***
