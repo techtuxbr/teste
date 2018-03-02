@@ -31,7 +31,7 @@
 
 ***
 
-[2]:#2-analise-a-frase-abaixo-e-selecione-a-opção-correta
+[2]:#2-analise-o-código-abaixo-e-selecione-a-opção-correta
 
 ### 2 Analise o código abaixo e selecione a opção correta.
 
@@ -56,7 +56,7 @@ Analisando o código acima qual será o comportamento do elemento?
 
 ***
 
-[3]:#3-analise-a-frase-abaixo-e-selecione-a-opção-correta
+[3]:#3-sobre-a-propriedade-border-image-selecione-a-opção-incorreta
 
 ### 3 Sobre a propriedade border-image, selecione a opção INCORRETA:
 
