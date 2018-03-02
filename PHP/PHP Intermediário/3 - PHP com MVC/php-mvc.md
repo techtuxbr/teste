@@ -10,20 +10,22 @@
                      
 ***
 
-[1]:#1-o-padrão-mvc-foi-criado-na-década-de-70-com-qual-objetivo
-[2]:#2-qual-o-significado-de-cada-sigla-do-mvc
-[3]:#3-qual-a-sequência-de-operação-mais-completa-do-mvc
-[4]:#4-por-que-o-mvc-é-importante
-[5]:#5-por-que-o-composer-é-importante-na-criação-de-um-framework-mvc
-[6]:#6-por-que-as-rotas-são-importantes-na-criação-de-um-framework-e-para-a-estrutura-mvc
-[7]:#7-por-que-em-um-framework-mvc-geralmente-existe-a-abstração-das-classes-de-rota-e-controller
-[8]:#8-qual-destes-nÃo-fere-a-arquitetura-mvc
-[9]:#9-para-consolidar-os-conhecimentos-analise-as-afirmações-abaixo
-[10]:#10-quando-falamos-em-exibição-de-páginas-aos-usuários-e-classes-que-direcionam-o-fluxo-da-aplicação-mvc-qual-camadas-do-padrão-mvc-estamos-falando-respectivamente
+[1]:#Questão-1
+[2]:#Questão-2
+[3]:#Questão-3
+[4]:#Questão-4
+[5]:#Questão-5
+[6]:#Questão-6
+[7]:#Questão-7
+[8]:#Questão-8
+[9]:#Questão-9
+[10]:#Questão-10
 
 ***
 
-### 1 O padrão MVC foi criado na década de 70 com qual objetivo?
+### Questão 1
+
+O padrão MVC foi criado na década de 70 com qual objetivo?
 
 - [ ] Vender softwares que implementassem este padrão. 
 - [ ] Vender cursos de programação para ensinar o novo padrão e movimentar o mercado.
@@ -38,7 +40,9 @@
  	
 ***
 
-### 2 Qual o significado de cada sigla do MVC?
+### Questão 2
+
+Qual o significado de cada sigla do MVC?
 
 - [ ] Moving, View e Creating
 - [x] Model, View e Controller
@@ -53,7 +57,9 @@
  	
 ***
 
-### 3 Qual a sequência de operação mais completa do MVC?
+### Questão 3
+
+Qual a sequência de operação mais completa do MVC?
 
 - [ ] model -> controller -> view
 - [x] controller -> model -> controller -> view
@@ -69,7 +75,9 @@
  	
 ***
 
-### 4 Por que o MVC é importante?
+### Questão 4
+
+Por que o MVC é importante?
 
 - [x] Separa as responsabilidades tornando seu sistema mais consistente e organizado.
 - [ ] Porque o MVC sempre será o melhor e mais utilizado método de criação de aplicações.
@@ -84,7 +92,9 @@
  	
 ***
 
-### 5 Por que o composer é importante na criação de um framework MVC?
+### Questão 5
+
+Por que o composer é importante na criação de um framework MVC?
 
 - [ ] Sem o composer não seria possível criar um sistema de rotas.
 - [ ] Sem o composer seria possível criar um framework pois não teríamos recursos suficientes.
@@ -99,7 +109,9 @@
  	
 ***
 
-### 6 Por que as rotas são importantes na criação de um framework e para a estrutura MVC?
+### Questão 6 
+
+Por que as rotas são importantes na criação de um framework e para a estrutura MVC?
 
 - [ ] As rotas é que definem qual controller é mais importante dentro de um sistema MVC, defininindo a hierarquia de actions.
 - [ ] As rotas são responsáveis por toda persistência de informações no banco de dados, utilizando o MVC.
@@ -115,7 +127,9 @@
  	
 ***
 
-### 7 Por que, em um framework MVC, geralmente existe a abstração das classes de rota e controller?
+### Questão 7 
+
+Por que, em um framework MVC, geralmente existe a abstração das classes de rota e controller?
 
 - [ ] Não tem um motivo exato, a abstração acaba sendo apenas uma forma de organizar e aumentar o código.
 - [x] O objetivo da abstração é facilitar a criação de rotas e controllers, de acordo com a necessidade do usuário, sempre mantendo o funcionamento correto.
@@ -131,7 +145,9 @@
  	
 ***
 
-### 8 Qual destes NÃO fere a arquitetura MVC?
+### Questão 8 
+
+Qual destes NÃO fere a arquitetura MVC?
 
 - [ ] Acoplar HTML com a camada Model, já que isto facilita a integração das camadas.
 - [ ] A camada Model receber as requisições HTTP, já que isto facilita a manipulação dos dados.
@@ -146,7 +162,9 @@
  	
 ***
 
-### 9 Para consolidar os conhecimentos analise as afirmações abaixo.
+### Questão 9 
+
+Para consolidar os conhecimentos analise as afirmações abaixo.
 
 1. O MODEL representa as regras de negócio de um sistema, bem como é responsável pela atualização dos dados quando necessário.
 
@@ -171,7 +189,9 @@ Quais afirmativas estão corretas?
  	
 ***
 
-### 10 Quando falamos em exibição de páginas aos usuários e classes que direcionam o fluxo da aplicação MVC, qual camadas, do padrão MVC, estamos falando respectivamente?
+### Questão 10 
+
+Quando falamos em exibição de páginas aos usuários e classes que direcionam o fluxo da aplicação MVC, qual camadas, do padrão MVC, estamos falando respectivamente?
 
 - [ ] Controller e Model
 - [ ] Controller e View
