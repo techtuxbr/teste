@@ -86,7 +86,7 @@ Analise o código abaixo e selecione a opção correta.
 
 ```css
 #img1{
-    background-image url(../img/imagem1.jpg), url(../img/imagem2.jpg), url(../img/imagem3.jpg);
+    background-image: url(../img/imagem1.jpg), url(../img/imagem2.jpg), url(../img/imagem3.jpg);
 }
 ```
 
@@ -95,11 +95,30 @@ Analisando o código acima qual será o comportamento das imagens no background?
 - [ ] Todo o background será preenchido com a imagem1.jpg e as outras imagens serão descartadas.
 - [ ] A imagem1.jpg será posicionada na frente da imagem2.jpg e imagem3.jpg.
 - [ ] A imagem3.jpg será posicionada na frente da imagem2.jpg, e a imagem1.jpg será descartada.
-- [ ] A imagem3.jpg será posicionada na frente da imagem2.jpg, e a imagem2.jpg será posicionada na frente da imagem1.jpg.
-- [x] Resultará em um erro de sintax.
+- [x] A imagem3.jpg será posicionada na frente da imagem2.jpg, e a imagem2.jpg será posicionada na frente da imagem1.jpg.
+- [ ] Resultará em um erro de sintax.
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-css3/50> 
+
+**Nível:** 2
+
+***
+
+### Questão 5
+
+As especificações do W3C para o CSS preveem várias propriedades, tais como color, background-color, border-color e outras, destinadas a definir cores. Os valores possíveis para tais propriedades podem ser definidos usandos-se alguns tipos de dados.
+
+Asinale a alternativa que contenha os tipos de dados suportados para definir cores em propriedades do CSS3.
+
+- [ ] Hexadecimal e RGB
+- [ ] Hexadecimal, Octal e RGBA
+- [ ] Hexadecimal, RGB e RGBA
+- [x] Hexadecimal, RGB, RGBA, HSL e HSLA
+- [ ] RGBA, HSL e HSLA
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/51> 
 
 **Nível:** 2
 
