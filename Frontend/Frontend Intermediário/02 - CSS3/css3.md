@@ -3,7 +3,7 @@
 | Questões 1 - 5            | Questões 5 - 10             |
 |---------------------------|-----------------------------|
 | [Question 1 - Nível 1][1] | [Question 6 - Nível 1][6]   |  
-| [Question 2 - Nível 2][2] | [Question 7 - Nível 3][7]   |  
+| [Question 2 - Nível 2][2] | [Question 7 - Nível 1][7]   |  
 | [Question 3 - Nível 2][3] | [Question 8 - Nível 3][8]   |  
 | [Question 4 - Nível 2][4] | [Question 9 - Nível 3][9]   |  
 | [Question 5 - Nível 2][5] | [Question 10 - Nível 3][10]   |  
@@ -143,7 +143,23 @@ Analisando o código acima qual será o comportamento do texto?
 - [ ] Resultará em um erro de sintax, pois está faltando mais atributos.
 
 * **Dica:**
-    1. <https://www.schoolofnet.com/curso-css3/50> 
+    1. <https://www.schoolofnet.com/curso-css3/52> 
+
+**Nível:** 1
+
+***
+
+### Questão 7 
+
+Qual a propriedade do CSS que determina como o conteúdo que ultrapassou a sua div e que não é mostrado ao usuário deve ser exibido?
+
+- [x] text-overflow
+- [ ] white-space
+- [ ] display
+- [ ] overflow
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/53> 
 
 **Nível:** 1
 
