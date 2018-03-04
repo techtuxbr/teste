@@ -4,7 +4,7 @@
 |---------------------------|-----------------------------|
 | [Question 1 - Nível 1][1] | [Question 6 - Nível 1][6]   |  
 | [Question 2 - Nível 2][2] | [Question 7 - Nível 1][7]   |  
-| [Question 3 - Nível 2][3] | [Question 8 - Nível 3][8]   |  
+| [Question 3 - Nível 2][3] | [Question 8 - Nível 1][8]   |  
 | [Question 4 - Nível 2][4] | [Question 9 - Nível 3][9]   |  
 | [Question 5 - Nível 2][5] | [Question 10 - Nível 3][10]   |  
                      
@@ -157,6 +157,24 @@ Qual a propriedade do CSS que determina como o conteúdo que ultrapassou a sua d
 - [ ] white-space
 - [ ] display
 - [ ] overflow
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/53> 
+
+**Nível:** 1
+
+***
+
+### Questão 8
+
+Se queremos substituir o conteúdo que ultrapassou uma div por "..." devemos definir um valor para a propriedade text-overflow no CSS3.
+
+Assinale a alternativa que corresponde a esse valor.
+
+- [ ] hidden
+- [ ] nowrap
+- [ ] clip
+- [x] ellipsis
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-css3/53> 
