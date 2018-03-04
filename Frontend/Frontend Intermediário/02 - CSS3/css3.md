@@ -2,7 +2,7 @@
 
 | Questões 1 - 5            | Questões 5 - 10             |
 |---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   |  
+| [Question 1 - Nível 1][1] | [Question 6 - Nível 1][6]   |  
 | [Question 2 - Nível 2][2] | [Question 7 - Nível 3][7]   |  
 | [Question 3 - Nível 2][3] | [Question 8 - Nível 3][8]   |  
 | [Question 4 - Nível 2][4] | [Question 9 - Nível 3][9]   |  
@@ -121,5 +121,30 @@ Asinale a alternativa que contenha os tipos de dados suportados para definir cor
     1. <https://www.schoolofnet.com/curso-css3/51> 
 
 **Nível:** 2
+
+***
+
+### Questão 6 
+
+Analise o código abaixo e selecione a opção correta.
+
+```css
+p{
+    text-shadow: 5px 10px; 
+}
+```
+
+Analisando o código acima qual será o comportamento do texto?
+
+- [x] O texto terá uma sombra com deslocamento de 5 pixels para o eixo x e 10 pixels para o eixo y.
+- [ ] O texto terá uma sombra com deslocamento de 5 pixels para o eixo y e 10 pixels para o eixo x.
+- [ ] O texto terá duas sombras, uma com deslocamento de 5 pixels e a outra com 10 pixels de deslocamento.
+- [ ] O texto terá uma sombra com deslocamento de 5 pixels e um desfoque de 10 pixels.
+- [ ] Resultará em um erro de sintax, pois está faltando mais atributos.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/50> 
+
+**Nível:** 1
 
 ***
