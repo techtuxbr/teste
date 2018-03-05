@@ -248,13 +248,13 @@ $carro->drive(7);
 ```
 
 - [ ] O poder do usuário poder trabalhar com mais do que duas exceptions diferentes ao mesmo tempo.
-- [ ] O fato de podermos extender um erro da classe Exception.
+- [ ] O fato de podermos extender sua própria classe de erro da classe Exception.
 - [x] O uso do caracter pipe "|" quando existem duas, ou mais, tratativas iguais para exceptions diferentes.
 - [ ] O fato de poder criar nossas próprias exceptions.
 - [ ] Nenhuma novidade, todos os recursos utilizados acima existiam no PHP 7.0.
 
 * **Dica:**    	
-    1. <https://www.schoolofnet.com/curso-novidades-do-php71/2477>
+    1. <https://www.schoolofnet.com/curso-novidades-do-php71/2478>
     
 **Nível:** 2
  	
