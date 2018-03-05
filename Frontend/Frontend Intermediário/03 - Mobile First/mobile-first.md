@@ -1,14 +1,12 @@
 # Questões
 
-| Questões 1 - 7            | Questões 8 - 14             |
-|---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 8 - Nível 2][8]   |  
-| [Question 2 - Nível 1][2] | [Question 9 - Nível 2][9]   |  
-| [Question 3 - Nível 1][3] | [Question 10 - Nível 3][10] |  
-| [Question 4 - Nível 1][4] | [Question 11 - Nível 3][11] |  
-| [Question 5 - Nível 2][5] | [Question 12 - Nível 3][12] |  
-| [Question 6 - Nível 2][6] | [Question 13 - Nível 3][13] |  
-| [Question 7 - Nível 2][7] | [Question 14 - Nível 3][14] |  
+| Questões 1 - 5            | Questões 6 - 10             | Questões 11 - 15            |
+|---------------------------|-----------------------------|-----------------------------|
+| [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   | [Question 11 - Nível 3][11] |  
+| [Question 2 - Nível 1][2] | [Question 7 - Nível 2][7]   | [Question 12 - Nível 3][12] |  
+| [Question 3 - Nível 1][3] | [Question 8 - Nível 2][8]   | [Question 13 - Nível 3][13] |  
+| [Question 4 - Nível 1][4] | [Question 9 - Nível 2][9]   | [Question 14 - Nível 3][14] |  
+| [Question 5 - Nível 2][5] | [Question 10 - Nível 3][10] | [Question 15 - Nível 3][15] |  
                      
 ***
 
@@ -26,6 +24,7 @@
 [12]:#questão-12
 [13]:#questão-13
 [14]:#questão-14
+[15]:#questão-15
 
 
 ***
@@ -314,6 +313,25 @@ Sabendo que o menu mobile deve empurrar o conteúdo do site para frente, qual el
     2. Não esqueça de analisar o Javascript e também o CSS para responder.
 
 Resp.: body
+
+**Nível:** 3
+ 	
+***
+
+### Questão 15
+
+Qual a tag HTML que podemos utilizar para otimizar o carregamento de imagens, utilizando o conceito mobile first? Qual a subtag utilizada, seguida da propriedade responsável por diferenciar as imagens, de acordo com o tamanho do dispositivo?
+
+Sequência da resposta: tag - subtag - propriedade
+
+- [ ] picture - source - srcset
+- [x] picture - source - media
+- [ ] figure - source - media
+- [ ] figure - source - srcset
+- [ ] image - media - source
+
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-css-intermediario-mobile-first/6279>
 
 **Nível:** 3
  	
