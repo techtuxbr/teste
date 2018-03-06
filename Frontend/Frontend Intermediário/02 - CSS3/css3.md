@@ -6,7 +6,7 @@
 | [Question 2 - Nível 2][2] | [Question 7 - Nível 1][7]   |  
 | [Question 3 - Nível 2][3] | [Question 8 - Nível 1][8]   |  
 | [Question 4 - Nível 2][4] | [Question 9 - Nível 2][9]   |  
-| [Question 5 - Nível 2][5] | [Question 10 - Nível 3][10]   |  
+| [Question 5 - Nível 2][5] | [Question 10 - Nível 2][10]   |  
                      
 ***
 
@@ -203,6 +203,26 @@ Analisando o código acima, selecione a opção que INCORRETA.
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-css3/54> 
+
+**Nível:** 2
+
+***
+
+### Questão 10
+
+A propriedade ```transform``` do CSS3 aceita vários valores que servem para modificar a forma de um elemento. 
+
+Qual valor utilizamos para mover um elemento no eixo X e Y?
+
+- [ ] skewY
+- [ ] skewX
+- [ ] skew
+- [ ] scale
+- [ ] rotate
+- [x] translation
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/55> 
 
 **Nível:** 2
 
