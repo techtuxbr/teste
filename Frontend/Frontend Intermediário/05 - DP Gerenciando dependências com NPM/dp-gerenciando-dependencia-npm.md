@@ -2,12 +2,12 @@
 
 | Questões 1 - 6            | Questões 7 - 12             |
 |---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 7 - Nível 2][7]   |  
-| [Question 2 - Nível 1][2] | [Question 8 - Nível 2][8]   |  
-| [Question 3 - Nível 2][3] | [Question 9 - Nível 2][9]   |  
-| [Question 4 - Nível 2][4] | [Question 10 - Nível 2][10] |  
+| [Question 1 - Nível 1][1] | [Question 7 - Nível 3][7]   |  
+| [Question 2 - Nível 1][2] | [Question 8 - Nível 3][8]   |  
+| [Question 3 - Nível 2][3] | [Question 9 - Nível 3][9]   |  
+| [Question 4 - Nível 2][4] | [Question 10 - Nível 3][10] |  
 | [Question 5 - Nível 2][5] | [Question 11 - Nível 3][11] |  
-| [Question 6 - Nível 2][6] |                             |
+| [Question 6 - Nível 3][6] |                             |
                   
 ***
 
@@ -124,7 +124,7 @@ Qual o comando responsável por gerar o arquivo inicial do seu projeto?
 
 ### Questão 7
 
-Qual o comando para instalar um pacote e consequentemente adicionar como dependência do mesmo.
+Qual o comando para instalar um pacote e, consequentemente, adicioná-lo como dependência do mesmo.
 
 - [ ] `npm require nome_do_pacote@version --save`
 - [x] `npm install nome_do_pacote@version --save`
