@@ -268,7 +268,7 @@ Referente a menus e o conceito mobile first, qual a alternativa está correta?
 
 ### Questão 13
 
-Qual linguagem devemos utilizar parar fazer uma interação entre classes e produzir um melhor aproveitamento do layout?
+Qual linguagem podemos utilizar parar fazer uma interação entre classes e produzir um melhor aproveitamento do layout?
 
 - [ ] Java
 - [ ] C++
@@ -278,6 +278,7 @@ Qual linguagem devemos utilizar parar fazer uma interação entre classes e prod
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-css-intermediario-mobile-first/6277>
+    2. Existem outros tipos de interações, porém você deve saber qual é a linguagem mais utilizada para fazer as interações entre o HTML e o CSS.
 
 **Nível:** 3
  	
