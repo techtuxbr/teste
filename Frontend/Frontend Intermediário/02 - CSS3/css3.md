@@ -1,12 +1,12 @@
 # Questões
 
-| Questões 1 - 5            | Questões 5 - 10             |
-|---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 6 - Nível 1][6]   |  
-| [Question 2 - Nível 2][2] | [Question 7 - Nível 1][7]   |  
-| [Question 3 - Nível 2][3] | [Question 8 - Nível 1][8]   |  
-| [Question 4 - Nível 2][4] | [Question 9 - Nível 2][9]   |  
-| [Question 5 - Nível 2][5] | [Question 10 - Nível 2][10]   |  
+| Questões 1 - 5            | Questões 5 - 10             | Questões 11 - 15            |
+|---------------------------|-----------------------------|-----------------------------|
+| [Question 1 - Nível 1][1] | [Question 6 - Nível 1][6]   | [Question 11 - Nível 3][11] |
+| [Question 2 - Nível 2][2] | [Question 7 - Nível 1][7]   | [Question 12 - Nível 1][12] |
+| [Question 3 - Nível 2][3] | [Question 8 - Nível 1][8]   | [Question 13 - Nível 1][13] |
+| [Question 4 - Nível 2][4] | [Question 9 - Nível 2][9]   | [Question 14 - Nível 1][14] |
+| [Question 5 - Nível 2][5] | [Question 10 - Nível 2][10] | [Question 15 - Nível 1][15] |
                      
 ***
 
@@ -20,6 +20,11 @@
 [8]:#questão-8
 [9]:#questão-9
 [10]:#questão-10
+[11]:#questão-11
+[12]:#questão-12
+[13]:#questão-13
+[14]:#questão-14
+[15]:#questão-15
 
 ***
 
@@ -225,5 +230,25 @@ Qual valor utilizamos para mover um elemento no eixo X e Y?
     1. <https://www.schoolofnet.com/curso-css3/55> 
 
 **Nível:** 2
+
+***
+
+### Questão 11
+
+Para girar um elemento em sentido horário com o CSS3 podemos utilizar uma função da propriedade ```transform```, então devemos incrementar de forma crescente o valor passado na função.
+
+Qual função da propriedade transform utilizamos para obter esse efeito?
+
+- [ ] rotateX()
+- [ ] skew()
+- [ ] skewX()
+- [ ] scale()
+- [ ] rotate()
+- [x] rotateZ()
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/56> 
+
+**Nível:** 3
 
 ***
