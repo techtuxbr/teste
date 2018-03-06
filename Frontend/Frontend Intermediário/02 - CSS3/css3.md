@@ -5,7 +5,7 @@
 | [Question 1 - Nível 1][1] | [Question 6 - Nível 1][6]   |  
 | [Question 2 - Nível 2][2] | [Question 7 - Nível 1][7]   |  
 | [Question 3 - Nível 2][3] | [Question 8 - Nível 1][8]   |  
-| [Question 4 - Nível 2][4] | [Question 9 - Nível 3][9]   |  
+| [Question 4 - Nível 2][4] | [Question 9 - Nível 2][9]   |  
 | [Question 5 - Nível 2][5] | [Question 10 - Nível 3][10]   |  
                      
 ***
@@ -167,7 +167,7 @@ Qual a propriedade do CSS que determina como o conteúdo que ultrapassou a sua d
 
 ### Questão 8
 
-Se queremos substituir o conteúdo que ultrapassou uma div por "..." devemos definir um valor para a propriedade text-overflow no CSS3.
+Se queremos substituir o conteúdo que ultrapassou uma div e que não é mostrado ao usuário por "..." devemos definir um valor para a propriedade text-overflow no CSS3.
 
 Assinale a alternativa que corresponde a esse valor.
 
@@ -180,5 +180,30 @@ Assinale a alternativa que corresponde a esse valor.
     1. <https://www.schoolofnet.com/curso-css3/53> 
 
 **Nível:** 1
+
+***
+
+### Questão 9
+
+Analise o código abaixo e selecione a opção INCORRETA.
+
+```css
+@font-face{
+    font-family: "MyFont";
+    src: url(../fonts/myfont.ttf);
+}
+```
+
+Analisando o código acima, selecione a opção que INCORRETA.
+
+- [ ] Para que a página da web não fique alterando as fontes de acordo com a máquina do usuário, podemos manter os arquivos de fontes em uma pasta no próprio servidor.
+- [x] Uma vez que nem todas as fontes estão pré-instaladas nos navegadores e sistemas operacionais dos usuários, podemos utilizar esse mecanismo do html5 para compensar esta lacuna. 
+- [ ] O mecanismo @font-face possibilita utilizar fonts externas em websites.
+- [ ] Muitas vezes nos deparamos com incompatibilidade de fontes e, automaticamente, seus textos serão adaptados às fontes disponíveis no sistema.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-css3/54> 
+
+**Nível:** 2
 
 ***
