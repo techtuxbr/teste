@@ -295,7 +295,7 @@ Resp.: media
  	
 ***
 
-### Questão 17
+### Questão 16
 
 Qual das alternativas abaixo NÃO faz parte dos recursos para layouts?
 
