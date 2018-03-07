@@ -38,35 +38,30 @@ Considerando os princípios de SOLID, marque a opção que represente o código 
     }else if($cor1 != $cor2){
         $result = false;
     }
-    return $result;
-```
+    return $result;```
 - [ ] ```php
     if($cor1 == $cor2){
         return true;
     }else if($cor1 != $cor2){
         return false;
-    }
-```
+    }```
 - [ ] ```php
     if($cor1 == $cor2){
         return true;
     }else{
         return false;
-    }
-```
+    }```
 - [ ] ```php
     if($cor1 != $cor2){
         return false;
     }else{
         return true;
-    }
-```
+    }```
 - [x] ```php
     if($cor1 == $cor2){
         return true;
     }
-    return false;
-```
+    return false;```
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-solid-com-php/2844>
@@ -153,10 +148,10 @@ O conceito acima está relacionado a qual princípio do SOLID?
 Qual princípio do SOLID diz que não devemos fazer com que uma classe dependa de uma classe final?
 
 - [ ] Princípio da Responsabilidade Única.
-- [ ] Princípio do Aberto Fechado.
-- [x] Príncipio da Substituição de Liskov.
+- [ ] Princípio de Não Dependência.
+- [ ] Príncipio da Substituição de Liskov.
 - [ ] Princípio da Segregação de Interfaces.
-- [ ] Princípio da Inversão de Dependências.
+- [x] Princípio da Inversão de Dependências.
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-solid-com-php/2852> 
