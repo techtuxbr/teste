@@ -72,15 +72,13 @@ O Yarn utiliza um arquivo específico para fazer todo gerenciamento de bibliotec
 * **Dica:**    	
     1. <https://www.schoolofnet.com/canal-direto-ao-ponto/utilizando-yarn/>   
 
-Resp.: 
-
 **Nível:** 1
  	
 ***
 
 ### Questão 4
 
-Qual o comando responsável por gerar o arquivo inicial do seu projeto com yarn?
+Qual o comando responsável por gerar o arquivo inicial do seu projeto com Yarn?
 
 - [ ] `yarn ini`
 - [ ] `yarn root`
@@ -97,7 +95,7 @@ Qual o comando responsável por gerar o arquivo inicial do seu projeto com yarn?
 
 ### Questão 5
 
-Qual o comando para instalar um pacote e, consequentemente, adicioná-lo como dependência do mesmo.
+Qual o comando para instalar um pacote e, consequentemente, adicioná-lo como dependência do projeto.
 
 - [ ] `yarn require nome_do_pacote@version --save`
 - [x] `yarn add nome_do_pacote@version --save`
