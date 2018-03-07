@@ -290,7 +290,7 @@ Sobre as animações do projeto, o que é possível afirmar?
 
 - [ ] O Bootstrap possui uma biblioteca acoplada chamada Wow.js que faz animações.
 - [ ] O Bootstrap não possui nativamente, mas podemos instalar através de um comando "bootstrap install wow".
-- [ ] O Wow.js é uma biblioteca independente do Bootstrap, portanto sempre é necessário a instalação.
+- [x] O Wow.js é uma biblioteca independente do Bootstrap, portanto sempre é necessária a instalação.
 - [ ] O Bootstrap tem classes prontas para utililizar os recursos da biblioteca Wow.
 - [ ] Todas as animações foram feitas somente com o Bootstrap, o Wow foi instalado só para complementar.
 
