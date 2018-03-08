@@ -3,7 +3,7 @@
 | Questões 1 - 5            | Questões 5 - 10             | Questões 11 - 15            |
 |---------------------------|-----------------------------|-----------------------------|
 | [Question 1 - Nível 1][1] | [Question 6 - Nível 1][6]   | [Question 11 - Nível 3][11] |
-| [Question 2 - Nível 2][2] | [Question 7 - Nível 1][7]   | [Question 12 - Nível 1][12] |
+| [Question 2 - Nível 3][2] | [Question 7 - Nível 1][7]   | [Question 12 - Nível 1][12] |
 | [Question 3 - Nível 1][3] | [Question 8 - Nível 1][8]   | [Question 13 - Nível 1][13] |
 | [Question 4 - Nível 3][4] | [Question 9 - Nível 2][9]   | [Question 14 - Nível 1][14] |
 | [Question 5 - Nível 1][5] | [Question 10 - Nível 2][10] | [Question 15 - Nível 1][15] |
@@ -44,5 +44,25 @@ Marque a opção que se refere a linguagem utilizada inicialmente.
     1. <https://www.schoolofnet.com/curso-design-patterns-pt2-padroes-de-criacao/3054>
 
 **Nível:** 1
+
+***
+
+
+***
+
+### Questão 2
+
+Nenhum dos Design Patterns aborda o recurso de "traits", qual seria o motivo para isso?
+
+- [ ] Os Design Patterns são antigos e estão defasados.
+- [ ] Os Design Patterns foram projetados inicialmente para se trabalhar com a linguagem de programação JAVA e ao decorrer dos anos foram sendo reformulados, adaptando-se para a linguagem PHP.
+- [ ] Os Design Patterns inicialmente não foram projetados para se trabalhar com orientação à objetos.
+- [ ] Os Design Patterns foram projetados inicialmente para se trabalhar com aplicações desktop e ao decorrer dos anos foram sendo reformulados, adaptando-se para aplicações web.
+- [x] Com o passar dos anos surgiram novas linguagens e recursos, que até então não existiam quando os Design Patterns foram projetados. Por isso essas novas tecnologias não foram abordadas em nenhum dos padrões.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-design-patterns-pt2-padroes-de-criacao/3054>
+
+**Nível:** 3
 
 ***
