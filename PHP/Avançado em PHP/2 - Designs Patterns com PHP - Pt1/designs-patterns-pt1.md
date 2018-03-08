@@ -5,7 +5,7 @@
 | [Question 1 - Nível 2][1] | [Question 6 - Nível 1][6]   | [Question 11 - Nível 3][11] |
 | [Question 2 - Nível 2][2] | [Question 7 - Nível 1][7]   | [Question 12 - Nível 1][12] |
 | [Question 3 - Nível 1][3] | [Question 8 - Nível 1][8]   | [Question 13 - Nível 1][13] |
-| [Question 4 - Nível 1][4] | [Question 9 - Nível 2][9]   | [Question 14 - Nível 1][14] |
+| [Question 4 - Nível 3][4] | [Question 9 - Nível 2][9]   | [Question 14 - Nível 1][14] |
 | [Question 5 - Nível 1][5] | [Question 10 - Nível 2][10] | [Question 15 - Nível 1][15] |
                      
 ***
@@ -80,5 +80,25 @@ Nesse livro são catalogados 23 design patterns, que são divididos em três cat
     1. <https://www.schoolofnet.com/curso-design-patterns-com-php-pt1/2948>
 
 **Nível:** 1
+
+***
+
+### Questão 4
+
+O padrão de projetos Strategy possui diversos benefícios quando aplicado corretamente em um algoritmo.
+
+Marque a alternativa que NÂO representa um benefício adquirido pelo uso do padrão Stategy.
+
+
+- [ ] Habilitar um algoritmo para ser substituído por outro em tempo de execução.
+- [ ] Simplificar uma classe ao mover variações de um algoritmo para uma hierarquia.
+- [ ] Gerenciar toda a complexidade imposta pelas lógicas condicionais.
+- [x] Simplificar uma classe para garantir a existência de uma única instância dessa classe relacionada no sistema.
+- [ ] Clarificar algoritmos ao diminuir ou remover lógica condicional.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-design-patterns-com-php-pt1/2950>
+
+**Nível:** 3
 
 ***
