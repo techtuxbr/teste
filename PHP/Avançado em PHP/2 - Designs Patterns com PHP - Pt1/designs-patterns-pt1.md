@@ -118,3 +118,21 @@ O padrão Strategy pode ser utilizado em diversas situações, EXCETO:
 **Nível:** 1
 
 ***
+
+### Questão 6
+
+"É um padrão de projetos de software usado para encapsular a lógica de construção de um objeto."
+
+Marque a alternativa que corresponde ao padrão de projeto descrito acima.
+
+- [ ] Strategy
+- [ ] Singleton
+- [x] Builder
+- [ ] Prototype
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-design-patterns-com-php-pt1/2948>
+
+**Nível:** 1
+
+***
