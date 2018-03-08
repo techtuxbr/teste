@@ -65,7 +65,7 @@ O que significa Boilerplate?
 
 - [ ] Framework CSS.
 - [ ] Tutorial de como criar esqueletos de projetos.
-- [ ] Ferramenta que disponibiliza layouts prontos para uso.
+- [ ] Ferramenta que disponibiliza layouts prontos com páginas e CSS aplicado.
 - [x] Ferramenta que disponibiliza esqueletos de projetos prontos.
 - [ ] Sistema para geração de imagens de layouts.
 
@@ -84,7 +84,7 @@ Para que serve o comando npm install?
 - [ ] O comando npm install serve para configurar o nosso sistema ou website.
 - [ ] O comando npm install serve para fazer o deploy automático para produção.
 - [ ] Npm install é responsável apenas por subir o servidor, para que possamos visualizar no navegador.
-- [x] Npm é o gerenciador de pacotes do node. O comando npm install instala todas as dependências do boilerplate
+- [x] Npm é o gerenciador de pacotes do node. O comando npm install instala todas as dependências do boilerplate.
 
 
 * **Dica:**

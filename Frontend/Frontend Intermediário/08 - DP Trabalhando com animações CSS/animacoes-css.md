@@ -1,6 +1,6 @@
 # Questões
 
-| Questões 1 - 6            | Questões 7 - 11             |
+| Questões 1 - 4            | Questões 5 - 7             |
 |---------------------------|-----------------------------|
 | [Question 1 - Nível 1][1] | [Question 5 - Nível 2][5]   |  
 | [Question 2 - Nível 1][2] | [Question 6 - Nível 3][6]   |  
