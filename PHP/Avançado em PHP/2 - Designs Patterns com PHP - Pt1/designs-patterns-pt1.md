@@ -152,3 +152,28 @@ Na necessidade de se ter uma única instancia de uma classe em toda a aplicaçã
 **Nível:** 1
 
 ***
+
+### Questão 8
+
+Analise o código abaixo e assinale a alternativa correta.
+
+```php
+public static function getInstance()
+{
+    if(self::$instance === null){
+        self::$instance = new Xpto();
+    }
+    return self::$instance;
+}
+```
+
+Qual é o padrão de projeto implementado no código acima?
+
+- [ ] Strategy
+- [x] Singleton
+- [ ] Builder
+- [ ] Prototype
+
+**Nível:** 1
+
+***
