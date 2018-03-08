@@ -102,3 +102,19 @@ Marque a alternativa que NÂO representa um benefício adquirido pelo uso do pad
 **Nível:** 3
 
 ***
+
+### Questão 5
+
+O padrão Strategy pode ser utilizado em diversas situações, EXCETO:
+
+- [ ] Quando uma classe define muitos comportamentos e por sua vez eles aparecem como diversos “IFs", com isso esses comandos condicionais podem ser movidos para sua própria classe.
+- [ ] Quando se precisa ocultar do usuário a exposição das estruturas de dados complexas, específicas do algoritmo.
+- [ ] Quando necessita-se de variantes de um algoritmo.
+- [x] Quando se precisa garantir que uma classe tenha apenas uma instância de si mesma e que forneça um ponto global de acesso a ela.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-design-patterns-com-php-pt1/2950>
+
+**Nível:** 1
+
+***
