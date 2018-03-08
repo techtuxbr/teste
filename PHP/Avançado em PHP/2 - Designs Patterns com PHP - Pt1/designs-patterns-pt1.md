@@ -136,3 +136,19 @@ Marque a alternativa que corresponde ao padrão de projeto descrito acima.
 **Nível:** 1
 
 ***
+
+### Questão 7
+
+Na necessidade de se ter uma única instancia de uma classe em toda a aplicação, podemos utilizar o seguinte Design Pattern:
+
+- [ ] Strategy
+- [x] Singleton
+- [ ] Builder
+- [ ] Prototype
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-design-patterns-com-php-pt1/2948>
+
+**Nível:** 1
+
+***
