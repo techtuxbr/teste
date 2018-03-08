@@ -2,9 +2,9 @@
 
 | Questões 1 - 5            | Questões 5 - 10             | Questões 11 - 15            |
 |---------------------------|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 6 - Nível 1][6]   | [Question 11 - Nível 3][11] |
-| [Question 2 - Nível 1][2] | [Question 7 - Nível 1][7]   | [Question 12 - Nível 1][12] |
-| [Question 3 - Nível 2][3] | [Question 8 - Nível 1][8]   | [Question 13 - Nível 1][13] |
+| [Question 1 - Nível 2][1] | [Question 6 - Nível 1][6]   | [Question 11 - Nível 3][11] |
+| [Question 2 - Nível 2][2] | [Question 7 - Nível 1][7]   | [Question 12 - Nível 1][12] |
+| [Question 3 - Nível 1][3] | [Question 8 - Nível 1][8]   | [Question 13 - Nível 1][13] |
 | [Question 4 - Nível 1][4] | [Question 9 - Nível 2][9]   | [Question 14 - Nível 1][14] |
 | [Question 5 - Nível 1][5] | [Question 10 - Nível 2][10] | [Question 15 - Nível 1][15] |
                      
@@ -49,16 +49,36 @@ Sobre o Design Pattern Singleton, é INCORRETO afirmar:
 
 Sobre o Design Pattern Strategy, é INCORRETO afirmar:
 
-- [ ] O Padrão Strategy pode ser utilizado quando se tem muitas classes relacionadas que diferem apenas no seu comportamento.
-- [ ] É utilizado para definir um tipo de classe. Quando precisamos criar uma classe pai ou interface para definir um tipo de dados específico.
+- [ ] Pode ser utilizado quando se tem muitas classes relacionadas que diferem apenas no seu comportamento.
+- [ ] Permite que o algoritmo varie independentemente dos clientes que o utilizam.
 - [x] Utiliza métodos estáticos globais que retorna sempre a mesma instancia de um objeto.
 - [ ] Define uma família ou tipo de classe de forma a reforçar, principalmente, os princípios Open/Closed e de Liskov do SOLID.
 - [ ] Um dos pré-requisitos para o Strategy é uma estrutura de herança onde cada subclasse específica contém uma variação do algoritmo.
+- [ ] Serve para definir uma família de algoritmos, encapsular cada uma delas e torná-las intercambiáveis.
 
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-design-patterns-com-php-pt1/2948>
 
 **Nível:** 2
+
+***
+
+### Questão 3
+
+Uma das referências mais utilizada sobre Design Patterns é o livro “Design Patterns – Elements of Reusable Object-Oriented Software“ do Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides.
+
+Nesse livro são catalogados 23 design patterns, que são divididos em três categorias, são elas:
+
+
+- [ ] Criacionais, arquiteturais e estruturais.
+- [ ] Funcionais, estruturais e arquiteturais.
+- [x] Comportamentais, estruturais e criacionais.
+- [ ] Arquiteturais, estruturais e comportamentais.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-design-patterns-com-php-pt1/2948>
+
+**Nível:** 1
 
 ***
