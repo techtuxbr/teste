@@ -120,7 +120,7 @@ Caso seja necessária a repetição infinita de uma animação, qual classe deve
     
 ***
 
-### Questão7
+### Questão 7
 
 É possível fazer alterações nas classes da biblioteca diretamente?
 
