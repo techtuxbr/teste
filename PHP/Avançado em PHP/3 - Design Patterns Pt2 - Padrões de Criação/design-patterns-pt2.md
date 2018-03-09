@@ -49,7 +49,7 @@ Marque a opção que se refere a linguagem utilizada inicialmente.
 
 ### Questão 2
 
-Nenhum dos Design Patterns do GOF aborda o recurso de Traits. Qual seria o principal motivo para isso?
+Nenhum dos Design Patterns do GoF aborda o recurso de Traits. Qual seria o principal motivo para isso?
 
 - [ ] Os Design Patterns são antigos e estão defasados.
 - [ ] Os Design Patterns foram projetados inicialmente para se trabalhar com a linguagem de programação JAVA e ao decorrer dos anos foram sendo reformulados, adaptando-se para a linguagem PHP.
