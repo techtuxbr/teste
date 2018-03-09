@@ -1,39 +1,85 @@
 # Questões
 
-| Questões 1 - 10             | Questões 11 - 19            |
-|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1]   | [Question 11 - Nível 1][11] |  
-| [Question 2 - Nível 2][2]   | [Question 12 - Nível 1][12] |  
-| [Question 3 - Nível 1][3]   | [Question 13 - Nível 1][13] |  
-| [Question 4 - Nível 1][4]   | [Question 14 - Nível 1][14] |  
-| [Question 5 - Nível 2][5]   | [Question 15 - Nível 1][15] |  
-| [Question 6 - Nível 2][6]   | [Question 16 - Nível 2][16] |  
-| [Question 7 - Nível 1][7]   | [Question 17 - Nível 2][17] |  
-| [Question 8 - Nível 1][8]   | [Question 18 - Nível 2][18] |  
-| [Question 9 - Nível 1][9]   | [Question 19 - Nível 1][19] |  
-| [Question 10 - Nível 1][10] |                             |  
+| Questões 1 - 6            | Questões 7 - 12             | Questões 13 - 18            | Questões 19 - 24            |
+|---------------------------|-----------------------------|-----------------------------|-----------------------------|
+| [Question 1 - Nível 1][1] | [Question 7 - Nível 2][7]   | [Question 13 - Nível 2][13] | [Question 19 - Nível 3][19] |  
+| [Question 2 - Nível 1][2] | [Question 8 - Nível 2][8]   | [Question 14 - Nível 2][14] | [Question 20 - Nível 3][20] |  
+| [Question 3 - Nível 1][3] | [Question 9 - Nível 2][9]   | [Question 15 - Nível 3][15] | [Question 21 - Nível 3][21] |  
+| [Question 4 - Nível 2][4] | [Question 10 - Nível 2][10] | [Question 16 - Nível 3][16] | [Question 22 - Nível 3][22] |  
+| [Question 5 - Nível 2][5] | [Question 11 - Nível 2][11] | [Question 17 - Nível 3][17] | [Question 23 - Nível 3][23] |  
+| [Question 6 - Nível 2][6] | [Question 12 - Nível 2][12] | [Question 18 - Nível 3][18] | [Question 24 - Nível 3][24] |  
+                     
+***
 
-[1]:#1-qual-meta-tag-faz-com-que-o-conteúdo-seja-adequado-a-diferentes-tipos-de-dispositivos
-[2]:#2-qual-atributo-é-responsável-por-fazer-a-ligação-entre-o-menu-responsivo-e-o-evento-de-click-do-usuário-sem-este-atributo-o-usuário-clicaria-no-botão-de-menu-no-dispositivo-mobile-e-o-menu-não-seria-aberto
-[3]:#3-quantos-espaços-temos-em-cada-linha-quando-falamos-de-grid-no-bootstrap
-[4]:#4-analise-o-código-abaixo-e-selecione-a-opção-correta
-[5]:#5-quando-falamos-em-grid-no-bootstrap-estamos-falando-em-divisão-de-conteúdo-em-diferentes-dispositivos-para-conseguirmos-divir-a-tela-em-partes-iguais-precisamos-utilizar-as-classes-de-grid-do-bootstrap
-[6]:#6-caso-seja-necessário-que-uma-coluna-comece-à-partir-da-quarta-coluna-ignorando-as-anteriores-e-preencha-o-restante-da-linha-quais-classes-devomos-utilizar
-[7]:#7-caso-seja-necessário-exibir-um-conteúdo-somente-para-celulares-ou-dispositivos-menores-qual-classe-eu-deveria-utilizar
-[8]:#8-quais-as-classes-de-formulários-existentes-no-bootstrap-qual-a-padrão-caso-nenhuma-seja-informada
-[9]:#9-para-criar-um-botão-padrão-que-seja-grande-e-de-cor-verde-quais-classes-são-necessárias
-[10]:#10-qual-das-opções-abaixo-nÃo-fazem-parte-das-configurações-de-imagens
-[11]:#11-das-estruturas-abaixo-qual-nÃo-terá-o-icone-funcionando-corretamente
-[12]:#12-complete-o-código-abaixo-para-finalizar-a-paginação
-[13]:#13-qual-seria-a-alternativa-que-contém-um-estrutura-de-classes-completa-e-correta-para-painel
-[14]:#14-analise-a-frase-abaixo-e-responda-verdadeiro-ou-falso
-[15]:#15-qual-component-do-bootstrap-devemos-utilizar-quando-queremos-associar-imagem-e-texto
-[16]:#16-ao-estudar-as-tabs-do-bootstrap-você-aprende-a-seprar-conteúdos-de-forma-mais-organizada-de-acordo-com-seus-conhecimentos-analise-o-código-abaixo
-[17]:#17-quando-trabalhamos-com-modal-precisamos-identificar-o-conteúdo-que-deverá-ser-mostrado-ao-clicar-no-botão-ou-no-evento-que-escolher-esta-identificação-é-necessária-principalmente-se-houver-mais-do-que-um-modal-em-uma-mesma-página
-[18]:#18-utilizando-o-atributo-data-placement-posicione-o-popover-abaixo-do-botão
-[19]:#19-analise-a-frase-abaixo-e-marque-verdadeiro-ou-falso
+[1]:#questão-1
+[2]:#questão-2
+[3]:#questão-3
+[4]:#questão-4
+[5]:#questão-5
+[6]:#questão-6
+[7]:#questão-7
+[8]:#questão-8
+[9]:#questão-9
+[10]:#questão-10
+[11]:#questão-11
+[12]:#questão-12
+[13]:#questão-13
+[14]:#questão-14
+[15]:#questão-15
+[16]:#questão-16
+[17]:#questão-17
+[18]:#questão-18
+[19]:#questão-19
+[20]:#questão-20
+[21]:#questão-21
+[22]:#questão-22
+[23]:#questão-23
+[24]:#questão-24
 
-### 1 Qual meta tag faz com que o conteúdo seja adequado a diferentes tipos de dispositivos?
+***
+
+### Questão 1 
+
+O que seria o Bootstrap 3?
+
+- [ ] Uma linguagem de programação baseada em CSS.
+- [ ] Uma extensão do CSS, que utilizamos para criar projetos com layouts responsivos.
+- [ ] Uma extensão dos navegadores que converte um site normal em layout responsivo.
+- [ ] Uma classe do CSS que transforma um projeto normal em responsivo.
+- [x] Um framework css, que contém um conjunto de classes prontas para criação de projetos responsivos.
+
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-bootstrap/29>
+
+**Nível:** 1
+ 	
+***
+
+### Questão 2
+
+Analise a afirmação abaixo e assinale verdadeiro ou falso.
+
+A instalação do Bootstrap 3 pode ser feita de várias maneiras. Dentre elas estão:
+    - download dos arquivos em zip
+    - Link via CDN
+    - Instalação via NPM
+    - Instalação via Composer
+    - Instalação via Bower
+
+- [x] Verdadeiro
+- [ ] Falso
+
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-bootstrap/29>
+    2. <http://getbootstrap.com/docs/3.3/getting-started/#download>
+
+**Nível:** 1
+ 	
+***
+
+### Questão 3
+
+Qual meta tag faz com que o conteúdo seja adequado a diferentes tipos de dispositivos?
 
 - [x] `<meta name="viewport" content="width=device-width, initial-scale=1">`
 - [ ] `<meta charset="utf-8">`
@@ -48,7 +94,9 @@
 
 ***
 
-### 2 Qual atributo é responsável por fazer a ligação entre o menu responsivo e o evento de click do usuário. Sem este atributo o usuário clicaria no botão de menu, no dispositivo mobile, e o menu não seria aberto.
+### Questão 4 
+
+Qual atributo é responsável por fazer a ligação entre o menu responsivo e o evento de click do usuário. Sem este atributo o usuário clicaria no botão de menu, no dispositivo mobile, e o menu não seria aberto.
     
 ```html
     <div class="navbar-header">
@@ -84,7 +132,9 @@
      
 ***
 
-### 3 Quantos espaços temos em cada linha, quando falamos de grid no Bootstrap?
+### Questão 5 
+
+Quantos espaços temos em cada linha, quando falamos de grid no Bootstrap?
 
 - [ ] 8
 - [ ] 10
@@ -95,11 +145,13 @@
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/31> 
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
-### 4 Analise o código abaixo e selecione a opção correta.
+### Questão 6 
+
+Analise o código abaixo e selecione a opção correta.
 
 ```html
 <main>
@@ -125,13 +177,13 @@ Analisando o código acima qual será o comportamento das colunas?
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/31> 
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
-### 5 Quando falamos em grid, no Bootstrap, estamos falando em divisão de conteúdo em diferentes dispositivos. Para conseguirmos divir a tela em partes iguais, precisamos utilizar as classes de grid do Bootstrap.
+### Questão 7 
 
-Imaginando que temos que mostrar quatro divisões, por linha, em telas maiores, duas em telas médias e uma em telas pequenas, qual seria a sequência de classes utilizadas?
+Imaginando que temos que mostrar quatro colunas, por linha, em telas maiores, duas em telas médias e uma em telas pequenas, qual seria a sequência de classes utilizadas?
 
 - [ ] col-md-3 col-sm-6 col-lg-12
 - [ ] col-lg-4 col-md-2 col-sm-1
@@ -146,7 +198,9 @@ Imaginando que temos que mostrar quatro divisões, por linha, em telas maiores, 
 
 ***
 
-### 6 Caso seja necessário que uma coluna comece à partir da QUARTA coluna, ignorando as anteriores, e preencha o restante da linha, quais classes devomos utilizar?
+### Questão 8 
+
+Caso seja necessário que uma coluna comece à partir da QUARTA coluna, ignorando as anteriores, e preencha o restante da linha, quais classes devomos utilizar?
 
 - [x] `<div class="col-md-offset-3 col-md-9">...</div>`
 - [ ] `<div class="col-md-offset-4 col-md-9">...</div>`
@@ -161,7 +215,9 @@ Imaginando que temos que mostrar quatro divisões, por linha, em telas maiores, 
 
 ***
 
-### 7 Caso seja necessário exibir um conteúdo somente para celulares, ou dispositivos menores, qual classe eu deveria utilizar?
+### Questão 9 
+
+Caso seja necessário exibir um conteúdo somente para celulares, ou dispositivos menores, qual classe eu deveria utilizar?
 
 - [ ] show-sm
 - [ ] show-xs
@@ -172,11 +228,13 @@ Imaginando que temos que mostrar quatro divisões, por linha, em telas maiores, 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/31>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
-### 8 Quais as classes de formulários existentes no Bootstrap? Qual a padrão, caso nenhuma seja informada?
+### Questão 10 
+
+Quais as classes de formulários existentes no Bootstrap? Qual a padrão, caso nenhuma seja informada?
     
 - [ ] horizontal-form e inline-form, padrão é horizontal-form
 - [ ] horizontal-form e form-inline, padrão é form-horizontal
@@ -187,11 +245,30 @@ Imaginando que temos que mostrar quatro divisões, por linha, em telas maiores, 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/32>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
-### 9 Para criar um botão padrão que seja grande e de cor verde, quais classes são necessárias?
+### Questão 11
+
+Quais as duas classes que devem ser utilizadas em conjunto para obter a melhor formatação dos campos inputs?
+
+- [ ] form-group e form-input
+- [x] form-group e form-control
+- [ ] form-group e form-item
+- [ ] form-group-item e form-item
+- [ ] form-item e form-subitem
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-bootstrap/32>
+
+**Nível:** 2
+
+***
+
+### Questão 12 
+
+Para criar um botão padrão que seja grande e de cor verde, quais classes são necessárias?
 
 - [ ] btn-success btn-sm
 - [x] btn btn-success btn-lg
@@ -202,11 +279,13 @@ Imaginando que temos que mostrar quatro divisões, por linha, em telas maiores, 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/33>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
-### 10 Qual das opções abaixo NÃO fazem parte das configurações de imagens?
+### Questão 13 
+
+Qual das opções abaixo NÃO fazem parte das configurações de imagens?
 
 - [ ] img-responsive
 - [ ] img-rounded
@@ -217,11 +296,13 @@ Imaginando que temos que mostrar quatro divisões, por linha, em telas maiores, 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/34>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
-### 11 Das estruturas abaixo qual NÃO terá o icone funcionando corretamente?
+### Questão 14 
+
+Das estruturas abaixo qual NÃO terá o icone funcionando corretamente?
 
 - [ ] `<span class="btn btn-block btn-default glyphicon glyphicon-pencil">Editar</span>`
 - [x] `<button id="btn btn-success glyphicon glyphicon-pencil"> Editar</button>`
@@ -232,11 +313,46 @@ Imaginando que temos que mostrar quatro divisões, por linha, em telas maiores, 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/35>
 
-**Nível:** 1
+**Nível:** 2
 
 ***
 
-### 12 Complete o código abaixo para finalizar a paginação.
+### Questão 15
+
+Analise o código abaixo:
+
+```html
+<div class="dropdown">
+    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+        Dropdown
+        <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
+        <li><a href="#">Action</a></li>
+        <li><a href="#">Another action</a></li>
+        <li><a href="#">Something else here</a></li>
+    </ul>
+</div>
+```
+
+O que é necessário para transformar o recurso dropdown em dropup, da maneira mais correta e semântica?
+
+- [ ] Trocar todos os locais que possuam a palavra dropdown por dropup.
+- [ ] Adicionar a classe dropup juntamente com a classe dropdown, no elemento principal.
+- [ ] Criar uma classe interna, à classe principal dropdown, com a classe dropup.
+- [x] Apenas trocar a classe principal dropdown por dropup. 
+- [ ] Não tem como transformar uma classe dropdown em dropup facilmente, portanto seria melhor criar novamente.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-bootstrap/36>
+
+**Nível:** 3
+
+***
+
+### Questão 16 
+
+A resposta deve ser o nome da classe, que está faltando, para a paginação funcionar corretamente.
        
 ```html
 <nav>
@@ -265,11 +381,13 @@ Imaginando que temos que mostrar quatro divisões, por linha, em telas maiores, 
 
 Resp.: pagination
 
-**Nível:** 1
+**Nível:** 3
 
 ***
 
-### 13 Qual seria a alternativa que contém um estrutura de classes COMPLETA, e correta, para painel?
+### Questão 17 
+
+Qual seria a alternativa que contém um estrutura de classes COMPLETA, e correta, para painel?
 
 - [ ] panel, panel-heading, panel-body
 - [ ] panel, panel-body
@@ -280,11 +398,13 @@ Resp.: pagination
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/39>
 
-**Nível:** 1
+**Nível:** 3
 
 ***
 
-### 14 Analise a frase abaixo e responda verdadeiro ou falso.
+### Questão 18 
+
+Analise a frase abaixo e responda verdadeiro ou falso.
 
 "Além de listagens utilizando as tags ul e li, podemos fazer também listagens de links utilizando a tag a. Com a listagem de links podemos destacar o link atual com a classe active."
 
@@ -294,11 +414,13 @@ Resp.: pagination
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/40>
 
-**Nível:** 1
+**Nível:** 3
 
 ***
 
-### 15 Qual component do Bootstrap devemos utilizar quando queremos associar imagem e texto?
+### Questão 19 
+
+Qual componente, do Bootstrap, é indicado quando existe a necessidade de associar imagem e texto?
 
 - [ ] List group
 - [ ] Badges
@@ -309,11 +431,30 @@ Resp.: pagination
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/41>
 
-**Nível:** 1
+**Nível:** 3
 
 ***
 
-### 16 Ao estudar as tabs, do Bootstrap, você aprende a seprar conteúdos de forma mais organizada. De acordo com seus conhecimentos, analise o código abaixo.
+### Questão 20
+
+Qual classe podemos utilizar quando é necessário exibir algum aviso ao usuário?
+
+- [x] alert
+- [ ] show
+- [ ] message
+- [ ] notes
+- [ ] attention
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-bootstrap/42>
+
+**Nível:** 3
+
+***
+
+### Questão 21 
+
+De acordo com seus conhecimentos, analise o código abaixo.
     
 ```html
 <div class="row">
@@ -340,18 +481,20 @@ Depois de analisar o código, assinale qual conteúdo será mostrado primeiro, q
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/43>
 
-**Nível:** 2
+**Nível:** 3
 
 ***
-    
-### 17 Quando trabalhamos com modal, precisamos identificar o conteúdo que deverá ser mostrado ao clicar no botão ou no evento que escolher. Esta identificação é necessária, principalmente se houver mais do que um modal, em uma mesma página.
+
+### Questão 22 
+
+Analise o código abaixo:
     
 ```html
 <button type="button" class="btn btn-success btn-lg" data-toggle="modal" data-target="#mymodal">
     My Modal
 </button>
 
-<div class="modal fade" tabindex="-1" role="dialog">
+<div id="x" class="modal fade" tabindex="-1" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -373,18 +516,20 @@ Depois de analisar o código, assinale qual conteúdo será mostrado primeiro, q
 </div>
 ```
     
-Para que o modal seja acionado, adicione o atributo necessário ao código acima.
+Que valor deveria estar no lugar letra "x", no atributo "id", do código acima, para que o modal funcione corretamente?
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/44>
 
-Resp.: id="mymodal"
+Resp.: mymodal
 
-**Nível:** 2
+**Nível:** 3
 
 ***
-    
-### 18 Utilizando o atributo data-placement, posicione o Popover abaixo do botão.
+
+### Questão 23 
+
+Qual atributo faz com que o Popover seja posicionado abaixo do botão?
     
 ```html
     <button type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-content="Meu Popover">
@@ -392,16 +537,22 @@ Resp.: id="mymodal"
     </button>
 ```
 
+- [ ] `data-position="bottom"`
+- [x] `data-placement="bottom"`
+- [ ] `data-local="bottom"`
+- [ ] `data-place="bottom"`
+- [ ] `data-direction="bottom"`
+
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/45>
 
-Resp.: data-placement="bottom"
-
-**Nível:** 2
+**Nível:** 3
 
 ***
-    
-### 19 Analise a frase abaixo e marque verdadeiro ou falso.
+
+### Questão 24 
+
+Analise a frase abaixo e assinale verdadeiro ou falso.
 
 "O Bootstrap é uma ferramenta maravilhosa, mas infelizmente, para pequenos projetos, muitos recursos podem ser obsoletos, pois não é possível customizar a instalação."
 
@@ -411,4 +562,6 @@ Resp.: data-placement="bottom"
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-bootstrap/46>
 
-**Nível:** 1
+**Nível:** 3
+
+***
