@@ -71,7 +71,7 @@ Qual a condição para que o flex-grow funcione corretamente?
 
 ### Questão 4
 
-"O http-server é obrigatório para iniciar com os estudos de animações com CSS."
+"O http-server é obrigatório para iniciar os estudos de flex-grow do Flexbox."
 
 - [ ] Verdadeiro
 - [x] Falso
