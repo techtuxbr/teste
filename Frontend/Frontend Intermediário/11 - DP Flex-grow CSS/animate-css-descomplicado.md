@@ -1,12 +1,11 @@
 # Questões
 
-| Questões 1 - 4            | Questões 5 - 7             |
+| Questões 1 - 4            | Questões 5 - 7              |
 |---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   |  
-| [Question 2 - Nível 1][2] | [Question 7 - Nível 2][7]   |  
-| [Question 3 - Nível 1][3] | [Question 8 - Nível 2][8]   |  
-| [Question 4 - Nível 2][4] | [Question 9 - Nível 2][9]   |  
-| [Question 5 - Nível 2][5] |                             |  
+| [Question 1 - Nível 1][1] | [Question 5 - Nível 2][5]   |  
+| [Question 2 - Nível 1][2] | [Question 6 - Nível 2][6]   |  
+| [Question 3 - Nível 1][3] | [Question 7 - Nível 2][7]   |  
+| [Question 4 - Nível 1][4] |                             |  
 
 ***
 
@@ -17,8 +16,6 @@
 [5]:#questão-5
 [6]:#questão-6
 [7]:#questão-7
-[8]:#questão-8
-[9]:#questão-9
 
 ***
 
@@ -44,8 +41,8 @@ O Flex-grow faz parte de qual conceito CSS?
 Qual o objetivo da propriedade flex-grow do Flexbox?
 
 - [ ] Tornar as box flexíveis, onde o usuário pode alterar quando quiser com o mouse.
-- [x] Atribuir dimensões à boxs, ou containers, dos layouts de forma homogênea ou personalizada. 
-- [ ] Amplicar o tamanho das boxs em duas vezes.
+- [x] Atribuir dimensões à boxes, ou containers, em layouts de forma homogênea, podendo também ser personalizada. 
+- [ ] Amplicar o tamanho das boxes em duas vezes.
 - [ ] Separar uma box em duas box de mesmo tamanho.
 - [ ] Remover a primeira e a última box, em um sistema de grid.
 
@@ -64,7 +61,6 @@ Qual a condição para que o flex-grow funcione corretamente?
 - [ ] Ter o Bootstrap devidamento configurado.
 - [ ] O elemento a ser modificado deve conter dois, ou mais, elementos filhos com a mesma configuração do flex-grow.
 - [x] Existir um elemento pai, configurado com a propriedade `display: flex;`.
-- [ ] 
 
 * **Dica:**
     1. <https://www.schoolofnet.com/canal-direto-ao-ponto/flex-grow-css/> 
@@ -89,7 +85,7 @@ Qual a condição para que o flex-grow funcione corretamente?
 
 ### Questão 5
 
-Analise o código abaixo e informe qual é o elemento pai referente ao código.
+Analise o código abaixo e informe qual é a classe que deve receber a configuração `display: flex`, ou seja, o elemento pai.
 
 ```html
 <div class="container">
@@ -99,6 +95,42 @@ Analise o código abaixo e informe qual é o elemento pai referente ao código.
 </div>
 ```
 
-- [ ] Pai: div class container.
-- [ ] Primeiro div class list.
-- [ ] Segundo div class list.
+* **Dica:**
+    1. <https://www.schoolofnet.com/canal-direto-ao-ponto/flex-grow-css/> 
+
+Resp.: container
+
+**Nível:** 2         
+    
+***
+
+### Questão 6
+
+Quando devemos utilizar o flex-grow?
+
+- [ ] Apenas quando se tem uma galeria de imagens.
+- [ ] Apenas quando se tem artigos de blog, onde necessitam conter elementos de midia e texto juntos.
+- [ ] Quando se trabalha apenas com layout de teste, nunca em produção.
+- [x] Quando se tem elementos que devem ser separados, em linhas ou colunas, de forma homogênea no layout.
+- [ ] Apenas quando é necessário a divisão do layout em duas partes iguais, mas nunca mais do que duas.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/canal-direto-ao-ponto/flex-grow-css/> 
+
+**Nível:** 2         
+    
+***  
+
+### Questão 7
+
+"A propriedade flex-grow trabalha exatamente como se fosse o elemento width, ou seja, de acordo com as configurações do flex-grow, o flexbox vai configurando width para os elementos e assim fazendo a divisão."
+
+- [ ] Verdadeiro
+- [x] Falso
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/canal-direto-ao-ponto/flex-grow-css/> 
+
+**Nível:** 2         
+    
+***
