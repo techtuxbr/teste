@@ -49,13 +49,13 @@ Marque a opção que se refere a linguagem utilizada inicialmente.
 
 ### Questão 2
 
-Nenhum dos Design Patterns aborda o recurso de Traits. Qual seria o principal motivo para isso?
+Nenhum dos Design Patterns do GOF aborda o recurso de Traits. Qual seria o principal motivo para isso?
 
 - [ ] Os Design Patterns são antigos e estão defasados.
 - [ ] Os Design Patterns foram projetados inicialmente para se trabalhar com a linguagem de programação JAVA e ao decorrer dos anos foram sendo reformulados, adaptando-se para a linguagem PHP.
 - [ ] Os Design Patterns inicialmente não foram projetados para se trabalhar com orientação à objetos.
 - [ ] Os Design Patterns foram projetados inicialmente para se trabalhar com aplicações desktop e ao decorrer dos anos foram sendo reformulados, adaptando-se para aplicações web.
-- [x] Com o passar dos anos surgiram novas linguagens e recursos, que até então não existiam quando os Design Patterns foram projetados. Por isso essas novas tecnologias não foram abordadas em nenhum dos padrões.
+- [x] Com o passar dos anos surgiram novas linguagens e recursos, que até então não existiam quando os Design Patterns foram projetados. Por isso essas novas tecnologias como as traits não foram abordadas em nenhum dos padrões.
 
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-design-patterns-pt2-padroes-de-criacao/3054>
@@ -66,7 +66,7 @@ Nenhum dos Design Patterns aborda o recurso de Traits. Qual seria o principal mo
 
 ### Questão 3
 
-O AbstracFactory cuida de retornar classes prontas que tem um relacionamento entre si. Em qual grupo de padrões o AbstracFactory está incluído?
+O AbstracFactory cuida de retornar classes prontas que tenham um relacionamento entre si. Em qual categoria o AbstracFactory está incluído?
 
 - [ ] Padrões Arquiteturais.
 - [ ] Padrões Construtores.
@@ -118,7 +118,7 @@ Qual a função do pattern Factory Method na orientação a objetos?
 
 ### Questão 6
 
-Qual pattern permite você criar novas instancias simplesmente copiando instancias existentes?
+Qual pattern permite criar novas instancias simplesmente copiando instancias existentes?
 
 - [ ] Factory Method.
 - [ ] Builder.
