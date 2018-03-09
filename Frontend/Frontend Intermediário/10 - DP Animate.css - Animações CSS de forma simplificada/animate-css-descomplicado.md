@@ -2,10 +2,11 @@
 
 | Questões 1 - 4            | Questões 5 - 7             |
 |---------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 5 - Nível 2][5]   |  
-| [Question 2 - Nível 1][2] | [Question 6 - Nível 3][6]   |  
-| [Question 3 - Nível 2][3] | [Question 7 - Nível 3][7]   |  
-| [Question 4 - Nível 2][4] |                             |  
+| [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   |  
+| [Question 2 - Nível 1][2] | [Question 7 - Nível 2][7]   |  
+| [Question 3 - Nível 1][3] | [Question 8 - Nível 2][8]   |  
+| [Question 4 - Nível 2][4] | [Question 9 - Nível 2][9]   |  
+| [Question 5 - Nível 2][5] |                             |  
 
 ***
 
@@ -16,6 +17,8 @@
 [5]:#questão-5
 [6]:#questão-6
 [7]:#questão-7
+[8]:#questão-8
+[9]:#questão-9
 
 ***
 
@@ -158,6 +161,6 @@ Qual a melhor prática para fazer alterações nas animações da biblioteca?
 * **Dica:**
     1. <https://www.schoolofnet.com/canal-direto-ao-ponto/animatecss-animacoes-css-de-uma-forma-simplificada/> 
 
-**Nível:** 3         
+**Nível:** 2         
     
 ***
