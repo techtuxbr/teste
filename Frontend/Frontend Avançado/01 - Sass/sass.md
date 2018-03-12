@@ -278,7 +278,7 @@ Marque a alternativa que NÃO é uma função do Sass.
 
 * **Dica:**   
     1. <https://www.schoolofnet.com/curso-sass/197> 	
-    1. <http://sass-lang.com/documentation/Sass/Script/Functions.html>
+    2. <http://sass-lang.com/documentation/Sass/Script/Functions.html>
 
 **Nível:** 3
  	
