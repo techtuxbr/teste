@@ -2,11 +2,11 @@
 
 | Questões 1 - 5            | Questões 5 - 10             | Questões 11 - 15            |
 |---------------------------|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 6 - Nível 1][6]   | [Question 11 - Nível 2][a] |
-| [Question 2 - Nível 2][2] | [Question 7 - Nível 1][7]   | [Question 12 - Nível 1][a] |
-| [Question 3 - Nível 1][3] | [Question 8 - Nível 2][8]   | [Question 13 - Nível 1][a] |
-| [Question 4 - Nível 1][4] | [Question 9 - Nível 1][9]   | [Question 14 - Nível 1][a] |
-| [Question 5 - Nível 1][5] | [Question 10 - Nível 1][a] | [Question 15 - Nível 1][a] |
+| [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   | [Question 11 - Nível 2][a] |
+| [Question 2 - Nível 2][2] | [Question 7 - Nível 2][7]   | [Question 12 - Nível 1][a] |
+| [Question 3 - Nível 1][3] | [Question 8 - Nível 1][8]   | [Question 13 - Nível 1][a] |
+| [Question 4 - Nível 2][4] | [Question 9 - Nível 1][a]   | [Question 14 - Nível 1][a] |
+| [Question 5 - Nível 2][5] | [Question 10 - Nível 1][a] | [Question 15 - Nível 1][a] |
                      
 ***
 
@@ -70,3 +70,105 @@ No exemplo acima temos um problema de alto acoplamento na classe, que pode ser r
 
 ***
 
+### Questão 3
+
+A biblioteca Pimple é utilizada para criar e gerenciar containers de dependências.
+
+- [x] Verdadeiro
+- [ ] Falso
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-php-e-dependency-inje>
+
+**Nível:** 1
+
+***
+
+### Questão 4
+
+Uma das principais vantagens de se utilizar o container de dependências da biblioteca Pimple é que ele trás sempre a mesma instância para uma classe.
+
+Porém, nem sempre queremos trazer a mesma instância de uma classe, então, devemos:
+
+- [ ] Utilizar o método build().
+- [ ] Criar o nosso próprio container personalizado.
+- [ ] Salvar a nova instância em uma nova variável.
+- [ ] Utilizar a biblioteca Zend Service Manager.
+- [x] Utilizar o método factory().
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-php-e-dependency-inje>
+
+**Nível:** 2
+
+***
+
+
+### Questão 5
+
+Para retornar sempre a mesma instância de uma classe com o Zend Service Manager, podemos:
+
+- [x] Utilizar as factories.
+- [ ] Criar o nosso próprio container personalizado.
+- [ ] Salvar a nova instância em uma nova variável.
+- [ ] Utilizar um container de dependências.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-php-e-dependency-inje>
+
+**Nível:** 2
+
+***
+
+
+### Questão 6
+
+Uma das principais vantagens de se utilizar o container de dependências Zend Service Manager é que ele trás sempre a mesma instância para uma classe.
+
+Porém, nem sempre queremos trazer a mesma instância de uma classe, então, devemos:
+
+- [ ] Utilizar o método factory().
+- [ ] Criar o nosso próprio container personalizado.
+- [ ] Salvar a nova instância em uma nova variável.
+- [ ] Utilizar a biblioteca Pimple.
+- [x] Utilizar o método build().
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-php-e-dependency-inje>
+
+**Nível:** 2
+
+***
+
+### Questão 7
+
+Para adicionar uma nova responsabilidade à um objeto existente, em tempo de execução, com o Zend Service Manager, podemos utilizar os:
+
+- [ ] Decorators.
+- [ ] Services.
+- [x] Delegators.
+- [ ] Abstract Factory.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-php-e-dependency-inje>
+
+**Nível:** 2
+
+***
+
+### Questão 8
+
+Os delegators do Zend Service Manager implementam o padrão de projeto:
+
+- [ ] Factory.
+- [ ] Singleton.
+- [x] Decorator.
+- [ ] Delegate.
+- [ ] Composite.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-php-e-dependency-inje>
+
+**Nível:** 1
+
+***
