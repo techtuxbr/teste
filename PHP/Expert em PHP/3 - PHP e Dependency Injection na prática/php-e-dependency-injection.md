@@ -5,8 +5,8 @@
 | [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   | [Question 11 - Nível 2][a] |
 | [Question 2 - Nível 2][2] | [Question 7 - Nível 2][7]   | [Question 12 - Nível 1][a] |
 | [Question 3 - Nível 1][3] | [Question 8 - Nível 1][8]   | [Question 13 - Nível 1][a] |
-| [Question 4 - Nível 2][4] | [Question 9 - Nível 1][a]   | [Question 14 - Nível 1][a] |
-| [Question 5 - Nível 2][5] | [Question 10 - Nível 1][a] | [Question 15 - Nível 1][a] |
+| [Question 4 - Nível 2][4] | [Question 9 - Nível 1][9]   | [Question 14 - Nível 1][a] |
+| [Question 5 - Nível 2][5] | [Question 10 - Nível 1][10] | [Question 15 - Nível 1][a] |
                      
 ***
 
@@ -166,6 +166,37 @@ Os delegators do Zend Service Manager implementam o padrão de projeto:
 - [ ] Delegate.
 - [ ] Composite.
 
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-php-e-dependency-inje>
+
+**Nível:** 1
+
+***
+
+### Questão 9
+
+Para descobrir todas as dependências de classe e posteriormente injetar essas dependencias automaticamente no método construtor, podemos utilizar o:
+
+- [ ] Factory.
+- [x] Reflection Class.
+- [ ] Decorator.
+- [ ] Delegate.
+- [ ] Composite.
+
+* **Dica:**
+    1. <https://www.schoolofnet.com/curso-php-e-dependency-inje>
+
+**Nível:** 1
+
+***
+
+
+### Questão 10
+
+A classe ReflectionClass é uma classe nativa do PHP, onde, através dela, podemos descobrir diversas informações referente à uma classe.
+
+- [x] Verdadeiro
+- [ ] Falso
 * **Dica:**
     1. <https://www.schoolofnet.com/curso-php-e-dependency-inje>
 
