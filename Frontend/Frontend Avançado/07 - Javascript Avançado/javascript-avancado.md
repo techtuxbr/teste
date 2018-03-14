@@ -340,8 +340,8 @@ Qual método para resgatar um valor no Local Storage?
 
 - [ ] `localStorage.localItem('key', 'value');`
 - [ ] `localStorage.item('key', 'value');`
-- [x] `localStorage.getItem('key', 'value');`
-- [ ] `localStorage.pullItem('key', 'value');`
+- [x] `localStorage.getItem('key');`
+- [ ] `localStorage.getItem('key', 'value');`
 - [ ] `localStorage.configItem('key', 'value');`
 
 * **Dica:**    	
