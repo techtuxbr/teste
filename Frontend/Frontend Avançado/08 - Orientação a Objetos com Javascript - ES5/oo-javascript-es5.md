@@ -1,12 +1,13 @@
 # Questões
 
-| Questões 1 - 5            | Questões 6 - 10             | Questões 11 - 15            |
-|---------------------------|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   | [Question 11 - Nível 2][11] |  
-| [Question 2 - Nível 1][2] | [Question 7 - Nível 2][7]   | [Question 12 - Nível 3][12] |  
-| [Question 3 - Nível 1][3] | [Question 8 - Nível 2][8]   | [Question 13 - Nível 3][13] |  
-| [Question 4 - Nível 2][4] | [Question 9 - Nível 2][9]   | [Question 14 - Nível 3][14] |  
-| [Question 5 - Nível 2][5] | [Question 10 - Nível 2][10] | [Question 15 - Nível 3][15] |  
+| Questões 1 - 6            | Questões 7 - 12             | Questões 13 - 17            | Questões 18 - 22            |
+|---------------------------|-----------------------------|-----------------------------|-----------------------------|
+| [Question 1 - Nível 1][1] | [Question 7 - Nível 2][7]   | [Question 13 - Nível 2][13] | [Question 18 - Nível 3][18] |  
+| [Question 2 - Nível 1][2] | [Question 8 - Nível 2][8]   | [Question 14 - Nível 3][14] | [Question 19 - Nível 3][19] |  
+| [Question 3 - Nível 1][3] | [Question 9 - Nível 2][9]   | [Question 15 - Nível 3][15] | [Question 20 - Nível 3][20] |  
+| [Question 4 - Nível 1][4] | [Question 10 - Nível 2][10] | [Question 16 - Nível 3][16] | [Question 21 - Nível 3][21] |  
+| [Question 5 - Nível 2][5] | [Question 11 - Nível 2][11] | [Question 17 - Nível 3][17] | [Question 22 - Nível 3][22] |  
+| [Question 6 - Nível 2][6] | [Question 12 - Nível 2][12] |                             |                             |  
                      
 ***
 
@@ -25,6 +26,13 @@
 [13]:#questão-13
 [14]:#questão-14
 [15]:#questão-15
+[16]:#questão-16
+[17]:#questão-17
+[18]:#questão-18
+[19]:#questão-19
+[20]:#questão-20
+[21]:#questão-21
+[22]:#questão-22
 
 ***
 
@@ -40,6 +48,7 @@ O que é Programação Orientada a Objetos?
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/855>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5443>
 
 **Nível:** 1
  	
@@ -49,13 +58,14 @@ O que é Programação Orientada a Objetos?
 
 Analise a frase abaixo e assinale verdadeiro ou falso.
 
-"A orientação a objetos tentar reproduzir classes o mais parecidas possíveis com a situação real de um objeto."
+"A orientação a objetos tentar reproduzir classes, o mais parecidas possíveis, com a situação real de um objeto."
 
 - [x] Verdadeiro 
 - [ ] Falso 
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/855>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5444>
 
 **Nível:** 1
  	
@@ -73,6 +83,7 @@ Por que a orientação a objetos é mais utilizada do que a programação estrut
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/855>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5444>
 
 **Nível:** 1
  	
@@ -104,6 +115,7 @@ Qual a estrutura de criação de uma classe no Javascript?
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/856>
+    1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5445>
 
 **Nível:** 2
  	
@@ -111,7 +123,7 @@ Qual a estrutura de criação de uma classe no Javascript?
 
 ### Questão 6
 
-Qual classe está criada FORA dos padrões estipulados para criação de classes?
+Qual classe está criada FORA das convenções, e padrões estipulados, para criação de classes?
 
 - [ ] `function EmpresaPrivada(){}`
 - [ ] `function PessoaJuridica(){}`
@@ -167,6 +179,7 @@ Como são geralmente conhecidas as funções e variáveis internas de uma classe
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/856>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5445>
 
 **Nível:** 2
  	
@@ -201,6 +214,7 @@ Qual a diferença entre atributos públicos e privados?
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/857>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5449>
 
 **Nível:** 2
  	
@@ -218,6 +232,7 @@ Em que consiste o conceito de encapsulamento das classes?
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/858>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5446>
 
 **Nível:** 2
  	
@@ -240,8 +255,8 @@ function Car() {
         return valor;
     }
 
-    var setName = function(_name){
-        this.name = _name;
+    var setName = function(){
+        return '';
     }
 
     this.getName = function(){
@@ -260,6 +275,8 @@ Qual atributo e método NÃO estão acessíveis externamente, através do objeto
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/858>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5446>
+    3. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5449>
 
 **Nível:** 2
  	
@@ -304,7 +321,7 @@ console.log(car.ligar());
 
 Acima temos um exemplo de criação de método via classe e via prototype, porém ambos métodos tem o mesmo nome. Qual deles será acessado?
 
-- [x] De acordo com a chamada do método, teremos o método interno à classe sendo acionado.
+- [x] De acordo com a execução do método, teremos o método interno à classe sendo acionado.
 - [ ] Teremos o método do prototype sendo acionado, pois está na raiz do objeto.
 - [ ] Teremos os dois métodos sendo acionados ao mesmo tempo.
 - [ ] Não teremos nenhum método sendo acionado, porém não teremos nenhum erro.
@@ -312,6 +329,7 @@ Acima temos um exemplo de criação de método via classe e via prototype, poré
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/859>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5450>
 
 **Nível:** 3
  	
@@ -329,6 +347,7 @@ Qual a definição de herança em programação orientada a objetos?
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/860>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5451>
 
 **Nível:** 3
  	
@@ -366,13 +385,31 @@ No exemplo de herança acima, quais métodos estarão disponíveis para o objeto
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/860>
-    2. Lembre-se que o método construtor é utilizado apenas para declaração, neste caso.
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5450>
+    3. Lembre-se que o método construtor é utilizado apenas para declaração, neste caso.
 
 **Nível:** 3
  	
 ***
 
 ### Questão 17
+
+Qual alternativa está correta em relação ao conceito de "construtor" de uma classe?
+
+- [ ] O conceito de construtor está ligado a um método que cria novos atributos.
+- [ ] O conceito de construtor está ligado a um método que cria novos métodos.
+- [x] O método construtor configurar valores diretamente na criação do objeto, diretamente ou através de métodos executados.
+- [ ] O construtor deve ser executado sempre que uma classe for ser destruída, ou seja, quando o serviço acaba.
+- [ ] O método construtor deve ser sempre chamado de "contructor", qualquer outro nome não terá efeito algum.
+
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5448>
+
+**Nível:** 3
+ 	
+***
+
+### Questão 18
 
 Qual a diferença entre um método estático e um método comum de uma classe?
 
@@ -384,29 +421,31 @@ Qual a diferença entre um método estático e um método comum de uma classe?
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/861>
-
-**Nível:** 3
- 	
-***
-
-### Questão 18
-
-Qual a estrutura para a declaração de um método estático?
-
-- [ ] `Classe.__static__.metodo_estatico = function(){}`
-- [ ] `Classe.metodo_estatico = static function(){}`
-- [ ] `Classe:metodo_estatico = function(){}`
-- [ ] `Classe.Static.metodo_estatico = function(){}`
-- [x] `Classe.metodo_estatico = function(){}`
-
-* **Dica:**    	
-    1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/861>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5447>
 
 **Nível:** 3
  	
 ***
 
 ### Questão 19
+
+Qual a estrutura para a declaração de um método estático?
+
+- [ ] `Classe.__static__.static_method = function(){}`
+- [ ] `Classe.static_method = static function(){}`
+- [ ] `Classe:static_method = function(){}`
+- [ ] `Classe.Static.static_method = function(){}`
+- [x] `Classe.static_method = function(){}`
+
+* **Dica:**    	
+    1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/861>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5447>
+
+**Nível:** 3
+ 	
+***
+
+### Questão 20
 
 Qual o conceito de polimorfismo?
 
@@ -418,12 +457,13 @@ Qual o conceito de polimorfismo?
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/862>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5452>
 
 **Nível:** 3
  	
 ***
 
-### Questão 20
+### Questão 21
 
 Analise o código abaixo:
 
@@ -454,12 +494,13 @@ Qual a será a saída do método "speak" da instância "person2"?
 
 * **Dica:**    	
     1. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript/862>
+    2. <https://www.schoolofnet.com/curso-orientacao-objetos-com-javascript-es5/5452>
 
 **Nível:** 3
  	
 ***
 
-### Questão 21
+### Questão 22
 
 Qual alternativa está INCORRETA em relação a classes abstratas?
 
