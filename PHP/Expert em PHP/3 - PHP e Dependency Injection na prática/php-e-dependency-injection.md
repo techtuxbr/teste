@@ -120,7 +120,6 @@ Para retornar sempre a mesma instância de uma classe com o Zend Service Manager
 
 ***
 
-
 ### Questão 6
 
 Uma das principais vantagens de se utilizar o container de dependências Zend Service Manager é que ele trás sempre a mesma instância para uma classe.
