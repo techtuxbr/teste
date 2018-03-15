@@ -1,12 +1,12 @@
 # Questões
 
-| Questões 1 - 5            | Questões 6 - 10             | Questões 11 - 15            |
-|---------------------------|-----------------------------|-----------------------------|
-| [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   | [Question 11 - Nível 2][11] |  
-| [Question 2 - Nível 1][2] | [Question 7 - Nível 2][7]   | [Question 12 - Nível 3][12] |  
-| [Question 3 - Nível 1][3] | [Question 8 - Nível 2][8]   | [Question 13 - Nível 3][13] |  
-| [Question 4 - Nível 2][4] | [Question 9 - Nível 2][9]   | [Question 14 - Nível 3][14] |  
-| [Question 5 - Nível 2][5] | [Question 10 - Nível 2][10] | [Question 15 - Nível 3][15] |  
+| Questões 1 - 5            | Questões 6 - 10             | Questões 11 - 15            | Questões 15 - 17            |
+|---------------------------|-----------------------------|-----------------------------|-----------------------------|
+| [Question 1 - Nível 1][1] | [Question 6 - Nível 2][6]   | [Question 11 - Nível 2][11] | [Question 16 - Nível 3][16] |  
+| [Question 2 - Nível 1][2] | [Question 7 - Nível 2][7]   | [Question 12 - Nível 2][12] | [Question 17 - Nível 3][17] |  
+| [Question 3 - Nível 1][3] | [Question 8 - Nível 2][8]   | [Question 13 - Nível 2][13] |                             |  
+| [Question 4 - Nível 2][4] | [Question 9 - Nível 2][9]   | [Question 14 - Nível 3][14] |                             |  
+| [Question 5 - Nível 2][5] | [Question 10 - Nível 2][10] | [Question 15 - Nível 3][15] |                             |  
                      
 ***
 
@@ -25,6 +25,8 @@
 [13]:#questão-13
 [14]:#questão-14
 [15]:#questão-15
+[16]:#questão-16
+[17]:#questão-17
 
 ***
 
@@ -99,7 +101,7 @@ O código acima, ao invés de calcular o total a cada iteração e somar ao tota
  	
 ***
 
-### Questão 3
+### Questão 4
 
 Seria possível renderizar uma tabela inteira com Javascript?
 
@@ -113,7 +115,7 @@ Seria possível renderizar uma tabela inteira com Javascript?
  	
 ***
 
-### Questão 4
+### Questão 5
 
 Qual o método responsável por inserir um HTML via Javascript?
 
@@ -130,7 +132,7 @@ Qual o método responsável por inserir um HTML via Javascript?
  	
 ***
 
-### Questão 5
+### Questão 6
 
 Qual o formato correto de declarar uma função Javascript COM parâmetro?
 
@@ -147,7 +149,7 @@ Qual o formato correto de declarar uma função Javascript COM parâmetro?
  	
 ***
 
-### Questão 6
+### Questão 7
 
 Analise os objetivos abaixo e assinale a alternativa tem o métodos que os solucionam. Siga a mesma ordem dos objetivos,
 
@@ -168,7 +170,7 @@ Analise os objetivos abaixo e assinale a alternativa tem o métodos que os soluc
  	
 ***
 
-### Questão 7
+### Questão 8
 
 Caso seja necessário transformar uma string em float, qual função deve ser utilizada?
 
@@ -185,7 +187,7 @@ Caso seja necessário transformar uma string em float, qual função deve ser ut
  	
 ***
 
-### Questão 8
+### Questão 9
 
 Qual função, do Javascript, adiciona um elemento à primeira posição de um array?
 
@@ -202,7 +204,7 @@ Qual função, do Javascript, adiciona um elemento à primeira posição de um a
  	
 ***
 
-### Questão 9
+### Questão 10
 
 Qual evento que é utilizado caso seja necessário chamar uma função ao clicar em um botão?
 
@@ -219,7 +221,7 @@ Qual evento que é utilizado caso seja necessário chamar uma função ao clicar
  	
 ***
 
-### Questão 10
+### Questão 11
 
 O que o método confirm faz?
 
@@ -236,7 +238,7 @@ O que o método confirm faz?
  	
 ***
 
-### Questão 10
+### Questão 12
 
 O que o método pop faz?
 
@@ -253,7 +255,7 @@ O que o método pop faz?
  	
 ***
 
-### Questão 11
+### Questão 13
 
 Analise o código abaixo:
 
@@ -283,7 +285,7 @@ Qual seria o resultado do código acima??
  	
 ***
 
-### Questão 12
+### Questão 14
 
 Quando se trata de uma aplicação web simples e não existe o banco de dados, qual recurso do navegador pode ser utilizado?
 
@@ -300,7 +302,7 @@ Quando se trata de uma aplicação web simples e não existe o banco de dados, q
  	
 ***
 
-### Questão 13
+### Questão 15
 
 Qual o método para acessar o Local Storage com o Javascript?
 
@@ -317,7 +319,7 @@ Qual o método para acessar o Local Storage com o Javascript?
  	
 ***
 
-### Questão 14
+### Questão 16
 
 Qual método para configurar um valor no Local Storage?
 
@@ -334,7 +336,7 @@ Qual método para configurar um valor no Local Storage?
  	
 ***
 
-### Questão 15
+### Questão 17
 
 Qual método para resgatar um valor no Local Storage?
 
